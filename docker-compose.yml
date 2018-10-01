@@ -1,0 +1,13 @@
+version: "3.3"
+
+services:
+  app:
+    build: .
+    environment:
+      - "INPUT=/input/"
+      - "OUTPUT=/output/"
+      - "GOOGLE_APPLICATION_CREDENTIALS=/config/My Project-e061bdcb8d77.json"
+    volumes:
+    - ./input/:/input/
+    - ./output/:/output/
+    - ./config/:/config/
