@@ -4,7 +4,7 @@ WORKDIR /go/src/github.com/DanShu93/cardsagainst
 
 COPY . .
 
-#RUN go get ./...
+RUN go get ./...
 RUN GOOS=linux GOARCH=amd64 CGO_ENABLED=0 go build -o /app app.go
 
 FROM alpine:3.8

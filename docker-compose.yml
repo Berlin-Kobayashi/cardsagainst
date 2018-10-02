@@ -6,6 +6,8 @@ services:
     environment:
       - "INPUT=/input/"
       - "OUTPUT=/output/"
+      - "LANG1=es"
+      - "LANG2=de"
       - "GOOGLE_APPLICATION_CREDENTIALS=/config/My Project-e061bdcb8d77.json"
     volumes:
     - ./input/:/input/
