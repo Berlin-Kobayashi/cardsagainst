@@ -1,0 +1,2194 @@
+[
+  {
+    "NumAnswers": 1,
+    "I": 459,
+    "O": "_?  There's an app for that.",
+    "L1": "_? Hay una aplicación para eso.",
+    "L2": "_? Dafür gibt es eine App.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 460,
+    "O": "Why can't I sleep at night?",
+    "L1": "¿Por qué no puedo dormir por la noche?",
+    "L2": "Warum kann ich nachts nicht schlafen?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 461,
+    "O": "What's that smell?",
+    "L1": "¿Qué es ese olor?",
+    "L2": "Was ist das für ein Geruch?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 462,
+    "O": "I got 99 problems but _ ain't one.",
+    "L1": "Tengo 99 problemas pero _ no es uno.",
+    "L2": "Ich habe 99 Probleme, aber _ ist nicht eins.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 463,
+    "O": "Maybe she's born with it.  Maybe it's _.",
+    "L1": "Tal vez ella ha nacido con eso. tal vez sea _.",
+    "L2": "Vielleicht ist sie damit geboren. Vielleicht ist es _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 464,
+    "O": "What's the next Happy Meal toy?",
+    "L1": "¿Cuál es el próximo juguete de la comida feliz?",
+    "L2": "Was ist das nächste glückliche Mahlzeit Spielzeug?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 465,
+    "O": "Anthropologists have recently discovered a primitive tribe that worships _.",
+    "L1": "Los antropólogos han descubierto recientemente una tribu primitiva que adora _.",
+    "L2": "Anthropologen haben kürzlich einen primitiven Stamm entdeckt, der anbetet.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 466,
+    "O": "It's a pity that kids these days are all getting involved with _.",
+    "L1": "Es una lástima que los niños en estos días estén todos involucrados con _.",
+    "L2": "Es ist schade, dass Kinder in diesen Tagen sind alle mit _ beteiligt.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 467,
+    "O": "During Picasso's often-overlooked Brown Period, he produced hundreds of paintings of _.",
+    "L1": "Durante el período marrón a menudo pasado por alto de picasso, produjo cientos de pinturas de _.",
+    "L2": "Während der oft übersehenen braunen Periode von Picasso produzierte er Hunderte von Gemälden von _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 468,
+    "O": "Alternative medicine is now embracing the curative powers of _.",
+    "L1": "La medicina alternativa ahora está abrazando los poderes curativos de _.",
+    "L2": "Alternative Medizin umfasst jetzt die heilenden Kräfte von _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 469,
+    "O": "And the Academy Award for _ goes to _.",
+    "L1": "Y el premio de la academia para _ va a _.",
+    "L2": "Und der Academy Award für _ geht an _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 470,
+    "O": "What's that sound?",
+    "L1": "¿qué es ese sonido?",
+    "L2": "Was ist das für ein Geräusch?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 471,
+    "O": "What ended my last relationship?",
+    "L1": "¿Qué terminó mi última relación?",
+    "L2": "Was hat meine letzte Beziehung beendet?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 472,
+    "O": "MTV's new reality show features eight washed-up celebrities living with _.",
+    "L1": "El nuevo reality show de mtv presenta a ocho celebridades lavadas que viven con _.",
+    "L2": "Die neue Reality-Show von mtv zeigt acht waschechte Prominente, die mit _ leben.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 473,
+    "O": "I drink to forget _.",
+    "L1": "Bebo para olvidar _.",
+    "L2": "Ich trinke, um zu vergessen _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 474,
+    "O": "I'm sorry professor, but I couldn't complete my homework because of _.",
+    "L1": "Lo siento profesor, pero no pude completar mi tarea debido a _.",
+    "L2": "Es tut mir leid Professor, aber ich konnte meine Hausaufgaben wegen _ nicht abschließen.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 475,
+    "O": "What is Batman's guilty pleasure?",
+    "L1": "¿Cuál es el placer culpable de Batman?",
+    "L2": "Was ist Batmans schuldiges Vergnügen?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 476,
+    "O": "This is the way the world ends \u003cbr\u003e This is the way the world ends \u003cbr\u003e Not with a bang but with _.",
+    "L1": "Esta es la forma en que el mundo termina, esta es la forma en que el mundo termina, no con una explosión sino con _.",
+    "L2": "So endet die Welt - das ist der Weg, wie die Welt endet - nicht mit einem Knall, sondern mit _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 477,
+    "O": "What's a girl's best friend?",
+    "L1": "¿Cuál es el mejor amigo de una chica?",
+    "L2": "Was ist der beste Freund eines Mädchens?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 478,
+    "O": "TSA guidelines now prohibit _ on airplanes.",
+    "L1": "Las pautas tsa ahora prohíben _ en los aviones.",
+    "L2": "Tsa Richtlinien verbieten jetzt _ auf Flugzeugen.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 479,
+    "O": "_.  That's how I want to die.",
+    "L1": "_. Así es como quiero morir.",
+    "L2": "_. so will ich sterben.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 480,
+    "O": "For my next trick, I will pull _ out of _.",
+    "L1": "Para mi próximo truco, sacaré a _ de _.",
+    "L2": "Für meinen nächsten Trick werde ich _ aus _ herausziehen.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 481,
+    "O": "In the new Disney Channel Original Movie, Hannah Montana struggles with _ for the first time.",
+    "L1": "En la nueva película original de Disney Channel, Hannah Montana lucha con _ por primera vez.",
+    "L2": "In dem neuen originalfilm von disney channel kämpft hannah montana zum ersten mal mit _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 482,
+    "O": "_ is a slippery slope that leads to _.",
+    "L1": "_ es una pendiente resbaladiza que conduce a _.",
+    "L2": "_ ist ein rutschiger Abhang, der zu _ führt.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 483,
+    "O": "What does Dick Cheney prefer?",
+    "L1": "¿Qué prefiere Dick Dickey?",
+    "L2": "Was bevorzugt Dick Cheney?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 484,
+    "O": "Dear Abby, I'm having some trouble with _ and would like your advice.",
+    "L1": "Querida Abby, estoy teniendo algunos problemas con _ y quisiera tu consejo.",
+    "L2": "Lieber Abby, ich habe Probleme mit _ und möchte deinen Ratschlag.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 485,
+    "O": "Instead of coal, Santa now gives the bad children _.",
+    "L1": "En lugar de carbón, santa ahora da a los niños malos _.",
+    "L2": "Statt Kohle gibt der Weihnachtsmann jetzt den bösen Kindern _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 486,
+    "O": "What's the most emo?",
+    "L1": "Que es lo mas emo",
+    "L2": "Was ist das emo?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 487,
+    "O": "In 1,000 years when paper money is but a distant memory, _ will be our currency.",
+    "L1": "En 1,000 años, cuando el papel moneda no sea más que un recuerdo lejano, _ será nuestra moneda.",
+    "L2": "In 1000 Jahren, wenn das Papiergeld nur eine ferne Erinnerung ist, wird es unsere Währung sein.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 488,
+    "O": "What's the next superhero/sidekick duo?",
+    "L1": "¿Cuál es el próximo dúo de superhéroes / compañeros?",
+    "L2": "Was ist das nächste Superhelden- / Sidekick-Duo?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 489,
+    "O": "In M. Night Shyamalan's new movie, Bruce Willis discovers that _ had really been _ all along.",
+    "L1": "En m. La nueva película de la noche de shyamalan, Bruce Willis descubre que _ realmente había sido _ todo el tiempo.",
+    "L2": "In m. Der neue Film von Night Shyamalan, Bruce Willis, entdeckt, dass _ _ _ _ _ wirklich _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 490,
+    "O": "A romantic, candlelit dinner would be incomplete without _.",
+    "L1": "Una cena romántica a la luz de las velas estaría incompleta sin _.",
+    "L2": "Ein romantisches Candlelight-Dinner wäre ohne _ unvollständig.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 491,
+    "O": "_.  Becha can't have just one!",
+    "L1": "_. becha no puede tener solo uno!",
+    "L2": "_. Becha kann nicht nur einen haben!",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 492,
+    "O": "White people like _.",
+    "L1": "A los blancos les gusta _.",
+    "L2": "Weiße Leute wie _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 493,
+    "O": "_.  High five, bro.",
+    "L1": "_. alta cinco, hermano.",
+    "L2": "_. fünf, bro.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 494,
+    "O": "Next from J.K. Rowling: Harry Potter and the Chamber of _.",
+    "L1": "Al lado de j.k. Rowling: harry potter y la cámara de _.",
+    "L2": "Weiter von j.k. rowling: Harry Potter und die Kammer von _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 495,
+    "O": "BILLY MAYS HERE FOR _.",
+    "L1": "Billy Mays aquí por _.",
+    "L2": "Billy Mays hier für _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 496,
+    "O": "In a world ravaged by _, our only solace is _.",
+    "L1": "En un mundo devastado por _, nuestro único consuelo es _.",
+    "L2": "In einer Welt, die von _ verwüstet ist, ist unser einziger Trost _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 497,
+    "O": "War!  What is it good for?",
+    "L1": "¡guerra! ¿Para que sirve?",
+    "L2": "Krieg! wozu ist es gut?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 498,
+    "O": "During sex, I like to think about _.",
+    "L1": "Durante el sexo, me gusta pensar en _.",
+    "L2": "Beim Sex denke ich gerne an _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 499,
+    "O": "What are my parents hiding from me?",
+    "L1": "¿Qué me esconden mis padres?",
+    "L2": "Was verbergen meine Eltern vor mir?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 500,
+    "O": "What will always get you laid?",
+    "L1": "¿Qué te va a echar siempre?",
+    "L2": "Was wird dich immer fertig machen?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 501,
+    "O": "In L.A. County Jail, word is you can trade 200 cigarettes for _.",
+    "L1": "En los angeles. condado de la cárcel, la palabra es que puede intercambiar 200 cigarrillos por _.",
+    "L2": "In l.a. Grafschaftgefängnis, Wort ist, dass Sie 200 Zigaretten für _ handeln können.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 502,
+    "O": "What did I bring back from Mexico?",
+    "L1": "Que traigo de mexico",
+    "L2": "Was habe ich aus mexiko mitgebracht?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 503,
+    "O": "What don't you want to find in your Chinese food?",
+    "L1": "¿Qué no quieres encontrar en tu comida china?",
+    "L2": "Was möchtest du nicht in deinem chinesischen Essen finden?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 504,
+    "O": "What will I bring back in time to convince people that I am a powerful wizard?",
+    "L1": "¿Qué devolveré a tiempo para convencer a la gente de que soy un mago poderoso?",
+    "L2": "Was werde ich in der Zeit zurückbringen, um die Leute davon zu überzeugen, dass ich ein mächtiger Zauberer bin?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 505,
+    "O": "How am I maintaining my relationship status?",
+    "L1": "¿Cómo estoy manteniendo mi estado de relación?",
+    "L2": "Wie behalte ich meinen Beziehungsstatus?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 506,
+    "O": "_.  It's a trap!",
+    "L1": "_. ¡es una trampa!",
+    "L2": "_. Es ist eine Falle!",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 507,
+    "O": "Coming to Broadway this season, _: The Musical.",
+    "L1": "Llegando a Broadway esta temporada, _: el musical.",
+    "L2": "In dieser Saison nach Broadway kommen, _: das Musical.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 508,
+    "O": "While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on _.",
+    "L1": "Mientras que los estados unidos llevaron la unión soviética a la luna, el gobierno mexicano canalizó millones de pesos en investigación sobre _.",
+    "L2": "Während die vereinigten staaten die sowjetunion mit dem mond ritten, schleuderte die mexikanische regierung millionen von pesos in forschung über _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 509,
+    "O": "After the earthquake, Sean Penn brought _ to the people of Haiti.",
+    "L1": "Después del terremoto, Sean Penn trajo a la gente de Haití.",
+    "L2": "Nach dem erdbeben brachte sean penn _ zu den menschen von haiti.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 510,
+    "O": "Next on ESPN2, the World Series of _.",
+    "L1": "A continuación en espn2, la serie mundial de _.",
+    "L2": "Als nächstes auf espn2, die World Series of _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 511,
+    "O": "Step 1: _.  Step 2: _.  Step 3: Profit.",
+    "L1": "Paso 1: _. paso 2: _. Paso 3: Beneficio.",
+    "L2": "Schritt 1: _. Schritt 2: _. Schritt 3: Profit.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 512,
+    "O": "Rumor has it that Vladimir Putin's favorite dish is _ stuffed with _.",
+    "L1": "Se rumorea que el plato favorito de vladimir putin está _ relleno de _.",
+    "L2": "Gerüchten zufolge ist das Lieblingsgericht von Vladimir Putin _ mit _ gefüllt.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 513,
+    "O": "But before I kill you, Mr. Bond, I must show you _.",
+    "L1": "Pero antes de que te mate, mr. bond, debo mostrarte _.",
+    "L2": "Aber bevor ich dich töte, Herr. Bindung, ich muss dir zeigen _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 514,
+    "O": "What gives me uncontrollable gas?",
+    "L1": "¿Qué me da el gas incontrolable?",
+    "L2": "Was gibt mir unkontrollierbares Gas?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 515,
+    "O": "What do old people smell like?",
+    "L1": "¿A qué huele la gente vieja?",
+    "L2": "Wie riechen alte Menschen?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 516,
+    "O": "The class field trip was completely ruined by _.",
+    "L1": "El viaje de clase fue completamente arruinado por _.",
+    "L2": "Die Klassenfahrt wurde komplett durch _ zerstört.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 517,
+    "O": "When Pharaoh remained unmoved, Moses called down a Plague of _.",
+    "L1": "Cuando el faraón no se conmovió, Moses llamó a una plaga de _.",
+    "L2": "Als der Pharao unbewegt blieb, rief Moses eine Plage von.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 518,
+    "O": "What's my secret power?",
+    "L1": "Cual es mi poder secreto",
+    "L2": "Was ist meine geheime Macht?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 519,
+    "O": "What's there a ton of in heaven?",
+    "L1": "¿Qué hay una tonelada en el cielo?",
+    "L2": "Was gibt es eine Menge im Himmel?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 520,
+    "O": "What would grandma find disturbing, yet oddly charming?",
+    "L1": "¿Qué le parecería perturbadora a la abuela, aunque extrañamente encantadora?",
+    "L2": "Was würde Oma störend finden, aber seltsam charmant?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 521,
+    "O": "I never truly understood _ until I encountered _.",
+    "L1": "Nunca entendí realmente _ hasta que me encontré con _.",
+    "L2": "Ich habe nie wirklich verstanden _ bis ich _ begegnete.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 522,
+    "O": "What did the U.S. airdrop to the children of Afghanistan?",
+    "L1": "Que hicieron los u.s. ¿Airdrop a los niños de afganistán?",
+    "L2": "Was hat die u.s. Abwurf zu den Kindern von Afghanistan?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 523,
+    "O": "What helps Obama unwind?",
+    "L1": "¿Qué ayuda a obama a relajarse?",
+    "L2": "Was hilft Obama beim Entspannen?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 524,
+    "O": "What did Vin Diesel eat for dinner?",
+    "L1": "¿Qué comió vin diesel diesel para la cena?",
+    "L2": "Was hat Vin Diesel zum Abendessen gegessen?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 525,
+    "O": "_: good to the last drop.",
+    "L1": "_: bueno hasta la ultima gota.",
+    "L2": "_: gut bis zum letzten Tropfen.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 526,
+    "O": "Why am I sticky?",
+    "L1": "Porque estoy pegajoso",
+    "L2": "Warum bin ich klebrig?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 527,
+    "O": "What gets better with age?",
+    "L1": "¿Qué mejora con la edad?",
+    "L2": "Was wird mit dem Alter besser?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 528,
+    "O": "_: kid-tested, mother-approved.",
+    "L1": "_: probado para niños, aprobado por la madre.",
+    "L2": "_: vom Kind getestet, von der Mutter genehmigt.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 529,
+    "O": "What's the crustiest?",
+    "L1": "Que es lo mas crust?",
+    "L2": "Was ist das Krustigste?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 530,
+    "O": "What's Teach for America using to inspire inner city students to succeed?",
+    "L1": "¿Qué es el uso de Teach for America para inspirar a los estudiantes del interior de la ciudad a tener éxito?",
+    "L2": "Was lehrt Amerika, um die Studenten der Innenstadt zum Erfolg zu inspirieren?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 531,
+    "O": "Studies show that lab rats navigate mazes 50% faster after being exposed to _.",
+    "L1": "Los estudios muestran que las ratas de laboratorio navegan por laberintos 50% más rápido después de haber estado expuestas a _.",
+    "L2": "Studien zeigen, dass Laborratten Labore 50% schneller navigieren, nachdem sie _ ausgesetzt waren.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 532,
+    "O": "Life for American Indians was forever changed when the White Man introduced them to _.",
+    "L1": "La vida de los indios americanos cambió para siempre cuando el hombre blanco les presentó a _.",
+    "L2": "Leben für Indianer wurde für immer geändert, als der weiße Mann sie in _ einführte.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 3,
+    "I": 533,
+    "O": "Make a haiku.",
+    "L1": "Hacer un haiku.",
+    "L2": "Mach ein Haiku.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 534,
+    "O": "I do not know with what weapons World War III will be fought, but World War IV will be fought with _.",
+    "L1": "No sé con qué armas se peleará la guerra mundial, pero la guerra mundial se peleará con _.",
+    "L2": "Ich weiß nicht, mit welchen Waffen der Weltkrieg III gekämpft wird, aber der Weltkrieg IV wird bekämpft werden.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 535,
+    "O": "Why do I hurt all over?",
+    "L1": "¿Por qué me duele todo?",
+    "L2": "Warum verletze ich alles?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 536,
+    "O": "What am I giving up for Lent?",
+    "L1": "¿A qué estoy renunciando por prestado?",
+    "L2": "Was gebe ich für eine Leihgabe auf?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 537,
+    "O": "In Michael Jackson's final moments, he thought about _.",
+    "L1": "En los últimos momentos de Michael Jackson, pensó en _.",
+    "L2": "In Michael Jacksons letzten Augenblicken dachte er an _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 538,
+    "O": "In an attempt to reach a wider audience, the Smithsonian Museum of Natural History has opened an interactive exhibit on _.",
+    "L1": "En un intento por llegar a un público más amplio, el museo herrería de historia natural ha abierto una exposición interactiva en _.",
+    "L2": "Um ein breiteres Publikum zu erreichen, hat das Smithsonian Museum of Natural History eine interaktive Ausstellung über _ eröffnet.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 539,
+    "O": "When I am President of the United States, I will create the Department of _.",
+    "L1": "Cuando sea presidente de los Estados Unidos, crearé el departamento de _.",
+    "L2": "Wenn ich Präsident der Vereinigten Staaten bin, werde ich die Abteilung von _ schaffen.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 540,
+    "O": "Lifetime presents _, the story of _.",
+    "L1": "Presenta la vida _, la historia de _.",
+    "L2": "Lebenszeit präsentiert _, ​​die Geschichte von _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 541,
+    "O": "When I am a billionaire, I shall erect a 50-foot statue to commemorate _.",
+    "L1": "Cuando sea multimillonario, erigiré una estatua de 50 pies para conmemorar a _.",
+    "L2": "Wenn ich ein Milliardär bin, werde ich eine 50-Fuß-Statue errichten, um _ zu gedenken.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 542,
+    "O": "When I was tripping on acid, _ turned into _.",
+    "L1": "Cuando me estaba tropezando con ácido, _ se convirtió en _.",
+    "L2": "Wenn ich auf Säure stolperte, _ verwandelte sich in _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 543,
+    "O": "That's right, I killed _.  How, you ask?  _.",
+    "L1": "Así es, yo maté a _. como te preguntas _.",
+    "L2": "Das ist richtig, ich habe getötet. wie, fragst du? _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 544,
+    "O": "What's my anti-drug?",
+    "L1": "¿Cuál es mi antidroga?",
+    "L2": "Was ist meine Anti-Droge?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 3,
+    "I": 545,
+    "O": "_ + _ = _.",
+    "L1": "_ + _ = _.",
+    "L2": "_ + _ = _.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 546,
+    "O": "What never fails to liven up the party?",
+    "L1": "¿Qué es lo que nunca deja de amenizar la fiesta?",
+    "L2": "Was versäumt es nie, die Party zu beleben?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 547,
+    "O": "What's the new fad diet?",
+    "L1": "¿Cuál es la nueva dieta de moda?",
+    "L2": "Was ist die neue Modediät?",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 548,
+    "O": "Major League Baseball has banned _ for giving players an unfair advantage.",
+    "L1": "El béisbol de las grandes ligas ha prohibido _ por dar a los jugadores una ventaja injusta.",
+    "L2": "Major League Baseball hat _ für Spieler einen unfairen Vorteil verboten.",
+    "Exp": "Base"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 629,
+    "O": "My plan for world domination begins with _.",
+    "L1": "Mi plan para dominar el mundo comienza con _.",
+    "L2": "Mein Plan für die Weltherrschaft beginnt mit _.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 630,
+    "O": "The CIA now interrogates enemy agents by repeatedly subjecting them to _.",
+    "L1": "La cia ahora interroga a los agentes enemigos sometiéndolos repetidamente a _.",
+    "L2": "Die cia befragt nun feindliche Agenten, indem sie sie wiederholt _ unterwirft.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 631,
+    "O": "Dear Sir or Madam, We regret to inform you that the Office of _ has denied your request for _",
+    "L1": "Estimado señor o señora, lamentamos informarle que la oficina de _ ha rechazado su solicitud de _",
+    "L2": "Sehr geehrte Damen und Herren, wir bedauern, Ihnen mitteilen zu müssen, dass das Büro _ Ihre Anfrage abgelehnt hat.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 632,
+    "O": "In Rome, there are whisperings that the Vatican has a secret room devoted to _.",
+    "L1": "En Roma, hay murmullos de que el Vaticano tiene una habitación secreta dedicada a _.",
+    "L2": "In Rom gibt es Einflüsterungen, dass der Vatikan einen geheimen Raum gewidmet _ hat.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 633,
+    "O": "Science will never explain _.",
+    "L1": "La ciencia nunca explicará _.",
+    "L2": "Die Wissenschaft wird niemals erklären.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 634,
+    "O": "When all else fails, I can always masturbate to _.",
+    "L1": "Cuando todo lo demás falla, siempre puedo masturbarme con _.",
+    "L2": "Wenn alles andere fehlschlägt, kann ich immer zu _ masturbieren.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 635,
+    "O": "I learned the hard way that you can't cheer up a grieving friend with _.",
+    "L1": "Aprendí de la manera difícil que no puedes animar a un amigo en duelo con _.",
+    "L2": "Ich habe auf die harte Art gelernt, dass man einen trauernden Freund mit _ nicht aufheitern kann.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 636,
+    "O": "In its new tourism campaign, Detroit proudly proclaims that it has finally eliminated _.",
+    "L1": "En su nueva campaña de turismo, Detroit proclama con orgullo que finalmente ha eliminado _.",
+    "L2": "In seiner neuen tourismuskampagne proklamiert detroit stolz, dass es endlich beseitigt ist.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 637,
+    "O": "An international tribunal has found _ guilty of _.",
+    "L1": "Un tribunal internacional ha declarado a _ culpable de _.",
+    "L2": "Ein internationales Gericht hat _ für schuldig befunden.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 638,
+    "O": "The socialist governments of Scandinavia have declared that access to _ is a basic human right.",
+    "L1": "Los gobiernos socialistas de Escandinavia han declarado que el acceso a _ es un derecho humano básico.",
+    "L2": "Die sozialistischen Regierungen von Skandinavien haben erklärt, dass der Zugang zu einem grundlegenden Menschenrecht ist.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 639,
+    "O": "In his new self-produced album, Kanye West raps over the sounds of _.",
+    "L1": "En su nuevo álbum de producción propia, Kanye West raps sobre los sonidos de _.",
+    "L2": "In seinem neuen selbstproduzierten album rappt kanye west über die geräusche von _.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 640,
+    "O": "What's the gift that keeps on giving?",
+    "L1": "¿Cuál es el regalo que sigue dando?",
+    "L2": "Was ist das Geschenk, das weitergibt?",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 641,
+    "O": "Next season on Man vs. Wild, Bear Grylls must survive in the depths of the Amazon with only _ and his wits.",
+    "L1": "La próxima temporada en hombre contra salvaje, oso grylls debe sobrevivir en las profundidades de la amazona con solo _ y su ingenio.",
+    "L2": "Nächste Saison auf Mann gegen wild, müssen Bär Grylls in den Tiefen der Amazonas nur mit _ und seinem Verstand überleben.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 642,
+    "O": "When I pooped, what came out of my butt?",
+    "L1": "Cuando me cagué, ¿qué salió de mi trasero?",
+    "L2": "Als ich kackte, was kam aus meinem Hintern?",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 643,
+    "O": "In the distant future, historians will agree that _ marked the beginning of America's decline.",
+    "L1": "En el futuro lejano, los historiadores estarán de acuerdo en que marcó el comienzo del declive de América.",
+    "L2": "In der fernen Zukunft werden Historiker zustimmen, dass dies der Beginn des Niedergangs Amerikas war.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 644,
+    "O": "In a pinch, _ can be a suitable substitute for _.",
+    "L1": "En caso de necesidad, _ puede ser un sustituto adecuado para _.",
+    "L2": "Zur Not kann _ ein geeigneter Ersatz für _ sein.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 645,
+    "O": "What has been making life difficult at the nudist colony?",
+    "L1": "¿Qué ha estado haciendo la vida más difícil en la colonia nudista?",
+    "L2": "Was hat das Leben in der FKK-Kolonie erschwert?",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 646,
+    "O": "Michael Bay's new three-hour action epic pits _ against _.",
+    "L1": "Los nuevos pozos épicos de acción de michael bay de tres horas _ contra _.",
+    "L2": "Michael Bay's neues dreistündiges Action-Epos pittet _ gegen _.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 647,
+    "O": "And I would have gotten away with it, too, if it hadn't been for _.",
+    "L1": "Y yo también me hubiera salido con la suya si no hubiera sido por _.",
+    "L2": "Und ich wäre auch damit durchgekommen, wenn es nicht gewesen wäre.",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 648,
+    "O": "What brought the orgy to a grinding halt?",
+    "L1": "¿Qué detuvo la orgía?",
+    "L2": "Was hat die Orgie zum Erliegen gebracht?",
+    "Exp": "CAHe1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 724,
+    "O": "During his midlife crisis, my dad got really into _.",
+    "L1": "Durante su crisis de la mediana edad, mi papá se metió realmente en _.",
+    "L2": "Während seiner Midlife-Crisis, mein Vater ist wirklich in _.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 725,
+    "O": "_ would be woefully incomplete without _.",
+    "L1": "Sería lamentablemente incompleto sin _.",
+    "L2": "_ wäre ohne unvollständig unvollständig.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 726,
+    "O": "My new favorite porn star is Joey _ McGee.",
+    "L1": "Mi nueva estrella porno favorita es joey _ mcgee.",
+    "L2": "Mein neuer lieblings Pornostar ist joey _ mcgee.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 727,
+    "O": "Before I run for president, I must destroy all evidence of my involvement with _.",
+    "L1": "Antes de postularme a la presidencia, debo destruir toda evidencia de mi participación con _.",
+    "L2": "Bevor ich für den Präsidenten kandidiere, muss ich alle Beweise meiner Beteiligung mit _ zerstören.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 728,
+    "O": "This is your captain speaking. Fasten your seatbelts and prepare for _.",
+    "L1": "Les habla su capitan. abróchate los cinturones de seguridad y prepárate para _.",
+    "L2": "Das ist dein Kapitän, der spricht. Schnallen Sie sich an und bereiten Sie sich auf _ vor.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 729,
+    "O": "In his newest and most difficult stunt, David Blaine must escape from _.",
+    "L1": "En su truco más nuevo y difícil, David Blaine debe escapar de _.",
+    "L2": "In seinem neuesten und schwierigsten Stunt muss David Blaine aus _ entkommen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 730,
+    "O": "The Five Stages of Grief: denial, anger, bargaining, _, and acceptance.",
+    "L1": "Las cinco etapas del dolor: negación, enojo, negociación, y aceptación.",
+    "L2": "Die fünf Stufen der Trauer: Verleugnung, Wut, Verhandeln, und Akzeptanz.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 731,
+    "O": "My mom freaked out when she looked at my browser history and found _.com/_.",
+    "L1": "Mi madre se asustó cuando miró el historial de mi navegador y encontró _.com/_.",
+    "L2": "Meine Mutter flippte aus, als sie meine Browser-Historie anschaute und _.com/_ fand.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 3,
+    "I": 732,
+    "O": "I went from _ to _, all thanks to _.",
+    "L1": "Pasé de _ a _, todo gracias a _.",
+    "L2": "Ich ging von _ nach _, alles dank _.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 733,
+    "O": "Members of New York's social elite are paying thousands of dollars just to experience _.",
+    "L1": "Los miembros de la élite social de Nueva York están pagando miles de dólares solo por la experiencia _.",
+    "L2": "Mitglieder der sozialen Elite New Yorks zahlen Tausende von Dollar, nur um zu erleben _.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 734,
+    "O": "This month's Cosmo: Spice up your sex life by bringing _ into the bedroom.",
+    "L1": "El cosmo de este mes: condimenta tu vida sexual trayendo a _ al dormitorio.",
+    "L2": "Cosmo dieses Monats: peppe dein Sexleben auf, indem du _ ins Schlafzimmer bringst.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 735,
+    "O": "Little Miss Muffet Sat on a tuffet, Eating her curds and _.",
+    "L1": "La pequeña señorita Muffet se sentó en un tuffet, comiendo sus cuajadas y _.",
+    "L2": "Kleine Fräulein Muffet saß auf einem Tuffe und aß ihren Quark und _.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 736,
+    "O": "If God didn't want us to enjoy _, he wouldn't have given us _.",
+    "L1": "Si Dios no quisiera que disfrutáramos, él no nos habría dado.",
+    "L2": "Wenn Gott nicht wollte, dass wir uns erfreuen, hätte er uns nicht gegeben.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 737,
+    "O": "My country, 'tis of thee, sweet land of _.",
+    "L1": "Mi país, tis de ti, dulce tierra de _.",
+    "L2": "Mein Land, 'von dir, süßes Land von _.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 738,
+    "O": "After months of debate, the Occupy Wall Street General Assembly could only agree on More _!",
+    "L1": "Después de meses de debate, la asamblea general de Wall Street ocupó solo podría acordar más _!",
+    "L2": "Nach monatelangen Debatten konnte sich die Hauptversammlung der Occupy Wall Street nur mehr einigen!",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 739,
+    "O": "I spent my whole life working toward _, only to have it ruined by _.",
+    "L1": "Pasé toda mi vida trabajando para _, solo para arruinarla _.",
+    "L2": "Ich habe mein ganzes Leben auf _ gearbeitet, nur um es durch _ ruiniert zu haben.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 740,
+    "O": "Next time on Dr. Phil: How to talk to your child about _.",
+    "L1": "La próxima vez en el dr. phil: cómo hablar con su hijo sobre _.",
+    "L2": "Das nächste Mal auf dr. phil: wie man mit seinem Kind über _ spricht.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 741,
+    "O": "Only two things in life are certain: death and _.",
+    "L1": "Sólo dos cosas en la vida son ciertas: la muerte y _.",
+    "L2": "Nur zwei Dinge im Leben sind sicher: Tod und _.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 742,
+    "O": "Everyone down on the ground! We don't want to hurt anyone. We're just here for _.",
+    "L1": "¡Todos abajo en el suelo! No queremos lastimar a nadie. solo estamos aquí para _.",
+    "L2": "Alle unten auf dem Boden! Wir wollen niemanden verletzen. wir sind nur hier für _.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 743,
+    "O": "The healing process began when I joined a support group for victims of _.",
+    "L1": "El proceso de curación comenzó cuando me uní a un grupo de apoyo para víctimas de _.",
+    "L2": "Der Heilungsprozess begann, als ich einer Unterstützungsgruppe für Opfer von _ beitrat.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 744,
+    "O": "The votes are in, and the new high school mascot is _.",
+    "L1": "Los votos están en, y la nueva mascota de la escuela secundaria es _.",
+    "L2": "Die Stimmen sind in, und das neue High-School-Maskottchen ist _.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 745,
+    "O": "Charades was ruined for me forever when my mom had to act out _.",
+    "L1": "Las charadas se arruinaron para mí para siempre cuando mi madre tuvo que actuar _.",
+    "L2": "Scharaden war für immer ruiniert, als meine Mutter spielen musste.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 746,
+    "O": "Before _, all we had was _.",
+    "L1": "Antes _, todo lo que teníamos era _.",
+    "L2": "Vor _, alles, was wir hatten, war _.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 747,
+    "O": "Tonight on 20/20: What you don't know about _ could kill you.",
+    "L1": "Esta noche, el 20/20: lo que no sabes _ podría matarte.",
+    "L2": "Heute Abend am 20/20: was du nicht kennst _ könnte dich töten.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 748,
+    "O": "You haven't truly lived until you've experienced _ and _ at the same time.",
+    "L1": "No has vivido realmente hasta que hayas experimentado _ y _ al mismo tiempo.",
+    "L2": "Du hast nicht wirklich gelebt, bis du _ und _ gleichzeitig erlebt hast.",
+    "Exp": "CAHe2"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 749,
+    "O": "D and D 4.0 isn't real D and D because of the _.",
+    "L1": "D y d 4.0 no es real d y d debido a la _.",
+    "L2": "D und d 4.0 ist nicht real d und d wegen der _.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 750,
+    "O": "It's a D and D retroclone with _ added.",
+    "L1": "Es un retroclone de d y d con _ agregado.",
+    "L2": "Es ist ein d und d retroclone mit _ hinzugefügt.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 751,
+    "O": "Storygames aren't RPGs because of the _.",
+    "L1": "Los juegos de historia no son juegos de rol debido a la _.",
+    "L2": "Storygames sind keine RPGs wegen der _.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 752,
+    "O": "The Slayer's Guide to _.",
+    "L1": "La guía del asesino a _.",
+    "L2": "Der Leitfaden des Mörders zu _.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 753,
+    "O": "Worst character concept ever: _, but with _.",
+    "L1": "El peor concepto de personaje: _, pero con _.",
+    "L2": "Schlechtestes Charakterkonzept aller Zeiten: _, aber mit _.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 754,
+    "O": "Alightment: Chaotic _",
+    "L1": "Alightment: caótico _",
+    "L2": "Alightment: chaotisch _",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 755,
+    "O": "It's a D and D retroclone with _ added.",
+    "L1": "Es un retroclone de d y d con _ agregado.",
+    "L2": "Es ist ein d und d retroclone mit _ hinzugefügt.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 756,
+    "O": "What made the paladin fall? _",
+    "L1": "¿Qué hizo caer al paladín? _",
+    "L2": "Was hat den Paladin fallen lassen? _",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 757,
+    "O": "The portal leads to the quasi-elemental plane of _.",
+    "L1": "El portal conduce al plano cuasi-elemental de _.",
+    "L2": "Das Portal führt zur quasi-elementaren Ebene von _.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 758,
+    "O": "The Temple of Elemental _.",
+    "L1": "El templo de los elementales.",
+    "L2": "Der Tempel des elementaren _.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 759,
+    "O": "Pathfinder is basically D and D _ Edition.",
+    "L1": "Pathfinder es básicamente d y d _ edición.",
+    "L2": "Pfadfinder ist grundsätzlich d und d _ edition.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 760,
+    "O": "_ : The Storytelling Game.",
+    "L1": "_: el juego de contar cuentos.",
+    "L2": "_: das Storytelling-Spiel.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 761,
+    "O": "People are wondering why Steve Jackson published GURPS _.",
+    "L1": "La gente se pregunta por qué steve jackson publicó gurps _.",
+    "L2": "Leute fragen sich, warum Steve Jackson veröffentlicht Gurps _.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 762,
+    "O": "Linear Fighter, Quadratic _.",
+    "L1": "Luchador lineal, cuadrático.",
+    "L2": "Linearer Kämpfer, quadratisch _.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 763,
+    "O": "You start with 1d4 _ points.",
+    "L1": "Empiezas con 1d4 _ puntos.",
+    "L2": "Du beginnst mit 1d4 _ Punkten.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 764,
+    "O": "Back when I was 12 and I was just starting playing D and D, the game had _.",
+    "L1": "Cuando tenía 12 años y estaba empezando a jugar d y d, el juego tenía _.",
+    "L2": "Zurück, als ich 12 war und ich gerade angefangen habe, d und d zu spielen, hatte das Spiel _.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 765,
+    "O": "Big Eyes, Small _.",
+    "L1": "Ojos grandes, pequeños _.",
+    "L2": "Große Augen, kleine _.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 766,
+    "O": "In the grim darkness of the future there is only _.",
+    "L1": "En la sombría oscuridad del futuro solo hay _.",
+    "L2": "In der grimmigen Dunkelheit der Zukunft gibt es nur _.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 767,
+    "O": "My innovative new RPG has a stat for _.",
+    "L1": "Mi nuevo juego de rol innovador tiene una estadística para _.",
+    "L2": "Mein innovatives neues RPG hat eine Statistik für _.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 768,
+    "O": "A true gamer has no problem with _.",
+    "L1": "Un verdadero jugador no tiene ningún problema con _.",
+    "L2": "Ein echter Spieler hat kein Problem mit _.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 769,
+    "O": "Elminster cast a potent _ spell and then had sex with _.",
+    "L1": "Elminster lanzó un potente hechizo y luego tuvo relaciones sexuales con _.",
+    "L2": "Elminster hat einen starken Zauberspruch gesprochen und dann Sex mit ihm gehabt.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 770,
+    "O": "The Deck of Many _.",
+    "L1": "La cubierta de muchos _.",
+    "L2": "Das Deck von vielen.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 771,
+    "O": "You are all at a tavern when _ approach you.",
+    "L1": "Todos ustedes están en una taberna cuando _ se acercan a usted.",
+    "L2": "Sie sind alle in einer Taverne, wenn Sie sich nähern.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 858,
+    "O": "For the convention I cosplayed as Sailor Moon, except with _.",
+    "L1": "Para la convención cosplayé como marinero luna, excepto con _.",
+    "L2": "Für die Konvention cosplayte ich als Seemann, außer mit _.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 859,
+    "O": "The worst part of Grave of the Fireflies is all the _.",
+    "L1": "La peor parte de la tumba de las luciérnagas es toda la _.",
+    "L2": "Der schlimmste Teil des Grabes der Glühwürmchen ist das ganze.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 860,
+    "O": "In the Evangelion remake, Shinji has to deal with _.",
+    "L1": "En el remake de evangelion, shinji tiene que lidiar con _.",
+    "L2": "Im Missions-Remake muss sich Shinji mit _ auseinandersetzen.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 861,
+    "O": "Worst anime convention purchase ever? _.",
+    "L1": "¿La peor compra de convenciones de anime? _.",
+    "L2": "Schlimmster Anime Convention Kauf jemals? _.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 862,
+    "O": "While powering up Vegeta screamed, _!",
+    "L1": "Mientras encendía vegeta gritó, _!",
+    "L2": "Beim Einschalten schrie Vegeta, _!",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 863,
+    "O": "You evaded my _ attack. Most impressive.",
+    "L1": "Evadiste mi _ ataque más impresionante.",
+    "L2": "Du bist meinem Angriff ausgewichen. am beeindruckendsten.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 864,
+    "O": "I downloaded a doujin where _ got into _.",
+    "L1": "Descargué un doujin donde _ entré en _.",
+    "L2": "Ich habe einen Doujin heruntergeladen, wo _ in _ gekommen ist.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 865,
+    "O": "The magical girl found out that the Power of Love is useless against _.",
+    "L1": "La niña mágica descubrió que el poder del amor es inútil contra _.",
+    "L2": "Das magische Mädchen hat herausgefunden, dass die Macht der Liebe gegen _ nutzlos ist.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 866,
+    "O": "The Japanese government has spent billions of yen researching _.",
+    "L1": "El gobierno japonés ha gastado miles de millones de yenes investigando.",
+    "L2": "Die japanische Regierung hat Milliarden von Yen erforscht _.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 867,
+    "O": "In the dubbed version they changed _ into _.",
+    "L1": "En la versión doblada cambiaron a _.",
+    "L2": "In der synchronisierten Version haben sie sich in _ verwandelt.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 868,
+    "O": "_ is Best Pony.",
+    "L1": "_ es el mejor pony.",
+    "L2": "_ ist das beste Pony.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 869,
+    "O": "The _ of Haruhi Suzumiya.",
+    "L1": "El _ de haruhi suzumiya.",
+    "L2": "Das _ von haruhi suzumiya.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 870,
+    "O": "The new thing in Akihabara is fetish cafes where you can see girls dressed up as _.",
+    "L1": "Lo nuevo en akihabara son los cafés fetichistas donde puedes ver chicas disfrazadas de _.",
+    "L2": "Das neue Ding in Akihabara ist Fetisch Cafes, wo man Mädchen als _ verkleidet sehen kann.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 871,
+    "O": "Your drill can pierce _!",
+    "L1": "Tu taladro puede perforar _!",
+    "L2": "Ihr Bohrer kann durchbohren _!",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 872,
+    "O": "Avatar: The Last _ bender.",
+    "L1": "Avatar: la última _ dobladora.",
+    "L2": "Avatar: der letzte _ bender.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 873,
+    "O": "In the name of _ Sailor Moon will punish you!",
+    "L1": "En nombre de _Sailor Moon te castigará!",
+    "L2": "Im Namen von Seemann Mond wird dich bestrafen!",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 874,
+    "O": "No harem anime is complete without _.",
+    "L1": "Ningún anime harem esta completo sin _.",
+    "L2": "Kein Harem Anime ist komplett ohne _.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 875,
+    "O": "My boyfriend's a _ now.",
+    "L1": "Mi novio es un _ ahora",
+    "L2": "Mein Freund ist jetzt ein.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 876,
+    "O": "The _ of _ has left me in despair!",
+    "L1": "¡El _ de _ me ha dejado desesperado!",
+    "L2": "Das _ _ hat mich in Verzweiflung verlassen!",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 877,
+    "O": "_.tumblr.com",
+    "L1": "_.tumblr.com",
+    "L2": "_.tumblr.com",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 878,
+    "O": "Somehow they made a cute mascot girl out of _.",
+    "L1": "De alguna manera hicieron una linda mascota de _.",
+    "L2": "Irgendwie haben sie ein nettes Maskottchen-Mädchen aus _ gemacht.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 879,
+    "O": "Haruko hit Naoto in the head with her bass guitar and _ came out.",
+    "L1": "Haruko golpeó a Naoto en la cabeza con su bajo y _ salió.",
+    "L2": "Haruko traf Naoto mit ihrer Bassgitarre in den Kopf und kam heraus.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 966,
+    "O": "After blacking out during New year's Eve, I was awoken by _.",
+    "L1": "Después de desmayarme durante la víspera de año nuevo, me despertó _.",
+    "L2": "Nachdem ich während Silvester ohnmächtig wurde, wurde ich von _ geweckt.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 967,
+    "O": "This holiday season, Tim Allen must overcome his fear of _ to save Christmas.",
+    "L1": "En esta temporada de vacaciones, Tim Allen debe superar su miedo a _ para salvar la Navidad.",
+    "L2": "In dieser Ferienzeit muss Tim Allen seine Angst vor Weihnachten überwinden.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 968,
+    "O": "Jesus is _.",
+    "L1": "Jesús es _.",
+    "L2": "Jesus ist _.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 969,
+    "O": "Every Christmas, my uncle gets drunk and tells the story about _.",
+    "L1": "Cada navidad, mi tío se emborracha y cuenta la historia de _.",
+    "L2": "Zu Weihnachten wird mein Onkel betrunken und erzählt die Geschichte von _.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 970,
+    "O": "What keeps me warm during the cold, cold, winter?",
+    "L1": "¿Qué me mantiene caliente durante el frío, el frío, el invierno?",
+    "L2": "Was hält mich warm in der kalten, kalten Winter?",
+    "Exp": "CAHxmas"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 971,
+    "O": "On the third day of Christmas, my true love gave to me: three French hens, two turtle doves, and _.",
+    "L1": "En el tercer día de Navidad, mi verdadero amor me dio: tres gallinas francesas, dos palomas tortuga y _.",
+    "L2": "Am dritten Weihnachtstag gab mir meine wahre Liebe: drei französische Hühner, zwei Turteltauben und _.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 972,
+    "O": "Wake up, America. Christmas is under attack by secular liberals and their _.",
+    "L1": "Despierta, america Navidad está bajo el ataque de los liberales seculares y sus _.",
+    "L2": "Wach auf, Amerika. Weihnachten wird angegriffen von säkularen Liberalen und ihren.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 998,
+    "O": "We got the third rope, now where's the fourth?",
+    "L1": "Tenemos la tercera cuerda, ahora donde esta la cuarta?",
+    "L2": "Wir haben das dritte Seil, wo ist jetzt das vierte?",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1001,
+    "O": "Tonights main event, _ vs. _.",
+    "L1": "Evento principal de esta noche, _ vs. _.",
+    "L2": "Tonights main event, _ vs. _.",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1003,
+    "O": "Tackle, Dropdown, _.",
+    "L1": "Tackle, desplegable, _.",
+    "L2": "Angehen, Dropdown, _.",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1005,
+    "O": "Christopher Daniels is late on his _.",
+    "L1": "Christopher daniels llega tarde a su _.",
+    "L2": "Christopher Daniels ist spät auf seinem _.",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1011,
+    "O": "Instead of booking _, they should have booked _.",
+    "L1": "En lugar de reservar _, deberían haber reservado _.",
+    "L2": "Anstatt zu buchen _, sollten sie _ gebucht haben.",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1012,
+    "O": "Genius is 10% inspiration, 90% _.",
+    "L1": "El genio es 10% de inspiración, 90% _.",
+    "L2": "Genie ist 10% Inspiration, 90% _.",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1013,
+    "O": "They found _ in the dumpster behind _.",
+    "L1": "Encontraron a _ en el contenedor detrás _.",
+    "L2": "Sie fanden _ im Müllcontainer hinter _.",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1015,
+    "O": "The best thing I ever got for Christmas was _.",
+    "L1": "Lo mejor que me dieron para Navidad fue _.",
+    "L2": "Das beste, was ich je zu Weihnachten bekam, war _.",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1017,
+    "O": "There's no crying in _.",
+    "L1": "No hay llanto en _.",
+    "L2": "Es gibt kein Weinen in _.",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1018,
+    "O": "Mastodon! Pterodactyl! Triceratops! Sabretooth Tiger! _!",
+    "L1": "¡mastodonte! ¡pterodáctilo! triceratops! tigre sabretooth! _!",
+    "L2": "Mastodon! Pterodaktylus! Triceratops! Sabretooth Tiger! _!",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1020,
+    "O": "Don't eat the _.",
+    "L1": "No comas el _.",
+    "L2": "Iss nicht das _.",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1023,
+    "O": "He did _ with the _!?!",
+    "L1": "Lo hizo _ con el _!?!",
+    "L2": "Er hat _ mit dem _!?!",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1026,
+    "O": "SOOOOO hot, want to touch the _.",
+    "L1": "Muuuy caliente, quiero tocar el _.",
+    "L2": "Soooo heiß, will das _ berühren.",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1027,
+    "O": "Stop looking at me _!",
+    "L1": "Deja de mirarme _!",
+    "L2": "Hör auf mich anzuschauen _!",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1031,
+    "O": "I'm cuckoo for _ puffs.",
+    "L1": "Soy cuco para _ puffs.",
+    "L2": "Ich bin Kuckuck für _ Züge.",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1032,
+    "O": "Silly rabbit, _ are for kids.",
+    "L1": "Conejo tonto, _ son para niños.",
+    "L2": "Dummer Hase, _ sind für Kinder.",
+    "Exp": "NEIndy"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1141,
+    "O": "Between love and madness lies _.",
+    "L1": "Entre el amor y la locura radica _.",
+    "L2": "Zwischen Liebe und Wahnsinn liegt _.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1142,
+    "O": "Instead of chess, the Grim Reaper now gambles for your soul with a game of _.",
+    "L1": "En lugar de ajedrez, el sombrío jugador ahora juega para tu alma con un juego de _.",
+    "L2": "Anstelle von Schach, spielt der Sensenmann jetzt mit einem Spiel von _ für Ihre Seele.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1143,
+    "O": "My father gave his life fighting to protect _ from _.",
+    "L1": "Mi padre dio su vida luchando para proteger _ de _.",
+    "L2": "Mein Vater hat sein Leben gekämpft, um _ vor _ zu schützen.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1144,
+    "O": "Why is my throat sore?",
+    "L1": "¿Por qué me duele la garganta?",
+    "L2": "Warum ist mein Hals wund?",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1145,
+    "O": "_ sparked a city-wide riot that only ended with _.",
+    "L1": "_ provocó una revuelta en toda la ciudad que solo terminó con _.",
+    "L2": "_ löste einen stadtweiten Aufstand aus, der nur mit _ endete.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1146,
+    "O": "I’m very sorry Mrs. Smith, but Little Billy has tested positive for _.",
+    "L1": "Lo siento mucho señora Smith, pero el pequeño Billy ha dado positivo para _.",
+    "L2": "Es tut mir sehr leid, Frau. Smith, aber Little Billy hat positiv auf _ getestet.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1147,
+    "O": "Instead of beating them, Chris Brown now does _ to women.",
+    "L1": "En lugar de golpearlos, Chris Brown ahora lo hace con las mujeres.",
+    "L2": "Anstatt sie zu schlagen, macht Chris Brown jetzt Frauen.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1148,
+    "O": "Instead of cutting, trendy young emo girls now engage in _.",
+    "L1": "En lugar de cortar, las jóvenes emo de moda ahora participan en _.",
+    "L2": "Anstatt zu schneiden, engagieren sich trendy junge emo Mädchen jetzt _.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1149,
+    "O": "The definition of rock bottom is gambling away _.",
+    "L1": "La definición de fondo de roca es apostar lejos _.",
+    "L2": "Die Definition von Rock Bottom ist Glücksspiel _.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1150,
+    "O": "The Mayan prophecies really heralded the coming of _ in 2012.",
+    "L1": "Las profecías mayas realmente anunciaron la venida de _ en 2012.",
+    "L2": "Die Maya-Prophezeiungen läuteten das Kommen von 2012 tatsächlich ein.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1151,
+    "O": "The next US election will be fought on the key issues of _ against _.",
+    "L1": "La próxima elección de nosotros se peleará en los temas clave de _ contra _.",
+    "L2": "Die nächste US-Wahl wird um die Schlüsselfragen von _ gegen _ geführt.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1152,
+    "O": "When I was 10 I wrote to Santa wishing for _.",
+    "L1": "Cuando tenía 10 años le escribí a santa deseando _.",
+    "L2": "Als ich 10 war, schrieb ich an santa, der sich für _ wünschte.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1153,
+    "O": "Where or How I met my last signifigant other: _.",
+    "L1": "¿Dónde o cómo me encontré con mi último significante otro: _.",
+    "L2": "Wo oder wie ich mein letztes wichtiges anderes getroffen habe: _.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1154,
+    "O": "_, Never leave home without it.",
+    "L1": "_, nunca salgas de casa sin ella.",
+    "L2": "_, verlasse nie Zuhause ohne es.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1155,
+    "O": "_. This is my fetish.",
+    "L1": "_. este es mi fetiche",
+    "L2": "_. das ist mein Fetisch.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1156,
+    "O": "David Icke's newest conspiracy theory states that _ caused _.",
+    "L1": "La teoría de conspiración más reciente de david icke afirma que _ causó _.",
+    "L2": "David Ickes neueste Verschwörungstheorie besagt, dass _ verursacht _.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1157,
+    "O": "I did _ so you don't have to!",
+    "L1": "Lo hice, ¡así que no tienes que hacerlo!",
+    "L2": "Ich habe _ also musst du nicht!",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1158,
+    "O": "I need your clothes, your bike, and _.",
+    "L1": "Necesito tu ropa, tu bicicleta y _.",
+    "L2": "Ich brauche deine Kleidung, dein Fahrrad und _.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1159,
+    "O": "In a new Cold War retro movie, the red menace tries to conquer the world through the cunning use of _.",
+    "L1": "En una nueva película retro de la guerra fría, la amenaza roja trata de conquistar el mundo a través del uso astuto de _.",
+    "L2": "In einem neuen Retro-Film des Kalten Krieges versucht die rote Bedrohung die Welt durch den schlauen Gebrauch von _ zu erobern.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1160,
+    "O": "In college, our lecturer made us write a report comparing _ to _.",
+    "L1": "En la universidad, nuestro profesor nos hizo escribir un informe comparando _ con _.",
+    "L2": "In der Schule hat uns unser Dozent einen Bericht geschrieben, der _ mit _ vergleicht.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 3,
+    "I": 1161,
+    "O": "In The Hangover part 3, those four guys have to deal with _, _, and _.",
+    "L1": "En la parte 3 de la resaca, esos cuatro tipos tienen que lidiar con _, _, y _.",
+    "L2": "Im Kater Teil 3 müssen sich diese vier Jungs mit _, _ und _ auseinandersetzen.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1162,
+    "O": "My zombie survival kit includes food, water, and _.",
+    "L1": "Mi kit de supervivencia zombie incluye comida, agua y _.",
+    "L2": "Mein Zombie Survival Kit enthält Nahrung, Wasser und _.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1163,
+    "O": "The way to a man's heart is through _.",
+    "L1": "El camino al corazón de un hombre es a través de _.",
+    "L2": "Der Weg zum Herzen eines Mannes ist durch _.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1164,
+    "O": "What was the theme of my second wedding?",
+    "L1": "¿Cuál fue el tema de mi segunda boda?",
+    "L2": "Was war das Thema meiner zweiten Hochzeit?",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1165,
+    "O": "What's the newest Japanese craze to head West?",
+    "L1": "¿cuál es la nueva moda japonesa ir hacia el oeste?",
+    "L2": "Was ist der neueste japanische Schrei nach Westen?",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1166,
+    "O": "Everybody loves _.",
+    "L1": "Todo el mundo ama _.",
+    "L2": "Jeder liebt _.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1167,
+    "O": "I can only express myself through _.",
+    "L1": "Solo puedo expresarme a través de _.",
+    "L2": "Ich kann mich nur durch _ ausdrücken.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1168,
+    "O": "My new porn DVD was completely ruined by the inclusion of _",
+    "L1": "Mi nuevo DVD porno fue completamente arruinado por la inclusión de _",
+    "L2": "Meine neue Pornodvd wurde komplett ruiniert durch _",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 3,
+    "I": 1169,
+    "O": "My three wishes will be for _, _, and _.",
+    "L1": "Mis tres deseos serán para _, _, y _.",
+    "L2": "Meine drei Wünsche werden für _, _ und _ sein.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1170,
+    "O": "The latest horrifying school shooting was inspired by _.",
+    "L1": "El último tiroteo escolar horrible fue inspirado por _.",
+    "L2": "Das neueste schreckliche Schulschießen wurde von _ inspiriert.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1171,
+    "O": "I got fired because of my not-so-secret obsession over _.",
+    "L1": "Me despidieron debido a mi obsesión no tan secreta por _.",
+    "L2": "Ich wurde wegen meiner nicht so geheimen Besessenheit über _ gefeuert.",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1172,
+    "O": "My new favourite sexual position is _",
+    "L1": "Mi nueva posición sexual favorita es _",
+    "L2": "Meine neue Lieblingsstellung ist _",
+    "Exp": "NSFH"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1248,
+    "O": "A successful job interview begins with a firm handshake and ends with _.",
+    "L1": "Una entrevista de trabajo exitosa comienza con un firme apretón de manos y termina con _.",
+    "L2": "Ein erfolgreiches Vorstellungsgespräch beginnt mit einem festen Händedruck und endet mit _.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1249,
+    "O": "Lovin' you is easy 'cause you're _.",
+    "L1": "Amarte es fácil porque eres _.",
+    "L2": "Ich liebe dich, weil du bist.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1250,
+    "O": "My life is ruled by a vicious cycle of _ and _.",
+    "L1": "Mi vida está regida por un círculo vicioso de _ y _.",
+    "L2": "Mein Leben wird von einem Teufelskreis von _ und _ beherrscht.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1251,
+    "O": "The blind date was going horribly until we discovered our shared interest in _.",
+    "L1": "La cita a ciegas iba horriblemente hasta que descubrimos nuestro interés compartido en _.",
+    "L2": "Das Blinddate verlief fürchterlich, bis wir unser gemeinsames Interesse an _ entdeckten.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1252,
+    "O": "_. Awesome in theory, kind of a mess in practice.",
+    "L1": "_. Impresionante en teoría, una especie de desorden en la práctica.",
+    "L2": "_. genial in der Theorie, eine Art Chaos in der Praxis.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1253,
+    "O": "I'm not like the rest of you. I'm too rich and busy for _.",
+    "L1": "No soy como el resto de ustedes. Soy demasiado rico y ocupado para _.",
+    "L2": "Ich bin nicht wie der Rest von dir. Ich bin zu reich und beschäftigt für _.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1254,
+    "O": "In the seventh circle of Hell, sinners must endure _ for all eternity.",
+    "L1": "En el séptimo círculo del infierno, los pecadores deben soportar _ por toda la eternidad.",
+    "L2": "Im siebten Kreis der Hölle müssen Sünder _ für alle Ewigkeit bestehen.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1255,
+    "O": "_: Hours of fun. Easy to use. Perfect for _!",
+    "L1": "_: horas de diversión. fácil de usar. perfecto para _!",
+    "L2": "_: Stunden Spaß. Einfach zu verwenden. perfekt für _!",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1256,
+    "O": "What left this stain on my couch?",
+    "L1": "¿Qué dejó esta mancha en mi sofá?",
+    "L2": "Was hat diesen Fleck auf meiner Couch hinterlassen?",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1257,
+    "O": "Call the law offices of Goldstein and Goldstein, because no one should have to tolerate _ in the workplace.",
+    "L1": "Llame a las oficinas legales de goldstein y goldstein, porque nadie debería tener que tolerar _ en el lugar de trabajo.",
+    "L2": "Rufen Sie die Kanzleien von Goldstein und Goldstein an, weil niemand am Arbeitsplatz dulden sollte.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1258,
+    "O": "When you get right down to it, _ is just _.",
+    "L1": "Cuando llegas a eso, _ es solo _.",
+    "L2": "Wenn du direkt darauf kommst, _ ist nur _.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1259,
+    "O": "Turns out that _-Man was neither the hero we needed nor wanted.",
+    "L1": "Resulta que _-man no era ni el héroe que necesitábamos ni queríamos.",
+    "L2": "Es stellt sich heraus, dass _-man weder der Held war, den wir brauchten noch wollten.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1260,
+    "O": "As part of his daily regimen, Anderson Cooper sets aside 15 minutes for _.",
+    "L1": "Como parte de su régimen diario, anderson cooper reserva 15 minutos para _.",
+    "L2": "Im rahmen seiner täglichen regime legt anderson cooper 15 minuten für _ beiseite.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1261,
+    "O": "Money can't buy me love, but it can buy me _.",
+    "L1": "El dinero no puede comprarme amor, pero puede comprarme _.",
+    "L2": "Geld kann mich nicht kaufen Liebe, aber es kann mich kaufen _.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1262,
+    "O": "With enough time and pressure, _ will turn into _.",
+    "L1": "Con suficiente tiempo y presión, _ se convertirá en _.",
+    "L2": "Mit genügend Zeit und Druck verwandelt sich _ in _.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1263,
+    "O": "And what did you bring for show and tell?",
+    "L1": "¿Y qué trajiste para mostrar y contar?",
+    "L2": "Und was hast du mitgebracht und erzählt?",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1264,
+    "O": "During high school, I never really fit in until I found _ club.",
+    "L1": "Durante la escuela secundaria, nunca encajé realmente hasta que encontré _ club.",
+    "L2": "Während der Highschool passte ich nie wirklich hinein, bis ich den Club fand.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1265,
+    "O": "Hey, baby, come back to my place and I'll show you _.",
+    "L1": "Hola, bebé, vuelve a mi casa y te mostraré _.",
+    "L2": "Hey, Baby, komm zurück zu mir und ich werde es dir zeigen.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1266,
+    "O": "After months of practice with _, I think I'm finally ready for _.",
+    "L1": "Después de meses de práctica con _, creo que finalmente estoy listo para _.",
+    "L2": "Nach Monaten des Übens mit _ denke ich, dass ich endlich bereit bin für _.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1267,
+    "O": "To prepare for his upcoming role, Daniel Day-Lewis immersed himself in the world of _.",
+    "L1": "Para prepararse para su próximo papel, daniel day-lewis se sumergió en el mundo de _.",
+    "L2": "Um sich auf seine bevorstehende rolle vorzubereiten, tauchte daniel day-lewis in die welt von _ ein.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1268,
+    "O": "Finally! A service that delivers _ right to your door.",
+    "L1": "¡finalmente! Un servicio que entrega _ directamente a su puerta.",
+    "L2": "Endlich! ein Service, der bis direkt an Ihre Tür liefert.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1269,
+    "O": "My gym teacher got fired for adding _ to the obstacle course.",
+    "L1": "Mi profesor de gimnasia fue despedido por agregar _ a la carrera de obstáculos.",
+    "L2": "Mein Sportlehrer wurde gefeuert, weil er dem Hindernisparcours hinzugefügt hatte.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1270,
+    "O": "Having problems with _? Try _!",
+    "L1": "Teniendo problemas con _? tratar _!",
+    "L2": "Probleme mit _? Versuchen _!",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1271,
+    "O": "As part of his contract, Prince won't perform without _ in his dressing room.",
+    "L1": "Como parte de su contrato, el príncipe no actuará sin _ en su camerino.",
+    "L2": "Als Teil seines Vertrages wird Prinz nicht _ in seiner Garderobe durchführen.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1272,
+    "O": "Listen, son. If you want to get involved with _, I won't stop you. Just steer clear of _.",
+    "L1": "Escucha hijo Si quieres involucrarte con _, no te detendré. solo mantente alejado de _.",
+    "L2": "Hör zu, mein Sohn. Wenn Sie sich mit _ engagieren wollen, werde ich Sie nicht aufhalten. einfach weg von _.",
+    "Exp": "CAHe3"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1301,
+    "O": "I just met you and this is crazy, but here's _, so _ maybe",
+    "L1": "Acabo de conocerte y esto es una locura, pero aquí está _, entonces _ tal vez",
+    "L2": "Ich habe dich gerade getroffen und das ist verrückt, aber hier ist _, also _ vielleicht",
+    "Exp": "Image1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1302,
+    "O": "It's only _ if you get caught!",
+    "L1": "Es solo _ si te atrapan!",
+    "L2": "Es ist nur _ wenn du erwischt wirst!",
+    "Exp": "Image1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1303,
+    "O": "_: The Next Generation",
+    "L1": "_: la próxima generación",
+    "L2": "_: die nächste Generation",
+    "Exp": "Image1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1304,
+    "O": "Terminator 4: _",
+    "L1": "Terminador 4: _",
+    "L2": "Terminator 4: _",
+    "Exp": "Image1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1305,
+    "O": "Disney presents _ on ice!",
+    "L1": "Disney presenta _ en el hielo!",
+    "L2": "Disney präsentiert _ auf Eis!",
+    "Exp": "Image1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1306,
+    "O": "_. The other white meat.",
+    "L1": "_. La otra carne blanca.",
+    "L2": "_. das andere weiße Fleisch.",
+    "Exp": "Image1"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1307,
+    "O": "A _ a day keeps the _ away.",
+    "L1": "Un _ al día mantiene al _ lejos.",
+    "L2": "Ein Tag hält das _ weg.",
+    "Exp": "Image1"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1309,
+    "O": "I'm sweating like a _ at a _.",
+    "L1": "Estoy sudando como un _ en un _.",
+    "L2": "Ich schwitze wie ein _ at a _.",
+    "Exp": "Image1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1310,
+    "O": "I love the smell of _ in the morning.",
+    "L1": "Me encanta el olor de _ por la mañana.",
+    "L2": "Ich liebe den Geruch von _ am Morgen.",
+    "Exp": "Image1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1311,
+    "O": "You're not gonna believe this, but _.",
+    "L1": "No vas a creer esto, pero _.",
+    "L2": "Du wirst das nicht glauben, aber _.",
+    "Exp": "Image1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1316,
+    "O": "_. All the cool kids are doing it.",
+    "L1": "_. Todos los chicos geniales lo están haciendo.",
+    "L2": "_. all die coolen Kinder machen es.",
+    "Exp": "Image1"
+  },
+  {
+    "NumAnswers": 2,
+    "I": 1318,
+    "O": "So I was _ in my cubicle at work, and suddenly _!",
+    "L1": "Así que estaba _ en mi cubículo en el trabajo, y de repente _!",
+    "L2": "So war ich in meiner Kabine bei der Arbeit, und plötzlich _!",
+    "Exp": "Image1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1320,
+    "O": "Baskin Robbins just added a 32nd flavor: _!",
+    "L1": "Baskin robbins acaba de agregar un sabor 32: _!",
+    "L2": "Baskin robbins haben gerade einen 32. Geschmack hinzugefügt: _!",
+    "Exp": "Image1"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1321,
+    "O": "I can drive and ____ at the same time.",
+    "L1": "Puedo conducir y ____ al mismo tiempo.",
+    "L2": "Ich kann fahren und ____ gleichzeitig.",
+    "Exp": "Image1"
+  }
+]

@@ -1,0 +1,7303 @@
+[
+  {
+    "I": 1,
+    "O": "Flying sex snakes.",
+    "L1": "Volando serpientes sexuales.",
+    "L2": "Fliegende Sexschlangen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 2,
+    "O": "Michelle Obama's arms.",
+    "L1": "Los brazos de michelle obama.",
+    "L2": "Michelle Obamas Arme.",
+    "Exp": "Base"
+  },
+  {
+    "I": 3,
+    "O": "German dungeon porn.",
+    "L1": "Porno mazmorra alemana.",
+    "L2": "Deutsch Dungeon Porno.",
+    "Exp": "Base"
+  },
+  {
+    "I": 4,
+    "O": "White people.",
+    "L1": "Gente blanca.",
+    "L2": "Weiße Menschen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 5,
+    "O": "Getting so angry that you pop a boner.",
+    "L1": "Enojarte tanto que haces estallar una erección.",
+    "L2": "So wütend werden, dass du einen Boner knallst.",
+    "Exp": "Base"
+  },
+  {
+    "I": 6,
+    "O": "Tasteful sideboob.",
+    "L1": "Aparador de buen gusto.",
+    "L2": "Geschmackvolles Sideboob.",
+    "Exp": "Base"
+  },
+  {
+    "I": 7,
+    "O": "Praying the gay away.",
+    "L1": "Rezando el gay lejos",
+    "L2": "Betete den Schwulen weg.",
+    "Exp": "Base"
+  },
+  {
+    "I": 8,
+    "O": "Two midgets shitting into a bucket.",
+    "L1": "Dos enanos cagando en un cubo.",
+    "L2": "Zwei Zwerge, die in einen Eimer scheißen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 9,
+    "O": "MechaHitler.",
+    "L1": "Mechahitler.",
+    "L2": "Mechahitler.",
+    "Exp": "Base"
+  },
+  {
+    "I": 10,
+    "O": "Being a motherfucking sorcerer.",
+    "L1": "Siendo un hechicero maldito.",
+    "L2": "Ein motherfucking Zauberer sein.",
+    "Exp": "Base"
+  },
+  {
+    "I": 11,
+    "O": "A disappointing birthday party.",
+    "L1": "Una fiesta de cumpleaños decepcionante.",
+    "L2": "Eine enttäuschende Geburtstagsfeier.",
+    "Exp": "Base"
+  },
+  {
+    "I": 12,
+    "O": "Puppies!",
+    "L1": "Cachorros",
+    "L2": "Welpen!",
+    "Exp": "Base"
+  },
+  {
+    "I": 13,
+    "O": "A windmill full of corpses.",
+    "L1": "Un molino de viento lleno de cadáveres.",
+    "L2": "Eine Windmühle voller Leichen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 14,
+    "O": "Guys who don't call.",
+    "L1": "Chicos que no llaman",
+    "L2": "Leute, die nicht anrufen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 15,
+    "O": "Racially-biased SAT questions.",
+    "L1": "Preguntas sentadas racialmente sesgadas.",
+    "L2": "Rassistisch voreingenommen gesessene Fragen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 16,
+    "O": "Dying.",
+    "L1": "Moribundo.",
+    "L2": "Sterben.",
+    "Exp": "Base"
+  },
+  {
+    "I": 17,
+    "O": "Steven Hawking talking dirty.",
+    "L1": "Steven hawking hablando sucio.",
+    "L2": "Steven hawking dreckig reden.",
+    "Exp": "Base"
+  },
+  {
+    "I": 18,
+    "O": "Being on fire.",
+    "L1": "Estar en llamas",
+    "L2": "In Flammen stehen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 19,
+    "O": "A lifetime of sadness.",
+    "L1": "Toda una vida de tristeza.",
+    "L2": "Ein Leben voller Traurigkeit.",
+    "Exp": "Base"
+  },
+  {
+    "I": 20,
+    "O": "An erection that lasts longer than four hours.",
+    "L1": "Una erección que dura más de cuatro horas.",
+    "L2": "Eine Erektion, die länger als vier Stunden dauert.",
+    "Exp": "Base"
+  },
+  {
+    "I": 21,
+    "O": "AIDS",
+    "L1": "SIDA",
+    "L2": "AIDS",
+    "Exp": "Base"
+  },
+  {
+    "I": 22,
+    "O": "Same-sex ice dancing.",
+    "L1": "Baile sobre hielo del mismo sexo.",
+    "L2": "Gleichgeschlechtliches Eistanzen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 23,
+    "O": "Glenn Beck catching his scrotum on a curtain hook.",
+    "L1": "Glenn Beck atrapando su escroto en un gancho de cortina.",
+    "L2": "Glenn Beck, der seinen Skrotum an einem Vorhanghaken fängt.",
+    "Exp": "Base"
+  },
+  {
+    "I": 24,
+    "O": "The Rapture.",
+    "L1": "El rapto.",
+    "L2": "Die Verzückung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 25,
+    "O": "Pterodactyl eggs.",
+    "L1": "Huevos de pterodactilo.",
+    "L2": "Pterodaktylus-Eier.",
+    "Exp": "Base"
+  },
+  {
+    "I": 26,
+    "O": "Crippling debt.",
+    "L1": "Deuda paralizante.",
+    "L2": "Lähmende Schulden.",
+    "Exp": "Base"
+  },
+  {
+    "I": 27,
+    "O": "Eugenics.",
+    "L1": "Eugenesia.",
+    "L2": "Eugenik.",
+    "Exp": "Base"
+  },
+  {
+    "I": 28,
+    "O": "Exchanging pleasantries.",
+    "L1": "Intercambiando bromas.",
+    "L2": "Höflichkeiten austauschen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 29,
+    "O": "Dying of dysentery.",
+    "L1": "Morir de la disentería.",
+    "L2": "Sterben von Ruhr.",
+    "Exp": "Base"
+  },
+  {
+    "I": 30,
+    "O": "Roofies.",
+    "L1": "Tejados.",
+    "L2": "Roofies.",
+    "Exp": "Base"
+  },
+  {
+    "I": 31,
+    "O": "Getting naked and watching Nickelodeon.",
+    "L1": "Desnudarme y mirar a nickelodeon.",
+    "L2": "Nackt werden und Nickelodeon beobachten.",
+    "Exp": "Base"
+  },
+  {
+    "I": 32,
+    "O": "The forbidden fruit.",
+    "L1": "La fruta prohibida.",
+    "L2": "Die verbotene Frucht.",
+    "Exp": "Base"
+  },
+  {
+    "I": 33,
+    "O": "Republicans.",
+    "L1": "Republicanos",
+    "L2": "Republikaner.",
+    "Exp": "Base"
+  },
+  {
+    "I": 34,
+    "O": "The Big Bang.",
+    "L1": "El Big Bang.",
+    "L2": "Der Urknall.",
+    "Exp": "Base"
+  },
+  {
+    "I": 35,
+    "O": "Anal beads.",
+    "L1": "Bolas anales",
+    "L2": "Analkugeln.",
+    "Exp": "Base"
+  },
+  {
+    "I": 36,
+    "O": "Amputees.",
+    "L1": "Amputados",
+    "L2": "Amputierte.",
+    "Exp": "Base"
+  },
+  {
+    "I": 37,
+    "O": "Men.",
+    "L1": "Hombres.",
+    "L2": "Männer.",
+    "Exp": "Base"
+  },
+  {
+    "I": 38,
+    "O": "Surprise sex!",
+    "L1": "Sexo sorpresa!",
+    "L2": "Überraschungs-Sex!",
+    "Exp": "Base"
+  },
+  {
+    "I": 39,
+    "O": "Kim Jong-il.",
+    "L1": "Kim Jong-il.",
+    "L2": "Kim Jong Il.",
+    "Exp": "Base"
+  },
+  {
+    "I": 40,
+    "O": "Concealing a boner",
+    "L1": "Ocultando una erección",
+    "L2": "Einen Boner verbergen",
+    "Exp": "Base"
+  },
+  {
+    "I": 41,
+    "O": "Agriculture.",
+    "L1": "Agricultura.",
+    "L2": "Landwirtschaft.",
+    "Exp": "Base"
+  },
+  {
+    "I": 42,
+    "O": "Glenn Beck being harried by a swarm of buzzards.",
+    "L1": "Glenn Beck fue acosado por un enjambre de buitres.",
+    "L2": "Glenn Beck wird von einem Schwarm Bussarde geplagt.",
+    "Exp": "Base"
+  },
+  {
+    "I": 43,
+    "O": "Making a pouty face.",
+    "L1": "Haciendo una mueca.",
+    "L2": "Ein Schmollgesicht machen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 44,
+    "O": "A salty surprise.",
+    "L1": "Una sorpresa salada.",
+    "L2": "Eine salzige Überraschung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 45,
+    "O": "The Jews.",
+    "L1": "Los judios.",
+    "L2": "Die Juden.",
+    "Exp": "Base"
+  },
+  {
+    "I": 46,
+    "O": "Charisma.",
+    "L1": "Carisma.",
+    "L2": "Charisma.",
+    "Exp": "Base"
+  },
+  {
+    "I": 47,
+    "O": "YOU MUST CONSTRUCT ADDITIONAL PYLONS.",
+    "L1": "Debes construir pilones adicionales.",
+    "L2": "Sie müssen zusätzliche Pylone bauen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 48,
+    "O": "Panda sex.",
+    "L1": "Sexo panda",
+    "L2": "Panda Sex.",
+    "Exp": "Base"
+  },
+  {
+    "I": 49,
+    "O": "Taking off your shirt.",
+    "L1": "Quitandote la camisa",
+    "L2": "Dein Hemd ausziehen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 50,
+    "O": "A drive-by shooting.",
+    "L1": "Un tiroteo en coche",
+    "L2": "Ein Drive-by-Shooting.",
+    "Exp": "Base"
+  },
+  {
+    "I": 51,
+    "O": "Ronald Reagan.",
+    "L1": "Ronald Reagan.",
+    "L2": "Ronald Reagan.",
+    "Exp": "Base"
+  },
+  {
+    "I": 52,
+    "O": "Morgan Freeman's voice.",
+    "L1": "La voz de morgan freeman.",
+    "L2": "Morgan Freeman's Stimme.",
+    "Exp": "Base"
+  },
+  {
+    "I": 53,
+    "O": "Breaking out into song and dance.",
+    "L1": "Rompiendo en canto y baile.",
+    "L2": "In Gesang und Tanz ausbrechen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 54,
+    "O": "Jewish fraternities.",
+    "L1": "Fraternidades judías.",
+    "L2": "Jüdische Burschenschaften.",
+    "Exp": "Base"
+  },
+  {
+    "I": 55,
+    "O": "Dead babies.",
+    "L1": "Bebes muertos",
+    "L2": "Tote Babys.",
+    "Exp": "Base"
+  },
+  {
+    "I": 56,
+    "O": "Masturbation.",
+    "L1": "Masturbación.",
+    "L2": "Masturbation.",
+    "Exp": "Base"
+  },
+  {
+    "I": 57,
+    "O": "Hormone injections.",
+    "L1": "Inyecciones hormonales.",
+    "L2": "Hormonspritzen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 58,
+    "O": "All-you-can-eat shrimp for $4.99.",
+    "L1": "Todo lo que puedas comer camarones por $ 4.99.",
+    "L2": "All-you-can-eat Garnelen für 4,99 $.",
+    "Exp": "Base"
+  },
+  {
+    "I": 59,
+    "O": "Incest.",
+    "L1": "Incesto.",
+    "L2": "Inzest.",
+    "Exp": "Base"
+  },
+  {
+    "I": 60,
+    "O": "Scalping.",
+    "L1": "Scalping",
+    "L2": "Scalping.",
+    "Exp": "Base"
+  },
+  {
+    "I": 61,
+    "O": "Soup that is too hot.",
+    "L1": "Sopa que está muy caliente.",
+    "L2": "Suppe, die zu heiß ist.",
+    "Exp": "Base"
+  },
+  {
+    "I": 62,
+    "O": "The Übermensch.",
+    "L1": "El übermensch.",
+    "L2": "Der übermensch.",
+    "Exp": "Base"
+  },
+  {
+    "I": 63,
+    "O": "Nazis.",
+    "L1": "Nazis",
+    "L2": "Nazis.",
+    "Exp": "Base"
+  },
+  {
+    "I": 64,
+    "O": "Tom Cruise.",
+    "L1": "Tom Cruise.",
+    "L2": "Tom Kreuzfahrt.",
+    "Exp": "Base"
+  },
+  {
+    "I": 65,
+    "O": "Stifling a giggle at the mention of Hutus and Tutsis.",
+    "L1": "Sofocando una risita ante la mención de hutus y tutsis.",
+    "L2": "Er unterdrückte ein Kichern bei der Erwähnung von Hutus und Tutsis.",
+    "Exp": "Base"
+  },
+  {
+    "I": 66,
+    "O": "Edible underpants.",
+    "L1": "Calzoncillos comestibles.",
+    "L2": "Essbare Unterhosen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 67,
+    "O": "The Hustle.",
+    "L1": "Ajetreo.",
+    "L2": "Die Betriebsamkeit.",
+    "Exp": "Base"
+  },
+  {
+    "I": 68,
+    "O": "A Super Soaker full of cat pee.",
+    "L1": "Un súper remojo lleno de orina de gato.",
+    "L2": "Ein Supersoaker voller Katzenpisse.",
+    "Exp": "Base"
+  },
+  {
+    "I": 69,
+    "O": "Figgy pudding.",
+    "L1": "Pudín de Figgy.",
+    "L2": "Feigenpudding.",
+    "Exp": "Base"
+  },
+  {
+    "I": 70,
+    "O": "Object permanence.",
+    "L1": "Objeto permanente.",
+    "L2": "Objektpermanenz.",
+    "Exp": "Base"
+  },
+  {
+    "I": 71,
+    "O": "Consultants.",
+    "L1": "Consultores",
+    "L2": "Berater.",
+    "Exp": "Base"
+  },
+  {
+    "I": 72,
+    "O": "Intelligent design.",
+    "L1": "Diseño inteligente.",
+    "L2": "Intelligentes Design.",
+    "Exp": "Base"
+  },
+  {
+    "I": 73,
+    "O": "Nocturnal emissions.",
+    "L1": "Emisiones nocturnas.",
+    "L2": "Nächtliche Emissionen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 74,
+    "O": "Uppercuts.",
+    "L1": "Uppercuts.",
+    "L2": "Aufwärtsschnitte",
+    "Exp": "Base"
+  },
+  {
+    "I": 75,
+    "O": "Being marginalized.",
+    "L1": "Siendo marginados.",
+    "L2": "Marginalisiert werden.",
+    "Exp": "Base"
+  },
+  {
+    "I": 76,
+    "O": "The profoundly handicapped.",
+    "L1": "Los profundamente discapacitados.",
+    "L2": "Die zutiefst Behinderten.",
+    "Exp": "Base"
+  },
+  {
+    "I": 77,
+    "O": "Obesity.",
+    "L1": "Obesidad.",
+    "L2": "Fettleibigkeit.",
+    "Exp": "Base"
+  },
+  {
+    "I": 78,
+    "O": "Chutzpah.",
+    "L1": "Chutzpah",
+    "L2": "Chuzpe.",
+    "Exp": "Base"
+  },
+  {
+    "I": 79,
+    "O": "Unfathomable stupidity.",
+    "L1": "Estupidez insondable.",
+    "L2": "Unergründliche Dummheit.",
+    "Exp": "Base"
+  },
+  {
+    "I": 80,
+    "O": "Repression.",
+    "L1": "Represión.",
+    "L2": "Repression.",
+    "Exp": "Base"
+  },
+  {
+    "I": 81,
+    "O": "Attitude.",
+    "L1": "Actitud.",
+    "L2": "Haltung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 82,
+    "O": "Passable transvestites.",
+    "L1": "Travestis transitables.",
+    "L2": "Bearbeitbare Transvestiten.",
+    "Exp": "Base"
+  },
+  {
+    "I": 83,
+    "O": "Party poopers.",
+    "L1": "Aguafiestas.",
+    "L2": "Party Kakerlaken.",
+    "Exp": "Base"
+  },
+  {
+    "I": 84,
+    "O": "The American Dream",
+    "L1": "El sueño americano",
+    "L2": "Der amerikanische Traum",
+    "Exp": "Base"
+  },
+  {
+    "I": 85,
+    "O": "Child beauty pageants.",
+    "L1": "Concursos de belleza infantil.",
+    "L2": "Kinderschönheitswettbewerb.",
+    "Exp": "Base"
+  },
+  {
+    "I": 86,
+    "O": "Puberty.",
+    "L1": "Pubertad.",
+    "L2": "Pubertät.",
+    "Exp": "Base"
+  },
+  {
+    "I": 87,
+    "O": "Testicular torsion.",
+    "L1": "Torsión testicular.",
+    "L2": "Hodentorsion.",
+    "Exp": "Base"
+  },
+  {
+    "I": 88,
+    "O": "The folly of man.",
+    "L1": "La locura del hombre",
+    "L2": "Die Torheit des Menschen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 89,
+    "O": "Nickelback.",
+    "L1": "Nickelback.",
+    "L2": "Nickelback.",
+    "Exp": "Base"
+  },
+  {
+    "I": 90,
+    "O": "Swooping.",
+    "L1": "Swooping",
+    "L2": "Schwindlig.",
+    "Exp": "Base"
+  },
+  {
+    "I": 91,
+    "O": "Goats eating cans.",
+    "L1": "Cabras comiendo latas.",
+    "L2": "Ziegen essen Dosen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 92,
+    "O": "The KKK.",
+    "L1": "El kkk",
+    "L2": "Das kkk.",
+    "Exp": "Base"
+  },
+  {
+    "I": 93,
+    "O": "Kamikaze pilots.",
+    "L1": "Pilotos kamikaze.",
+    "L2": "Kamikaze-Piloten.",
+    "Exp": "Base"
+  },
+  {
+    "I": 94,
+    "O": "Horrifying laser hair removal accidents.",
+    "L1": "Horribles accidentes con depilación láser.",
+    "L2": "Erschreckende Laser Haarentfernung Unfälle.",
+    "Exp": "Base"
+  },
+  {
+    "I": 95,
+    "O": "Adderall.",
+    "L1": "Adderall.",
+    "L2": "Adderall.",
+    "Exp": "Base"
+  },
+  {
+    "I": 96,
+    "O": "A look-see.",
+    "L1": "Una mirada-ver",
+    "L2": "Ein Blick-sehen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 97,
+    "O": "Doing the right thing.",
+    "L1": "Haciendo lo correcto.",
+    "L2": "Das Richtige tun.",
+    "Exp": "Base"
+  },
+  {
+    "I": 98,
+    "O": "The taint; the grundle; the fleshy fun-bridge.",
+    "L1": "La mancha el gruñido el carnoso puente de diversión.",
+    "L2": "Der Makel; die Grundle; die fleischige Spaßbrücke.",
+    "Exp": "Base"
+  },
+  {
+    "I": 99,
+    "O": "Lactation.",
+    "L1": "Lactancia.",
+    "L2": "Stillzeit.",
+    "Exp": "Base"
+  },
+  {
+    "I": 100,
+    "O": "Pabst Blue Ribbon.",
+    "L1": "Pabst cinta azul.",
+    "L2": "Pabst blaues Band.",
+    "Exp": "Base"
+  },
+  {
+    "I": 101,
+    "O": "Powerful thighs.",
+    "L1": "Muslos poderosos.",
+    "L2": "Kräftige Oberschenkel.",
+    "Exp": "Base"
+  },
+  {
+    "I": 102,
+    "O": "Saxophone solos.",
+    "L1": "Solos de saxofon.",
+    "L2": "Saxophon Solos.",
+    "Exp": "Base"
+  },
+  {
+    "I": 103,
+    "O": "The gays.",
+    "L1": "Los gays",
+    "L2": "Die Schwulen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 104,
+    "O": "A middle-aged man on roller skates.",
+    "L1": "Un hombre de mediana edad en patines.",
+    "L2": "Ein Mann mittleren Alters auf Rollschuhen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 105,
+    "O": "A foul mouth.",
+    "L1": "Una boca sucia.",
+    "L2": "Ein schlechter Mund.",
+    "Exp": "Base"
+  },
+  {
+    "I": 106,
+    "O": "The thing that electrocutes your abs.",
+    "L1": "Lo que electrocuta tus abdominales.",
+    "L2": "Die Sache, die deine Bauchmuskeln elektrokottiert.",
+    "Exp": "Base"
+  },
+  {
+    "I": 107,
+    "O": "Heteronormativity.",
+    "L1": "Heteronormatividad.",
+    "L2": "Heteronormativität.",
+    "Exp": "Base"
+  },
+  {
+    "I": 108,
+    "O": "Cuddling.",
+    "L1": "Abrazando",
+    "L2": "Kuscheln.",
+    "Exp": "Base"
+  },
+  {
+    "I": 109,
+    "O": "Coat hanger abortions.",
+    "L1": "Abortos perchero.",
+    "L2": "Kleiderbügel Abtreibungen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 110,
+    "O": "A big hoopla about nothing.",
+    "L1": "Un gran alboroto de nada.",
+    "L2": "Ein großer Rausch um nichts.",
+    "Exp": "Base"
+  },
+  {
+    "I": 111,
+    "O": "Boogers.",
+    "L1": "Boogers",
+    "L2": "Popel.",
+    "Exp": "Base"
+  },
+  {
+    "I": 112,
+    "O": "A hot mess.",
+    "L1": "Un desastre caliente",
+    "L2": "Eine heiße Sauerei.",
+    "Exp": "Base"
+  },
+  {
+    "I": 113,
+    "O": "Raptor attacks.",
+    "L1": "Ataques de rapaces.",
+    "L2": "Raptor-Angriffe.",
+    "Exp": "Base"
+  },
+  {
+    "I": 114,
+    "O": "My collection of high-tech sex toys.",
+    "L1": "Mi colección de juguetes sexuales de alta tecnología.",
+    "L2": "Meine Sammlung von High-Tech-Sex-Spielzeug.",
+    "Exp": "Base"
+  },
+  {
+    "I": 115,
+    "O": "Fear itself.",
+    "L1": "El propio miedo.",
+    "L2": "Fürchte dich selbst.",
+    "Exp": "Base"
+  },
+  {
+    "I": 116,
+    "O": "\u003ci\u003eBees?\u003c/i\u003e",
+    "L1": "\u003ci\u003e abejas? \u003c/i\u003e",
+    "L2": "\u003ci\u003e Bienen? \u003c/ i\u003e",
+    "Exp": "Base"
+  },
+  {
+    "I": 117,
+    "O": "Getting drunk on mouthwash.",
+    "L1": "Emborrachándose con el enjuague bucal.",
+    "L2": "Betrunken auf Mundwasser.",
+    "Exp": "Base"
+  },
+  {
+    "I": 118,
+    "O": "Sniffing glue.",
+    "L1": "Oliendo pegamento.",
+    "L2": "Klebstoff schnüffeln.",
+    "Exp": "Base"
+  },
+  {
+    "I": 119,
+    "O": "Oversized lollipops.",
+    "L1": "Piruletas de gran tamaño.",
+    "L2": "übergroße Lutscher.",
+    "Exp": "Base"
+  },
+  {
+    "I": 120,
+    "O": "An icepick lobotomy.",
+    "L1": "Una lobotomía icepick.",
+    "L2": "Eine Icepick-Lobotomie.",
+    "Exp": "Base"
+  },
+  {
+    "I": 121,
+    "O": "Being rich.",
+    "L1": "Ser rico.",
+    "L2": "Reich sein.",
+    "Exp": "Base"
+  },
+  {
+    "I": 122,
+    "O": "Friends with benefits.",
+    "L1": "Amigos con beneficios.",
+    "L2": "Freunde mit Vorteilen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 123,
+    "O": "Teaching a robot to love.",
+    "L1": "Enseñar a un robot a amar.",
+    "L2": "Einen Roboter zum Lieben lehren.",
+    "Exp": "Base"
+  },
+  {
+    "I": 124,
+    "O": "Women's suffrage.",
+    "L1": "Sufragio de las mujeres.",
+    "L2": "Frauenwahlrecht.",
+    "Exp": "Base"
+  },
+  {
+    "I": 125,
+    "O": "Me time.",
+    "L1": "Tiempo personal.",
+    "L2": "Meine Zeit.",
+    "Exp": "Base"
+  },
+  {
+    "I": 126,
+    "O": "The heart of a child.",
+    "L1": "El corazón de un niño.",
+    "L2": "Das Herz eines Kindes.",
+    "Exp": "Base"
+  },
+  {
+    "I": 127,
+    "O": "Smallpox blankets.",
+    "L1": "Mantas de viruela.",
+    "L2": "Pocken Decken.",
+    "Exp": "Base"
+  },
+  {
+    "I": 128,
+    "O": "The clitoris.",
+    "L1": "El clítoris",
+    "L2": "Die Klitoris.",
+    "Exp": "Base"
+  },
+  {
+    "I": 129,
+    "O": "John Wilkes Booth.",
+    "L1": "John wilkes stand.",
+    "L2": "John Wilkes Stand.",
+    "Exp": "Base"
+  },
+  {
+    "I": 130,
+    "O": "The glass ceiling.",
+    "L1": "El techo de cristal.",
+    "L2": "Das Glasdach.",
+    "Exp": "Base"
+  },
+  {
+    "I": 131,
+    "O": "Sarah Palin.",
+    "L1": "Sarah Palin.",
+    "L2": "Sarah Palin.",
+    "Exp": "Base"
+  },
+  {
+    "I": 132,
+    "O": "Sexy pillow fights.",
+    "L1": "Peleas de almohadas sexy",
+    "L2": "Sexy Kissenschlachten.",
+    "Exp": "Base"
+  },
+  {
+    "I": 133,
+    "O": "Yeast.",
+    "L1": "Levadura.",
+    "L2": "Hefe.",
+    "Exp": "Base"
+  },
+  {
+    "I": 134,
+    "O": "Full frontal nudity.",
+    "L1": "Desnudez frontal completa.",
+    "L2": "Volle frontale Nacktheit.",
+    "Exp": "Base"
+  },
+  {
+    "I": 135,
+    "O": "Parting the Red Sea.",
+    "L1": "Partiendo el mar rojo.",
+    "L2": "Das Rote Meer teilen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 136,
+    "O": "A Bop It.",
+    "L1": "Un bop él",
+    "L2": "Ein bop es.",
+    "Exp": "Base"
+  },
+  {
+    "I": 137,
+    "O": "Michael Jackson.",
+    "L1": "Michael jackson.",
+    "L2": "Michael Jackson.",
+    "Exp": "Base"
+  },
+  {
+    "I": 138,
+    "O": "Team-building exercises.",
+    "L1": "Ejercicios de team building.",
+    "L2": "Teambuilding-Übungen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 139,
+    "O": "Harry Potter erotica.",
+    "L1": "Harry potter erotica.",
+    "L2": "Harry Potter Erotik.",
+    "Exp": "Base"
+  },
+  {
+    "I": 140,
+    "O": "Authentic Mexican cuisine.",
+    "L1": "Auténtica cocina mexicana.",
+    "L2": "Authentische mexikanische Küche.",
+    "Exp": "Base"
+  },
+  {
+    "I": 141,
+    "O": "Frolicking.",
+    "L1": "Retozando",
+    "L2": "Herumtollen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 142,
+    "O": "Sexting.",
+    "L1": "Sexting",
+    "L2": "Sexting.",
+    "Exp": "Base"
+  },
+  {
+    "I": 143,
+    "O": "Grandma.",
+    "L1": "Abuela.",
+    "L2": "Oma.",
+    "Exp": "Base"
+  },
+  {
+    "I": 144,
+    "O": "Not giving a shit about the Third World.",
+    "L1": "No me importa una mierda el tercer mundo.",
+    "L2": "Die dritte Welt nicht beschissen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 145,
+    "O": "Licking things to claim them as your own.",
+    "L1": "Lamiendo cosas para reclamarlas como propias.",
+    "L2": "Dinge lecken, um sie als deine eigenen zu beanspruchen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 146,
+    "O": "Genghis Khan.",
+    "L1": "Genghis Khan.",
+    "L2": "Dschinghis Khan.",
+    "Exp": "Base"
+  },
+  {
+    "I": 147,
+    "O": "The hardworking Mexican.",
+    "L1": "El mexicano trabajador.",
+    "L2": "Der fleißige Mexikaner.",
+    "Exp": "Base"
+  },
+  {
+    "I": 148,
+    "O": "RoboCop.",
+    "L1": "Robocop",
+    "L2": "Robocop.",
+    "Exp": "Base"
+  },
+  {
+    "I": 149,
+    "O": "My relationship status.",
+    "L1": "Mi estado de relación",
+    "L2": "Mein Beziehungsstatus.",
+    "Exp": "Base"
+  },
+  {
+    "I": 150,
+    "O": "Scrubbing under the folds.",
+    "L1": "Fregado bajo los pliegues.",
+    "L2": "Schrubben unter den Falten.",
+    "Exp": "Base"
+  },
+  {
+    "I": 151,
+    "O": "Porn Stars.",
+    "L1": "Estrellas porno",
+    "L2": "Pornostars.",
+    "Exp": "Base"
+  },
+  {
+    "I": 152,
+    "O": "Horse meat.",
+    "L1": "Carne de caballo.",
+    "L2": "Pferdefleisch.",
+    "Exp": "Base"
+  },
+  {
+    "I": 153,
+    "O": "Sunshine and rainbows.",
+    "L1": "Sol y arcoiris.",
+    "L2": "Sonnenschein und Regenbogen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 154,
+    "O": "Expecting a burp and vomiting on the floor.",
+    "L1": "Esperando un eructo y vómitos en el suelo.",
+    "L2": "Erwartet ein Aufstoßen und Erbrechen auf dem Boden.",
+    "Exp": "Base"
+  },
+  {
+    "I": 155,
+    "O": "Barack Obama.",
+    "L1": "Barack Obama.",
+    "L2": "Barack Obama.",
+    "Exp": "Base"
+  },
+  {
+    "I": 156,
+    "O": "Spontaneous human combustion.",
+    "L1": "Combustión humana espontánea.",
+    "L2": "Spontane menschliche Verbrennung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 157,
+    "O": "Natural selection.",
+    "L1": "Seleccion natural.",
+    "L2": "Natürliche Auslese.",
+    "Exp": "Base"
+  },
+  {
+    "I": 158,
+    "O": "Mouth herpes.",
+    "L1": "Herpes bucal.",
+    "L2": "Mund Herpes.",
+    "Exp": "Base"
+  },
+  {
+    "I": 159,
+    "O": "Flash flooding.",
+    "L1": "Inundaciones repentinas.",
+    "L2": "Sturzfluten.",
+    "Exp": "Base"
+  },
+  {
+    "I": 160,
+    "O": "Goblins.",
+    "L1": "Duendes",
+    "L2": "Kobolde.",
+    "Exp": "Base"
+  },
+  {
+    "I": 161,
+    "O": "A monkey smoking a cigar.",
+    "L1": "Un mono fumando un cigarro",
+    "L2": "Ein Affe raucht eine Zigarre.",
+    "Exp": "Base"
+  },
+  {
+    "I": 162,
+    "O": "Spectacular abs.",
+    "L1": "Abs espectacular",
+    "L2": "Spektakuläre abs.",
+    "Exp": "Base"
+  },
+  {
+    "I": 163,
+    "O": "A good sniff.",
+    "L1": "Un buen olfateo",
+    "L2": "Ein guter Schnüffler.",
+    "Exp": "Base"
+  },
+  {
+    "I": 164,
+    "O": "Wiping her butt.",
+    "L1": "Limpiando su trasero.",
+    "L2": "Wischte ihren Hintern ab.",
+    "Exp": "Base"
+  },
+  {
+    "I": 165,
+    "O": "The Three-Fifths compromise.",
+    "L1": "El compromiso de los tres quintos.",
+    "L2": "Der Drei-Fünftel-Kompromiss.",
+    "Exp": "Base"
+  },
+  {
+    "I": 166,
+    "O": "Pedophiles.",
+    "L1": "Pedófilos",
+    "L2": "Pädophile.",
+    "Exp": "Base"
+  },
+  {
+    "I": 167,
+    "O": "Doin' it in the butt.",
+    "L1": "Haciéndolo en el trasero.",
+    "L2": "Mach es in den Hintern.",
+    "Exp": "Base"
+  },
+  {
+    "I": 168,
+    "O": "Being fabulous.",
+    "L1": "Siendo fabuloso",
+    "L2": "Fabelhaft sein.",
+    "Exp": "Base"
+  },
+  {
+    "I": 169,
+    "O": "Mathletes.",
+    "L1": "Mathletes.",
+    "L2": "Matheleuten.",
+    "Exp": "Base"
+  },
+  {
+    "I": 170,
+    "O": "Wearing underwear inside-out to avoid doing laundry.",
+    "L1": "Usar ropa interior al revés para evitar lavar la ropa.",
+    "L2": "Wäsche von innen nach außen tragen, um Wäsche zu vermeiden.",
+    "Exp": "Base"
+  },
+  {
+    "I": 171,
+    "O": "Nipple blades.",
+    "L1": "Láminas del pezón.",
+    "L2": "Nippelklingen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 172,
+    "O": "An M. Night Shyamalan plot twist.",
+    "L1": "Un m. Torcedura tímida de la noche tímida.",
+    "L2": "Ein m. Nacht Shyamalan Handlung Twist.",
+    "Exp": "Base"
+  },
+  {
+    "I": 173,
+    "O": "A bag of magic beans.",
+    "L1": "Una bolsa de frijoles mágicos.",
+    "L2": "Eine Tüte mit magischen Bohnen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 174,
+    "O": "Vigorous jazz hands.",
+    "L1": "Manos de jazz vigorosas.",
+    "L2": "Kräftige Jazzhände.",
+    "Exp": "Base"
+  },
+  {
+    "I": 175,
+    "O": "A defective condom.",
+    "L1": "Un condón defectuoso.",
+    "L2": "Ein defektes Kondom.",
+    "Exp": "Base"
+  },
+  {
+    "I": 176,
+    "O": "Skeletor.",
+    "L1": "Esqueleto",
+    "L2": "Skeletor.",
+    "Exp": "Base"
+  },
+  {
+    "I": 177,
+    "O": "Vikings.",
+    "L1": "Vikingos",
+    "L2": "Wikinger.",
+    "Exp": "Base"
+  },
+  {
+    "I": 178,
+    "O": "Leaving an awkward voicemail.",
+    "L1": "Dejando un correo de voz incómodo.",
+    "L2": "Eine unbeholfene Voicemail hinterlassen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 179,
+    "O": "Teenage pregnancy.",
+    "L1": "Embarazo en la adolescencia.",
+    "L2": "Teenager-Schwangerschaft.",
+    "Exp": "Base"
+  },
+  {
+    "I": 180,
+    "O": "Dead parents.",
+    "L1": "Padres muertos",
+    "L2": "Tote Eltern.",
+    "Exp": "Base"
+  },
+  {
+    "I": 181,
+    "O": "Hot cheese.",
+    "L1": "Queso caliente",
+    "L2": "Heißer Käse.",
+    "Exp": "Base"
+  },
+  {
+    "I": 182,
+    "O": "My sex life.",
+    "L1": "Mi vida sexual",
+    "L2": "Mein Sexualleben.",
+    "Exp": "Base"
+  },
+  {
+    "I": 183,
+    "O": "A mopey zoo lion.",
+    "L1": "Un león zoológico mopey.",
+    "L2": "Ein mopey Zoo Löwe.",
+    "Exp": "Base"
+  },
+  {
+    "I": 184,
+    "O": "Assless chaps.",
+    "L1": "Chicos sin asco.",
+    "L2": "Asless Chaps.",
+    "Exp": "Base"
+  },
+  {
+    "I": 185,
+    "O": "Riding off into the sunset.",
+    "L1": "Cabalgando hacia el atardecer.",
+    "L2": "In den Sonnenuntergang fahren.",
+    "Exp": "Base"
+  },
+  {
+    "I": 186,
+    "O": "Lance Armstrong's missing testicle.",
+    "L1": "Lanza del testículo perdido de Armstrong.",
+    "L2": "Lance Armstrongs fehlender Hoden.",
+    "Exp": "Base"
+  },
+  {
+    "I": 187,
+    "O": "Sweet, sweet vengeance.",
+    "L1": "Dulce, dulce venganza.",
+    "L2": "Süße, süße Rache.",
+    "Exp": "Base"
+  },
+  {
+    "I": 188,
+    "O": "Genital piercings.",
+    "L1": "Piercings genitales.",
+    "L2": "Intimpiercings.",
+    "Exp": "Base"
+  },
+  {
+    "I": 189,
+    "O": "Keg stands.",
+    "L1": "El barril está de pie.",
+    "L2": "Fass steht.",
+    "Exp": "Base"
+  },
+  {
+    "I": 190,
+    "O": "Darth Vader.",
+    "L1": "Darth Vader.",
+    "L2": "Darth Vader.",
+    "Exp": "Base"
+  },
+  {
+    "I": 191,
+    "O": "Viagra.",
+    "L1": "Viagra",
+    "L2": "Viagra.",
+    "Exp": "Base"
+  },
+  {
+    "I": 192,
+    "O": "Necrophilia.",
+    "L1": "Necrofilia.",
+    "L2": "Nekrophilie.",
+    "Exp": "Base"
+  },
+  {
+    "I": 193,
+    "O": "A really cool hat.",
+    "L1": "Un sombrero realmente genial",
+    "L2": "Ein wirklich cooler Hut.",
+    "Exp": "Base"
+  },
+  {
+    "I": 194,
+    "O": "Toni Morrison's vagina.",
+    "L1": "La vagina de toni morrison.",
+    "L2": "Toni Morrisons Vagina.",
+    "Exp": "Base"
+  },
+  {
+    "I": 195,
+    "O": "An Oedipus complex.",
+    "L1": "Un complejo de Edipo.",
+    "L2": "Ein Ödipuskomplex.",
+    "Exp": "Base"
+  },
+  {
+    "I": 196,
+    "O": "The Tempur-Pedic Swedish Sleep System.",
+    "L1": "El sistema de sueño sueco tempur-pedic.",
+    "L2": "Das tempur-pedische schwedische Schlafsystem.",
+    "Exp": "Base"
+  },
+  {
+    "I": 197,
+    "O": "Preteens.",
+    "L1": "Preadolescentes",
+    "L2": "Preteens.",
+    "Exp": "Base"
+  },
+  {
+    "I": 198,
+    "O": "Dick fingers.",
+    "L1": "Dedos de la polla.",
+    "L2": "Dick Finger.",
+    "Exp": "Base"
+  },
+  {
+    "I": 199,
+    "O": "A cooler full of organs.",
+    "L1": "Un refrigerador lleno de órganos.",
+    "L2": "Ein Kühler voller Organe.",
+    "Exp": "Base"
+  },
+  {
+    "I": 200,
+    "O": "Shapeshifters.",
+    "L1": "Cambiaformas",
+    "L2": "Gestaltwandler.",
+    "Exp": "Base"
+  },
+  {
+    "I": 201,
+    "O": "The Care Bear Stare.",
+    "L1": "La mirada del oso cuidado.",
+    "L2": "Der Pflege Bär starren.",
+    "Exp": "Base"
+  },
+  {
+    "I": 202,
+    "O": "Erectile dysfunction.",
+    "L1": "Disfuncion erectil.",
+    "L2": "Erektile Dysfunktion.",
+    "Exp": "Base"
+  },
+  {
+    "I": 203,
+    "O": "Keanu Reeves.",
+    "L1": "Keanu Reeves.",
+    "L2": "Keanu Reeves.",
+    "Exp": "Base"
+  },
+  {
+    "I": 204,
+    "O": "The Virginia Tech Massacre.",
+    "L1": "La masacre de virginia tech.",
+    "L2": "Das Virginia-Tech-Massaker.",
+    "Exp": "Base"
+  },
+  {
+    "I": 205,
+    "O": "The Underground Railroad.",
+    "L1": "El ferrocarril subterráneo.",
+    "L2": "Die U-Bahn.",
+    "Exp": "Base"
+  },
+  {
+    "I": 206,
+    "O": "The chronic.",
+    "L1": "La crónica.",
+    "L2": "Das chronische.",
+    "Exp": "Base"
+  },
+  {
+    "I": 207,
+    "O": "Queefing.",
+    "L1": "Queefing",
+    "L2": "Queue.",
+    "Exp": "Base"
+  },
+  {
+    "I": 208,
+    "O": "Heartwarming orphans.",
+    "L1": "Reconfortantes huérfanos.",
+    "L2": "Herzerwärmende Waisen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 209,
+    "O": "A thermonuclear detonation.",
+    "L1": "Una detonación termonuclear.",
+    "L2": "Eine thermonukleare Detonation.",
+    "Exp": "Base"
+  },
+  {
+    "I": 210,
+    "O": "Cheating in the Special Olympics.",
+    "L1": "Engañando en las olimpiadas especiales.",
+    "L2": "Betrug in den besonderen Olympischen Spielen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 211,
+    "O": "Tangled Slinkys.",
+    "L1": "Slinkys enredados.",
+    "L2": "Verschlungene Slinkys.",
+    "Exp": "Base"
+  },
+  {
+    "I": 212,
+    "O": "A moment of silence.",
+    "L1": "Un momento de silencio.",
+    "L2": "Ein Moment der Stille.",
+    "Exp": "Base"
+  },
+  {
+    "I": 213,
+    "O": "Civilian casualties.",
+    "L1": "Víctimas civiles.",
+    "L2": "Zivile Todesopfer.",
+    "Exp": "Base"
+  },
+  {
+    "I": 214,
+    "O": "Catapults.",
+    "L1": "Catapultas",
+    "L2": "Katapulte.",
+    "Exp": "Base"
+  },
+  {
+    "I": 215,
+    "O": "Sharing needles.",
+    "L1": "Compartiendo agujas.",
+    "L2": "Nadeln teilen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 216,
+    "O": "Ethnic cleansing.",
+    "L1": "Limpieza étnica.",
+    "L2": "Ethnische Säuberung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 217,
+    "O": "Emotions.",
+    "L1": "Emociones",
+    "L2": "Emotionen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 218,
+    "O": "Children on leashes.",
+    "L1": "Niños con correas.",
+    "L2": "Kinder an Leinen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 219,
+    "O": "Balls.",
+    "L1": "Bolas.",
+    "L2": "Bälle.",
+    "Exp": "Base"
+  },
+  {
+    "I": 220,
+    "O": "Homeless people.",
+    "L1": "Gente sin hogar.",
+    "L2": "Obdachlose.",
+    "Exp": "Base"
+  },
+  {
+    "I": 221,
+    "O": "Eating all of the cookies before the AIDS bake-sale.",
+    "L1": "Comiendo todas las galletas antes de las ayudas de venta de pasteles.",
+    "L2": "Essen alle Kekse vor dem Aids-Backen-Verkauf.",
+    "Exp": "Base"
+  },
+  {
+    "I": 222,
+    "O": "Old-people smell.",
+    "L1": "Olor a gente mayor.",
+    "L2": "Alte Menschen riechen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 223,
+    "O": "Farting and walking away.",
+    "L1": "Farting y alejarse.",
+    "L2": "Pupsen und weglaufen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 224,
+    "O": "The inevitable heat death of the universe.",
+    "L1": "El inevitable calor de la muerte del universo.",
+    "L2": "Der unvermeidliche Hitzetod des Universums.",
+    "Exp": "Base"
+  },
+  {
+    "I": 225,
+    "O": "The violation of our most basic human rights.",
+    "L1": "La violación de nuestros derechos humanos más básicos.",
+    "L2": "Die Verletzung unserer grundlegendsten Menschenrechte.",
+    "Exp": "Base"
+  },
+  {
+    "I": 226,
+    "O": "Fingering.",
+    "L1": "Digitación.",
+    "L2": "Fingersatz.",
+    "Exp": "Base"
+  },
+  {
+    "I": 227,
+    "O": "The placenta.",
+    "L1": "La placenta.",
+    "L2": "Die Plazenta.",
+    "Exp": "Base"
+  },
+  {
+    "I": 228,
+    "O": "The Rev. Dr. Martin Luther King, Jr.",
+    "L1": "La rev Dr. Martin Luther King hijo.",
+    "L2": "Der Schiedsrichter. DR. Martin Luther King jr.",
+    "Exp": "Base"
+  },
+  {
+    "I": 229,
+    "O": "Leprosy.",
+    "L1": "Lepra.",
+    "L2": "Lepra.",
+    "Exp": "Base"
+  },
+  {
+    "I": 230,
+    "O": "Sperm whales.",
+    "L1": "Cachalotes.",
+    "L2": "Pottwale.",
+    "Exp": "Base"
+  },
+  {
+    "I": 231,
+    "O": "Multiple stab wounds.",
+    "L1": "Múltiples puñaladas.",
+    "L2": "Mehrere Stichwunden.",
+    "Exp": "Base"
+  },
+  {
+    "I": 232,
+    "O": "Flightless birds.",
+    "L1": "Aves no voladoras.",
+    "L2": "Flugunfähige Vögel.",
+    "Exp": "Base"
+  },
+  {
+    "I": 233,
+    "O": "Grave robbing.",
+    "L1": "Robo de tumbas",
+    "L2": "Grabraub.",
+    "Exp": "Base"
+  },
+  {
+    "I": 234,
+    "O": "Home video of Oprah sobbing into a Lean Cuisine.",
+    "L1": "Video casero de oprah sollozando en una cocina magra.",
+    "L2": "Home video von oprah schluchzen in eine mageres cuisine.",
+    "Exp": "Base"
+  },
+  {
+    "I": 235,
+    "O": "Oompa-Loompas.",
+    "L1": "Oompa-loompas.",
+    "L2": "Oompa-Loompas.",
+    "Exp": "Base"
+  },
+  {
+    "I": 236,
+    "O": "A murder most foul.",
+    "L1": "Un asesinato más asqueroso.",
+    "L2": "Ein Mord am meisten übel.",
+    "Exp": "Base"
+  },
+  {
+    "I": 237,
+    "O": "Tentacle porn.",
+    "L1": "Porno tentáculo.",
+    "L2": "Tentakelporn.",
+    "Exp": "Base"
+  },
+  {
+    "I": 238,
+    "O": "Daddy issues.",
+    "L1": "Cuestiones papá.",
+    "L2": "Vaterprobleme.",
+    "Exp": "Base"
+  },
+  {
+    "I": 239,
+    "O": "Bill Nye the Science Guy.",
+    "L1": "Bill nye el chico de la ciencia.",
+    "L2": "Bill Nye der Wissenschaftsmann.",
+    "Exp": "Base"
+  },
+  {
+    "I": 240,
+    "O": "Peeing a little bit.",
+    "L1": "Orinando un poco.",
+    "L2": "Ein bisschen pissen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 241,
+    "O": "The miracle of childbirth.",
+    "L1": "El milagro del parto.",
+    "L2": "Das Wunder der Geburt.",
+    "Exp": "Base"
+  },
+  {
+    "I": 242,
+    "O": "Tweeting.",
+    "L1": "Tuiteando",
+    "L2": "Zwitschern.",
+    "Exp": "Base"
+  },
+  {
+    "I": 243,
+    "O": "Another goddamn vampire movie.",
+    "L1": "Otra maldita película de vampiros.",
+    "L2": "Ein weiterer gottverdammter Vampirfilm.",
+    "Exp": "Base"
+  },
+  {
+    "I": 244,
+    "O": "Britney Spears at 55.",
+    "L1": "Britney Spears a los 55.",
+    "L2": "Britney Spears bei 55.",
+    "Exp": "Base"
+  },
+  {
+    "I": 245,
+    "O": "New Age music.",
+    "L1": "Música new age.",
+    "L2": "New-Age-Musik.",
+    "Exp": "Base"
+  },
+  {
+    "I": 246,
+    "O": "The Make-A-Wish Foundation.",
+    "L1": "La fundación make-a-wish.",
+    "L2": "Die Make-a-Wish-Stiftung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 247,
+    "O": "Firing a rifle into the air while balls deep in a squealing hog.",
+    "L1": "Disparando un rifle en el aire mientras que las bolas profundas en un cerdo chillando.",
+    "L2": "Ein Gewehr in die Luft schießen, während die Kugeln tief in einem kreischenden Schwein stecken.",
+    "Exp": "Base"
+  },
+  {
+    "I": 248,
+    "O": "Active listening.",
+    "L1": "Escucha activa.",
+    "L2": "Aktives Zuhören.",
+    "Exp": "Base"
+  },
+  {
+    "I": 249,
+    "O": "Nicolas Cage.",
+    "L1": "Nicolas Cage.",
+    "L2": "Nicolas Cage.",
+    "Exp": "Base"
+  },
+  {
+    "I": 250,
+    "O": "72 virgins.",
+    "L1": "72 vírgenes.",
+    "L2": "72 Jungfrauen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 251,
+    "O": "Stranger danger.",
+    "L1": "Peligro extraño.",
+    "L2": "Fremde Gefahr.",
+    "Exp": "Base"
+  },
+  {
+    "I": 252,
+    "O": "Hope.",
+    "L1": "Esperanza.",
+    "L2": "Hoffnung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 253,
+    "O": "A gassy antelope.",
+    "L1": "Un antílope gaseoso.",
+    "L2": "Eine gasartige Antilope.",
+    "Exp": "Base"
+  },
+  {
+    "I": 254,
+    "O": "BATMAN!!!",
+    "L1": "¡¡¡ordenanza!!!",
+    "L2": "Batman!!!",
+    "Exp": "Base"
+  },
+  {
+    "I": 255,
+    "O": "Chivalry.",
+    "L1": "Caballería.",
+    "L2": "Ritterlichkeit.",
+    "Exp": "Base"
+  },
+  {
+    "I": 256,
+    "O": "Passing a kidney stone.",
+    "L1": "Pasando un cálculo renal.",
+    "L2": "Einen Nierenstein passieren.",
+    "Exp": "Base"
+  },
+  {
+    "I": 257,
+    "O": "Black people.",
+    "L1": "Personas de raza negra.",
+    "L2": "Schwarze.",
+    "Exp": "Base"
+  },
+  {
+    "I": 258,
+    "O": "Natalie Portman.",
+    "L1": "Natalie Portman.",
+    "L2": "Natalie Portman.",
+    "Exp": "Base"
+  },
+  {
+    "I": 259,
+    "O": "A mime having a stroke.",
+    "L1": "Un mimo tiene un derrame cerebral.",
+    "L2": "Ein Pantomime mit einem Schlaganfall.",
+    "Exp": "Base"
+  },
+  {
+    "I": 260,
+    "O": "Classist undertones.",
+    "L1": "Matices clasistas.",
+    "L2": "Klassische Untertöne.",
+    "Exp": "Base"
+  },
+  {
+    "I": 261,
+    "O": "Sean Penn.",
+    "L1": "Sean Penn.",
+    "L2": "Sean Penn.",
+    "Exp": "Base"
+  },
+  {
+    "I": 262,
+    "O": "A mating display.",
+    "L1": "Una pantalla de apareamiento.",
+    "L2": "Eine Paarungsanzeige.",
+    "Exp": "Base"
+  },
+  {
+    "I": 263,
+    "O": "The Holy Bible.",
+    "L1": "La Sagrada Biblia.",
+    "L2": "Die heilige Bibel.",
+    "Exp": "Base"
+  },
+  {
+    "I": 264,
+    "O": "Hot Pockets.",
+    "L1": "Bolsillos calientes.",
+    "L2": "Heiße Taschen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 265,
+    "O": "A sad handjob.",
+    "L1": "Un triste handjob",
+    "L2": "Ein trauriger Handjob.",
+    "Exp": "Base"
+  },
+  {
+    "I": 266,
+    "O": "Pulling out.",
+    "L1": "Extracción.",
+    "L2": "Herausziehen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 267,
+    "O": "Serfdom.",
+    "L1": "Servidumbre.",
+    "L2": "Leibeigenschaft.",
+    "Exp": "Base"
+  },
+  {
+    "I": 268,
+    "O": "Pixelated bukkake.",
+    "L1": "Bukkake pixelado.",
+    "L2": "Pixelig Bukkake.",
+    "Exp": "Base"
+  },
+  {
+    "I": 269,
+    "O": "Dropping a chandelier on your enemies and riding the rope up.",
+    "L1": "Dejar caer una araña sobre tus enemigos y subir la cuerda.",
+    "L2": "Lass einen Kronleuchter auf deine Feinde fallen und reite das Seil hoch.",
+    "Exp": "Base"
+  },
+  {
+    "I": 270,
+    "O": "Jew-fros.",
+    "L1": "Jew-fros.",
+    "L2": "Judenfrösche.",
+    "Exp": "Base"
+  },
+  {
+    "I": 271,
+    "O": "Waiting 'til marriage.",
+    "L1": "Esperando hasta el matrimonio.",
+    "L2": "Warten bis zur Hochzeit.",
+    "Exp": "Base"
+  },
+  {
+    "I": 272,
+    "O": "Euphoria by Calvin Klein.",
+    "L1": "Euforia de calvin klein.",
+    "L2": "Euphorie von Calvin Klein.",
+    "Exp": "Base"
+  },
+  {
+    "I": 273,
+    "O": "The World of Warcraft.",
+    "L1": "El mundo de warcraft.",
+    "L2": "Die Welt der Kriegsführung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 274,
+    "O": "Lunchables.",
+    "L1": "Lunchables.",
+    "L2": "Mittagessen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 275,
+    "O": "The Kool-Aid Man.",
+    "L1": "El hombre de Kool-Aid.",
+    "L2": "Der Kool-Aid-Mann.",
+    "Exp": "Base"
+  },
+  {
+    "I": 276,
+    "O": "The Trail of Tears.",
+    "L1": "El rastro de las lágrimas.",
+    "L2": "Die Spur der Tränen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 277,
+    "O": "Self-loathing.",
+    "L1": "Aversión a sí mismo.",
+    "L2": "Selbsthass.",
+    "Exp": "Base"
+  },
+  {
+    "I": 278,
+    "O": "A falcon with a cap on its head.",
+    "L1": "Un halcón con una gorra en la cabeza.",
+    "L2": "Ein Falke mit einer Kappe auf seinem Kopf.",
+    "Exp": "Base"
+  },
+  {
+    "I": 279,
+    "O": "Historically black colleges.",
+    "L1": "Colegios historicamente negros.",
+    "L2": "Historisch schwarze Hochschulen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 280,
+    "O": "Not reciprocating oral sex.",
+    "L1": "El sexo oral no recíproco.",
+    "L2": "Nicht umgekehrt Oralsex.",
+    "Exp": "Base"
+  },
+  {
+    "I": 281,
+    "O": "Global warming.",
+    "L1": "Calentamiento global.",
+    "L2": "Erderwärmung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 282,
+    "O": "Ghosts.",
+    "L1": "Fantasmas",
+    "L2": "Geister.",
+    "Exp": "Base"
+  },
+  {
+    "I": 283,
+    "O": "World peace.",
+    "L1": "La paz mundial.",
+    "L2": "Weltfrieden.",
+    "Exp": "Base"
+  },
+  {
+    "I": 284,
+    "O": "A can of whoop-ass.",
+    "L1": "Una lata de grito.",
+    "L2": "Eine Dose Whoop-Ass.",
+    "Exp": "Base"
+  },
+  {
+    "I": 285,
+    "O": "The Dance of the Sugar Plum Fairy.",
+    "L1": "El baile del azucar del ciruelo.",
+    "L2": "Der Tanz der Zuckerpflaumenfee.",
+    "Exp": "Base"
+  },
+  {
+    "I": 286,
+    "O": "A zesty breakfast burrito.",
+    "L1": "Un delicioso burrito de desayuno.",
+    "L2": "Ein pikanter Frühstück Burrito.",
+    "Exp": "Base"
+  },
+  {
+    "I": 287,
+    "O": "Switching to Geico.",
+    "L1": "Cambiando a geico.",
+    "L2": "Wechsel zu Geico.",
+    "Exp": "Base"
+  },
+  {
+    "I": 288,
+    "O": "Aaron Burr.",
+    "L1": "Aaron rebabas.",
+    "L2": "Aaron Grat.",
+    "Exp": "Base"
+  },
+  {
+    "I": 289,
+    "O": "Picking up girls at the abortion clinic.",
+    "L1": "Recogiendo chicas en la clínica de abortos.",
+    "L2": "Mädchen in der Abtreibungsklinik abholen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 290,
+    "O": "Land mines.",
+    "L1": "Minas terrestres",
+    "L2": "Landminen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 291,
+    "O": "Former President George W. Bush.",
+    "L1": "El ex presidente george w. arbusto.",
+    "L2": "Ehemaliger Präsident George W. Buchse.",
+    "Exp": "Base"
+  },
+  {
+    "I": 292,
+    "O": "Geese.",
+    "L1": "Gansos.",
+    "L2": "Gänse.",
+    "Exp": "Base"
+  },
+  {
+    "I": 293,
+    "O": "Mutually-assured destruction.",
+    "L1": "Destrucción mutua asegurada.",
+    "L2": "Gegenseitig zugesicherte Zerstörung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 294,
+    "O": "College.",
+    "L1": "Universidad.",
+    "L2": "Hochschule.",
+    "Exp": "Base"
+  },
+  {
+    "I": 295,
+    "O": "Date rape.",
+    "L1": "Fecha de la violación.",
+    "L2": "Datum Vergewaltigung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 296,
+    "O": "Bling.",
+    "L1": "Bling",
+    "L2": "Bling.",
+    "Exp": "Base"
+  },
+  {
+    "I": 297,
+    "O": "A gentle caress of the inner thigh.",
+    "L1": "Una suave caricia del interior del muslo.",
+    "L2": "Eine sanfte Berührung der inneren Oberschenkel.",
+    "Exp": "Base"
+  },
+  {
+    "I": 298,
+    "O": "A time travel paradox.",
+    "L1": "Una paradoja del viaje en el tiempo.",
+    "L2": "Ein Zeitreiseparadoxon.",
+    "Exp": "Base"
+  },
+  {
+    "I": 299,
+    "O": "Seppuku.",
+    "L1": "Seppuku.",
+    "L2": "Seppuku.",
+    "Exp": "Base"
+  },
+  {
+    "I": 300,
+    "O": "Poor life choices.",
+    "L1": "Malas elecciones de vida.",
+    "L2": "Schlechte Lebensentscheidungen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 301,
+    "O": "Waking up half-naked in a Denny's parking lot.",
+    "L1": "Despertando medio desnudo en el estacionamiento de un denny.",
+    "L2": "Halbnackt auf dem Parkplatz von Denny aufwachen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 302,
+    "O": "Italians.",
+    "L1": "Italianos",
+    "L2": "Italiener.",
+    "Exp": "Base"
+  },
+  {
+    "I": 303,
+    "O": "GoGurt.",
+    "L1": "Gogurt",
+    "L2": "Gogurt.",
+    "Exp": "Base"
+  },
+  {
+    "I": 304,
+    "O": "Finger painting.",
+    "L1": "Pintar con los dedos.",
+    "L2": "Fingermalen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 305,
+    "O": "Robert Downey, Jr.",
+    "L1": "Robert Downey jr.",
+    "L2": "Robert Downey Jr.",
+    "Exp": "Base"
+  },
+  {
+    "I": 306,
+    "O": "My soul.",
+    "L1": "Mi alma.",
+    "L2": "Meine Seele.",
+    "Exp": "Base"
+  },
+  {
+    "I": 307,
+    "O": "Smegma.",
+    "L1": "Smegma",
+    "L2": "Smegma.",
+    "Exp": "Base"
+  },
+  {
+    "I": 308,
+    "O": "Embryonic stem cells.",
+    "L1": "Células madre embrionarias.",
+    "L2": "Embryonische Stammzellen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 309,
+    "O": "The South.",
+    "L1": "El sur.",
+    "L2": "Der Süden.",
+    "Exp": "Base"
+  },
+  {
+    "I": 310,
+    "O": "Christopher Walken.",
+    "L1": "Christopher walken.",
+    "L2": "Christopher walken.",
+    "Exp": "Base"
+  },
+  {
+    "I": 311,
+    "O": "Gloryholes.",
+    "L1": "Gloryholes.",
+    "L2": "Glorreiche Löcher.",
+    "Exp": "Base"
+  },
+  {
+    "I": 312,
+    "O": "Pretending to care.",
+    "L1": "Pretendiendo cuidar",
+    "L2": "Vorgeben, sich zu sorgen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 313,
+    "O": "Public ridicule.",
+    "L1": "El ridículo público.",
+    "L2": "öffentlicher Spott.",
+    "Exp": "Base"
+  },
+  {
+    "I": 314,
+    "O": "A tiny horse.",
+    "L1": "Un pequeño caballo",
+    "L2": "Ein kleines Pferd.",
+    "Exp": "Base"
+  },
+  {
+    "I": 315,
+    "O": "Arnold Schwarzenegger.",
+    "L1": "Arnold Schwarzenegger.",
+    "L2": "Arnold Schwarzenegger.",
+    "Exp": "Base"
+  },
+  {
+    "I": 316,
+    "O": "A stray pube.",
+    "L1": "Un pube callejero.",
+    "L2": "Ein streunender Pube.",
+    "Exp": "Base"
+  },
+  {
+    "I": 317,
+    "O": "Jerking off into a pool of children's tears.",
+    "L1": "Masturbándose en un charco de lágrimas de niños.",
+    "L2": "Wichsen in einen Pool von Kindertränen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 318,
+    "O": "Child abuse.",
+    "L1": "Abuso infantil.",
+    "L2": "Kindesmisshandlung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 319,
+    "O": "Glenn Beck convulsively vomiting as a brood of crab spiders hatches in his brain and erupts from his tear ducts.",
+    "L1": "Glenn Beck vomitó convulsivamente cuando una cría de arañas cangrejo incuba en su cerebro y sale de sus conductos lagrimales.",
+    "L2": "Glenn Beck krümmt sich krampfhaft, als eine Brut von Krabbenspinnen in seinem Gehirn ausbricht und aus seinen Tränendrüsen ausbricht.",
+    "Exp": "Base"
+  },
+  {
+    "I": 320,
+    "O": "Menstruation.",
+    "L1": "Menstruación.",
+    "L2": "Menstruation.",
+    "Exp": "Base"
+  },
+  {
+    "I": 321,
+    "O": "A sassy black woman.",
+    "L1": "Una mujer negra descarada",
+    "L2": "Eine frech schwarze Frau.",
+    "Exp": "Base"
+  },
+  {
+    "I": 322,
+    "O": "Re-gifting.",
+    "L1": "Re-regalar.",
+    "L2": "Wiedergift.",
+    "Exp": "Base"
+  },
+  {
+    "I": 323,
+    "O": "Penis envy.",
+    "L1": "Envidia del pene.",
+    "L2": "Penis Neid.",
+    "Exp": "Base"
+  },
+  {
+    "I": 324,
+    "O": "A sausage festival.",
+    "L1": "Un festival de salchichas.",
+    "L2": "Ein Wurstfest.",
+    "Exp": "Base"
+  },
+  {
+    "I": 325,
+    "O": "Getting really high.",
+    "L1": "Haciendo muy alto",
+    "L2": "Sehr hoch werden.",
+    "Exp": "Base"
+  },
+  {
+    "I": 326,
+    "O": "Drinking alone.",
+    "L1": "Bebiendo solo",
+    "L2": "Alleine trinken.",
+    "Exp": "Base"
+  },
+  {
+    "I": 327,
+    "O": "Too much hair gel.",
+    "L1": "Demasiado gel para el cabello.",
+    "L2": "Zu viel Haargel.",
+    "Exp": "Base"
+  },
+  {
+    "I": 328,
+    "O": "Hulk Hogan.",
+    "L1": "Hulk Hogan.",
+    "L2": "Hulk Hogan.",
+    "Exp": "Base"
+  },
+  {
+    "I": 329,
+    "O": "Overcompensation.",
+    "L1": "Compensación excesiva.",
+    "L2": "Überkompensation.",
+    "Exp": "Base"
+  },
+  {
+    "I": 330,
+    "O": "Foreskin.",
+    "L1": "Prepucio.",
+    "L2": "Vorhaut.",
+    "Exp": "Base"
+  },
+  {
+    "I": 331,
+    "O": "Free samples.",
+    "L1": "Muestras gratis.",
+    "L2": "Gratisproben.",
+    "Exp": "Base"
+  },
+  {
+    "I": 332,
+    "O": "Shaquille O'Neal's acting career.",
+    "L1": "La carrera de shaquille o'neal.",
+    "L2": "Shaquille O'neals Schauspielkarriere.",
+    "Exp": "Base"
+  },
+  {
+    "I": 333,
+    "O": "Five-Dollar Footlongs.",
+    "L1": "Pies de cinco dólares.",
+    "L2": "Fünf-Dollar-Fußrasten.",
+    "Exp": "Base"
+  },
+  {
+    "I": 334,
+    "O": "Whipping it out.",
+    "L1": "Azotando hacia fuera",
+    "L2": "Es auspeitschen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 335,
+    "O": "A snapping turtle biting the tip of your penis.",
+    "L1": "Una tortuga mordiendo la punta de tu pene.",
+    "L2": "Eine Schnappschildkröte beißt die Spitze Ihres Penis.",
+    "Exp": "Base"
+  },
+  {
+    "I": 336,
+    "O": "Muhammad (Praise Be Unto Him).",
+    "L1": "Muhammad (alabado sea a él).",
+    "L2": "Muhammad (Lob sei ihm).",
+    "Exp": "Base"
+  },
+  {
+    "I": 337,
+    "O": "Half-assed foreplay.",
+    "L1": "Los juegos previos a medias.",
+    "L2": "Halbzorniges Vorspiel.",
+    "Exp": "Base"
+  },
+  {
+    "I": 338,
+    "O": "Dental dams.",
+    "L1": "Presas dentales.",
+    "L2": "Kofferdämme.",
+    "Exp": "Base"
+  },
+  {
+    "I": 339,
+    "O": "Being a dick to children.",
+    "L1": "Siendo una polla para niños.",
+    "L2": "Für Kinder ein Schwanz sein.",
+    "Exp": "Base"
+  },
+  {
+    "I": 340,
+    "O": "Famine.",
+    "L1": "Hambruna.",
+    "L2": "Hungersnot.",
+    "Exp": "Base"
+  },
+  {
+    "I": 341,
+    "O": "Chainsaws for hands.",
+    "L1": "Motosierras para manos.",
+    "L2": "Kettensägen für Hände.",
+    "Exp": "Base"
+  },
+  {
+    "I": 342,
+    "O": "A gypsy curse.",
+    "L1": "Una maldición gitana.",
+    "L2": "Ein Zigeunerfluch.",
+    "Exp": "Base"
+  },
+  {
+    "I": 343,
+    "O": "AXE Body Spray.",
+    "L1": "Spray para el cuerpo hacha.",
+    "L2": "Axtkörperspray.",
+    "Exp": "Base"
+  },
+  {
+    "I": 344,
+    "O": "The Force.",
+    "L1": "La fuerza.",
+    "L2": "Die Kraft.",
+    "Exp": "Base"
+  },
+  {
+    "I": 345,
+    "O": "Explosions.",
+    "L1": "Explosiones",
+    "L2": "Explosionen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 346,
+    "O": "Cybernetic enhancements.",
+    "L1": "Mejoras cibernéticas.",
+    "L2": "Kybernetische Verbesserungen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 347,
+    "O": "Customer service representatives.",
+    "L1": "Representantes de Servicio al Cliente.",
+    "L2": "Mitarbeiter beim Kundenservice.",
+    "Exp": "Base"
+  },
+  {
+    "I": 348,
+    "O": "White privilege.",
+    "L1": "Privilegio blanco",
+    "L2": "Weißes Privileg.",
+    "Exp": "Base"
+  },
+  {
+    "I": 349,
+    "O": "Gandhi.",
+    "L1": "Gandhi.",
+    "L2": "Gandhi.",
+    "Exp": "Base"
+  },
+  {
+    "I": 350,
+    "O": "Road head.",
+    "L1": "Cabeza del camino.",
+    "L2": "Straßenkopf.",
+    "Exp": "Base"
+  },
+  {
+    "I": 351,
+    "O": "God.",
+    "L1": "Dios.",
+    "L2": "Gott.",
+    "Exp": "Base"
+  },
+  {
+    "I": 352,
+    "O": "Poorly-timed Holocaust jokes.",
+    "L1": "Chistes de holocausto mal sincronizados.",
+    "L2": "Unangemessene Holocaust-Witze.",
+    "Exp": "Base"
+  },
+  {
+    "I": 353,
+    "O": "8 oz. of sweet Mexican black-tar heroin.",
+    "L1": "8 oz. De heroína mexicana de alquitrán dulce.",
+    "L2": "8 Unzen. von süßem mexikanischem Schwarzteer Heroin.",
+    "Exp": "Base"
+  },
+  {
+    "I": 354,
+    "O": "Judge Judy.",
+    "L1": "Juez judy",
+    "L2": "Richter Judy.",
+    "Exp": "Base"
+  },
+  {
+    "I": 355,
+    "O": "The Little Engine That Could.",
+    "L1": "El pequeño motor que podia.",
+    "L2": "Der kleine Motor, der das könnte.",
+    "Exp": "Base"
+  },
+  {
+    "I": 356,
+    "O": "Altar boys.",
+    "L1": "Monaguillos",
+    "L2": "Ministranten.",
+    "Exp": "Base"
+  },
+  {
+    "I": 357,
+    "O": "Mr. Clean, right behind you.",
+    "L1": "Señor. limpio, justo detrás de ti",
+    "L2": "Herr. sauber, direkt hinter dir.",
+    "Exp": "Base"
+  },
+  {
+    "I": 358,
+    "O": "Vehicular manslaughter.",
+    "L1": "Homicidio vehicular.",
+    "L2": "Fahrzeug Totschlag.",
+    "Exp": "Base"
+  },
+  {
+    "I": 359,
+    "O": "Dwarf tossing.",
+    "L1": "Lanzando enanos.",
+    "L2": "Zwergen werfen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 360,
+    "O": "Friction.",
+    "L1": "Fricción.",
+    "L2": "Reibung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 361,
+    "O": "Lady Gaga.",
+    "L1": "Lady Gaga.",
+    "L2": "Lady Gaga.",
+    "Exp": "Base"
+  },
+  {
+    "I": 362,
+    "O": "Scientology.",
+    "L1": "Cientología",
+    "L2": "Scientology.",
+    "Exp": "Base"
+  },
+  {
+    "I": 363,
+    "O": "Justin Bieber.",
+    "L1": "Justin Bieber.",
+    "L2": "Justin Bieber.",
+    "Exp": "Base"
+  },
+  {
+    "I": 364,
+    "O": "A death ray.",
+    "L1": "Un rayo de la muerte.",
+    "L2": "Ein Todesstrahl.",
+    "Exp": "Base"
+  },
+  {
+    "I": 365,
+    "O": "Vigilante justice.",
+    "L1": "Justicia vigilante.",
+    "L2": "Selbstjustiz.",
+    "Exp": "Base"
+  },
+  {
+    "I": 366,
+    "O": "The Pope.",
+    "L1": "El Papa.",
+    "L2": "Der Papst.",
+    "Exp": "Base"
+  },
+  {
+    "I": 367,
+    "O": "A sea of troubles.",
+    "L1": "Un mar de problemas",
+    "L2": "Ein Meer von Schwierigkeiten.",
+    "Exp": "Base"
+  },
+  {
+    "I": 368,
+    "O": "Alcoholism.",
+    "L1": "Alcoholismo.",
+    "L2": "Alkoholismus.",
+    "Exp": "Base"
+  },
+  {
+    "I": 369,
+    "O": "Poor people.",
+    "L1": "Gente pobre.",
+    "L2": "Arme Leute.",
+    "Exp": "Base"
+  },
+  {
+    "I": 370,
+    "O": "A fetus.",
+    "L1": "Un feto",
+    "L2": "Ein Fötus.",
+    "Exp": "Base"
+  },
+  {
+    "I": 371,
+    "O": "Women in yogurt commercials.",
+    "L1": "Mujeres en comerciales de yogurt.",
+    "L2": "Frauen in Joghurt Werbespots.",
+    "Exp": "Base"
+  },
+  {
+    "I": 372,
+    "O": "Exactly what you'd expect.",
+    "L1": "Exactamente lo que esperas",
+    "L2": "Genau das, was du erwarten würdest.",
+    "Exp": "Base"
+  },
+  {
+    "I": 373,
+    "O": "Flesh-eating bacteria.",
+    "L1": "Bacterias carnívoras.",
+    "L2": "Fleisch essende Bakterien.",
+    "Exp": "Base"
+  },
+  {
+    "I": 374,
+    "O": "My genitals.",
+    "L1": "Mis genitales",
+    "L2": "Meine Genitalien.",
+    "Exp": "Base"
+  },
+  {
+    "I": 375,
+    "O": "A balanced breakfast.",
+    "L1": "Un desayuno equilibrado.",
+    "L2": "Ein ausgewogenes Frühstück.",
+    "Exp": "Base"
+  },
+  {
+    "I": 376,
+    "O": "Dick Cheney.",
+    "L1": "Dick Cheney.",
+    "L2": "Dick Cheney.",
+    "Exp": "Base"
+  },
+  {
+    "I": 377,
+    "O": "Lockjaw.",
+    "L1": "Trismo.",
+    "L2": "Wundstarrkrampf.",
+    "Exp": "Base"
+  },
+  {
+    "I": 378,
+    "O": "Natural male enhancement.",
+    "L1": "Mejora masculina natural.",
+    "L2": "Natürliche männliche Verbesserung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 379,
+    "O": "Take-backsies.",
+    "L1": "Take-backsies.",
+    "L2": "Rücknahmen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 380,
+    "O": "Winking at old people.",
+    "L1": "Guiñando un ojo a los ancianos.",
+    "L2": "Zwinkert alten Leuten zu.",
+    "Exp": "Base"
+  },
+  {
+    "I": 381,
+    "O": "Opposable thumbs.",
+    "L1": "Pulgares oponibles.",
+    "L2": "Opponierbare Daumen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 382,
+    "O": "Flying sex snakes.",
+    "L1": "Volando serpientes sexuales.",
+    "L2": "Fliegende Sexschlangen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 383,
+    "O": "Passive-aggressive Post-it notes.",
+    "L1": "Notas post-it pasivo-agresivas.",
+    "L2": "Passiv-aggressive Post-It Notes.",
+    "Exp": "Base"
+  },
+  {
+    "I": 384,
+    "O": "Inappropriate yodeling.",
+    "L1": "Yodeling inapropiado.",
+    "L2": "Unpassendes Jodeln.",
+    "Exp": "Base"
+  },
+  {
+    "I": 385,
+    "O": "Golden showers.",
+    "L1": "Duchas de oro",
+    "L2": "Goldene Duschen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 386,
+    "O": "Racism.",
+    "L1": "Racismo.",
+    "L2": "Rassismus.",
+    "Exp": "Base"
+  },
+  {
+    "I": 387,
+    "O": "Copping a feel.",
+    "L1": "Copping una sensación.",
+    "L2": "Ein Gefühl vermitteln.",
+    "Exp": "Base"
+  },
+  {
+    "I": 388,
+    "O": "Auschwitz.",
+    "L1": "Auschwitz.",
+    "L2": "Auschwitz.",
+    "Exp": "Base"
+  },
+  {
+    "I": 389,
+    "O": "Elderly Japanese men.",
+    "L1": "Ancianos japoneses.",
+    "L2": "ältere japanische Männer.",
+    "Exp": "Base"
+  },
+  {
+    "I": 390,
+    "O": "Raping and pillaging.",
+    "L1": "Violación y pillaje.",
+    "L2": "Vergewaltigung und Plünderung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 391,
+    "O": "Kids with ass cancer.",
+    "L1": "Niños con cáncer de culo.",
+    "L2": "Kinder mit Krebs des Esels.",
+    "Exp": "Base"
+  },
+  {
+    "I": 392,
+    "O": "Pictures of boobs.",
+    "L1": "Fotos de tetas.",
+    "L2": "Bilder von Titten.",
+    "Exp": "Base"
+  },
+  {
+    "I": 393,
+    "O": "The homosexual agenda.",
+    "L1": "La agenda homosexual.",
+    "L2": "Die homosexuelle Agenda.",
+    "Exp": "Base"
+  },
+  {
+    "I": 394,
+    "O": "A homoerotic volleyball montage.",
+    "L1": "Un montaje de voleibol homoerótico.",
+    "L2": "Eine homoerotische Volleyball-Montage.",
+    "Exp": "Base"
+  },
+  {
+    "I": 395,
+    "O": "Sexual tension.",
+    "L1": "Tensión sexual",
+    "L2": "Sexuelle Spannung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 396,
+    "O": "Hurricane Katrina.",
+    "L1": "Huracan Katrina.",
+    "L2": "Wirbelsturm Katrina.",
+    "Exp": "Base"
+  },
+  {
+    "I": 397,
+    "O": "Fiery poops.",
+    "L1": "Caca de fuego",
+    "L2": "Feurige Kacke.",
+    "Exp": "Base"
+  },
+  {
+    "I": 398,
+    "O": "Science.",
+    "L1": "Ciencia.",
+    "L2": "Wissenschaft.",
+    "Exp": "Base"
+  },
+  {
+    "I": 399,
+    "O": "Dry heaving.",
+    "L1": "Secado seco",
+    "L2": "Trockenes Heben.",
+    "Exp": "Base"
+  },
+  {
+    "I": 400,
+    "O": "Cards Against Humanity.",
+    "L1": "Cartas contra la humanidad.",
+    "L2": "Karten gegen die Menschheit.",
+    "Exp": "Base"
+  },
+  {
+    "I": 401,
+    "O": "Fancy Feast.",
+    "L1": "Fiesta de lujo.",
+    "L2": "Schickes Festmahl.",
+    "Exp": "Base"
+  },
+  {
+    "I": 402,
+    "O": "A bleached asshole.",
+    "L1": "Un gilipollas blanqueado.",
+    "L2": "Ein gebleichtes Arschloch.",
+    "Exp": "Base"
+  },
+  {
+    "I": 403,
+    "O": "Lumberjack fantasies.",
+    "L1": "Fantasías de leñador.",
+    "L2": "Holzfäller-Fantasien.",
+    "Exp": "Base"
+  },
+  {
+    "I": 404,
+    "O": "American Gladiators.",
+    "L1": "Gladiadores americanos.",
+    "L2": "Amerikanische Gladiatoren.",
+    "Exp": "Base"
+  },
+  {
+    "I": 405,
+    "O": "Autocannibalism.",
+    "L1": "Autocannibalismo.",
+    "L2": "Autokanibalismus.",
+    "Exp": "Base"
+  },
+  {
+    "I": 406,
+    "O": "Sean Connery.",
+    "L1": "Sean Connery.",
+    "L2": "Sean Connery.",
+    "Exp": "Base"
+  },
+  {
+    "I": 407,
+    "O": "William Shatner.",
+    "L1": "William Shatner.",
+    "L2": "William Shatner.",
+    "Exp": "Base"
+  },
+  {
+    "I": 408,
+    "O": "Domino's Oreo Dessert Pizza.",
+    "L1": "Pizza de postre oreo de domino.",
+    "L2": "Domino's Oreo Dessert Pizza.",
+    "Exp": "Base"
+  },
+  {
+    "I": 409,
+    "O": "An asymmetric boob job.",
+    "L1": "Un trabajo de tetas asimétricas.",
+    "L2": "Ein asymmetrischer Boob-Job.",
+    "Exp": "Base"
+  },
+  {
+    "I": 410,
+    "O": "Centaurs.",
+    "L1": "Centauros",
+    "L2": "Zentauren.",
+    "Exp": "Base"
+  },
+  {
+    "I": 411,
+    "O": "A micropenis.",
+    "L1": "Un micropene.",
+    "L2": "Ein Mikropenis.",
+    "Exp": "Base"
+  },
+  {
+    "I": 412,
+    "O": "Asians who aren't good at math.",
+    "L1": "Asiáticos que no son buenos en matemáticas.",
+    "L2": "Asiaten, die nicht gut in Mathe sind.",
+    "Exp": "Base"
+  },
+  {
+    "I": 413,
+    "O": "The milk man.",
+    "L1": "El hombre de leche",
+    "L2": "Der Milchmann.",
+    "Exp": "Base"
+  },
+  {
+    "I": 414,
+    "O": "Waterboarding.",
+    "L1": "El waterboarding",
+    "L2": "Wasserfolter.",
+    "Exp": "Base"
+  },
+  {
+    "I": 415,
+    "O": "Wifely duties.",
+    "L1": "Deberes de la esposa.",
+    "L2": "Ehefraupflichten.",
+    "Exp": "Base"
+  },
+  {
+    "I": 416,
+    "O": "Loose lips.",
+    "L1": "Labios caídos.",
+    "L2": "Lose Lippen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 417,
+    "O": "The Blood of Christ.",
+    "L1": "La sangre de cristo",
+    "L2": "Das Blut Christi.",
+    "Exp": "Base"
+  },
+  {
+    "I": 418,
+    "O": "Actually taking candy from a baby.",
+    "L1": "En realidad, tomando dulces de un bebé.",
+    "L2": "Süßigkeiten von einem Baby nehmen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 419,
+    "O": "The token minority.",
+    "L1": "La minoría simbólica.",
+    "L2": "Die symbolische Minderheit.",
+    "Exp": "Base"
+  },
+  {
+    "I": 420,
+    "O": "Jibber-jabber.",
+    "L1": "Jibber-Jabber.",
+    "L2": "Jibber-Jabber.",
+    "Exp": "Base"
+  },
+  {
+    "I": 421,
+    "O": "A brain tumor.",
+    "L1": "Un tumor cerebral",
+    "L2": "Ein Hirntumor.",
+    "Exp": "Base"
+  },
+  {
+    "I": 422,
+    "O": "Bingeing and purging.",
+    "L1": "Atracones y purgas",
+    "L2": "Binging und Säuberung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 423,
+    "O": "A clandestine butt scratch.",
+    "L1": "Un rasguño clandestino a tope.",
+    "L2": "Ein heimlicher Hintern-Kratzer.",
+    "Exp": "Base"
+  },
+  {
+    "I": 424,
+    "O": "The Chinese gymnastics team.",
+    "L1": "El equipo de gimnasia china.",
+    "L2": "Das chinesische Gymnastikteam.",
+    "Exp": "Base"
+  },
+  {
+    "I": 425,
+    "O": "Prancing.",
+    "L1": "Saltando",
+    "L2": "Tänzelnd.",
+    "Exp": "Base"
+  },
+  {
+    "I": 426,
+    "O": "The Hamburglar.",
+    "L1": "La hamburguesa",
+    "L2": "Der hamburglar.",
+    "Exp": "Base"
+  },
+  {
+    "I": 427,
+    "O": "Police brutality.",
+    "L1": "Brutalidad policial.",
+    "L2": "Polizeibrutalität.",
+    "Exp": "Base"
+  },
+  {
+    "I": 428,
+    "O": "Man meat.",
+    "L1": "Carne de hombre",
+    "L2": "Mann Fleisch.",
+    "Exp": "Base"
+  },
+  {
+    "I": 429,
+    "O": "Forgetting the Alamo.",
+    "L1": "Olvidando el alamo.",
+    "L2": "Den Alamo vergessen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 430,
+    "O": "Eating the last known bison.",
+    "L1": "Comiendo el último bisonte conocido.",
+    "L2": "Den letzten bekannten Bison essen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 431,
+    "O": "Crystal meth.",
+    "L1": "Cristal de metanfetamina",
+    "L2": "Kristall Meth.",
+    "Exp": "Base"
+  },
+  {
+    "I": 432,
+    "O": "Booby-trapping the house to foil burglars.",
+    "L1": "Trampas explosivas de la casa para derrotar a los ladrones.",
+    "L2": "Sprengfallen das Haus, um Einbrecher zu vereiteln.",
+    "Exp": "Base"
+  },
+  {
+    "I": 433,
+    "O": "My inner demons.",
+    "L1": "Mis demonios internos",
+    "L2": "Meine inneren Dämonen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 434,
+    "O": "Third base.",
+    "L1": "Tercera base.",
+    "L2": "Dritte Basis.",
+    "Exp": "Base"
+  },
+  {
+    "I": 435,
+    "O": "Soiling oneself.",
+    "L1": "Ensuciarse uno mismo.",
+    "L2": "Sich beschmutzen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 436,
+    "O": "Laying an egg.",
+    "L1": "Poniendo un huevo",
+    "L2": "Ein Ei legen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 437,
+    "O": "Giving 110%.",
+    "L1": "Dando el 110%.",
+    "L2": "Geben 110%.",
+    "Exp": "Base"
+  },
+  {
+    "I": 438,
+    "O": "Hot people.",
+    "L1": "Gente caliente",
+    "L2": "Heiße Leute.",
+    "Exp": "Base"
+  },
+  {
+    "I": 439,
+    "O": "Friendly fire.",
+    "L1": "Fuego amigo.",
+    "L2": "Teambeschuss.",
+    "Exp": "Base"
+  },
+  {
+    "I": 440,
+    "O": "Count Chocula.",
+    "L1": "Conde Chocula.",
+    "L2": "Zähle Chocula.",
+    "Exp": "Base"
+  },
+  {
+    "I": 441,
+    "O": "Pac-Man uncontrollably guzzling cum.",
+    "L1": "Pac-man incontrolablemente bebiendo cum.",
+    "L2": "Pac-man unkontrolliert Sperma schluckt.",
+    "Exp": "Base"
+  },
+  {
+    "I": 442,
+    "O": "Estrogen.",
+    "L1": "Estrógeno.",
+    "L2": "Östrogen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 443,
+    "O": "My vagina.",
+    "L1": "Mi vagina",
+    "L2": "Meine Vagina.",
+    "Exp": "Base"
+  },
+  {
+    "I": 444,
+    "O": "Kanye West.",
+    "L1": "Kanye West.",
+    "L2": "Kanye West.",
+    "Exp": "Base"
+  },
+  {
+    "I": 445,
+    "O": "A robust mongoloid.",
+    "L1": "Un mongoloide robusto.",
+    "L2": "Ein robuster Mongoloid.",
+    "Exp": "Base"
+  },
+  {
+    "I": 446,
+    "O": "The Donald Trump Seal of Approval.",
+    "L1": "El sello de aprobación de donald trump.",
+    "L2": "Das Donald Trump Gütesiegel.",
+    "Exp": "Base"
+  },
+  {
+    "I": 447,
+    "O": "The true meaning of Christmas.",
+    "L1": "El verdadero significado de la navidad.",
+    "L2": "Die wahre Bedeutung von Weihnachten.",
+    "Exp": "Base"
+  },
+  {
+    "I": 448,
+    "O": "Her Royal Highness, Queen Elizabeth II.",
+    "L1": "Su alteza real, reina elizabeth ii.",
+    "L2": "Ihre königliche Hoheit, Königin Elizabeth II.",
+    "Exp": "Base"
+  },
+  {
+    "I": 449,
+    "O": "An honest cop with nothing left to lose.",
+    "L1": "Un policía honesto sin nada que perder.",
+    "L2": "Ein ehrlicher Polizist, der nichts mehr zu verlieren hat.",
+    "Exp": "Base"
+  },
+  {
+    "I": 450,
+    "O": "Feeding Rosie O'Donnell.",
+    "L1": "Alimentando a rosie o'donnell.",
+    "L2": "Fütterung Rosie O'Donnell.",
+    "Exp": "Base"
+  },
+  {
+    "I": 451,
+    "O": "The Amish.",
+    "L1": "Los amish.",
+    "L2": "Die Amish.",
+    "Exp": "Base"
+  },
+  {
+    "I": 452,
+    "O": "The terrorists.",
+    "L1": "Los terroristas.",
+    "L2": "Die Terroristen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 453,
+    "O": "When you fart and a little bit comes out.",
+    "L1": "Cuando te tiras un pedo y sale un poquito.",
+    "L2": "Wenn du furzst und ein bisschen rauskommst.",
+    "Exp": "Base"
+  },
+  {
+    "I": 454,
+    "O": "Pooping back and forth. Forever.",
+    "L1": "Haciendo caca de ida y vuelta. Siempre.",
+    "L2": "Pooping hin und her. für immer.",
+    "Exp": "Base"
+  },
+  {
+    "I": 455,
+    "O": "Friends who eat all the snacks.",
+    "L1": "Amigos que comen todos los bocadillos.",
+    "L2": "Freunde, die alle Snacks essen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 456,
+    "O": "Cockfights.",
+    "L1": "Peleas de gallos",
+    "L2": "Hahnenkämpfe.",
+    "Exp": "Base"
+  },
+  {
+    "I": 457,
+    "O": "Bitches.",
+    "L1": "Perras",
+    "L2": "Hündinnen.",
+    "Exp": "Base"
+  },
+  {
+    "I": 458,
+    "O": "Seduction.",
+    "L1": "Seducción.",
+    "L2": "Verführung.",
+    "Exp": "Base"
+  },
+  {
+    "I": 549,
+    "O": "A big black dick.",
+    "L1": "Una gran polla negra.",
+    "L2": "Ein großer schwarzer Schwanz.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 550,
+    "O": "A beached whale.",
+    "L1": "Una ballena varada",
+    "L2": "Ein gestrandeter Wal.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 551,
+    "O": "A bloody pacifier.",
+    "L1": "Un chupete sangriento.",
+    "L2": "Ein blutiger Schnuller.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 552,
+    "O": "A crappy little hand.",
+    "L1": "Una manita de mierda.",
+    "L2": "Eine beschissene kleine Hand.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 553,
+    "O": "A low standard of living.",
+    "L1": "Un bajo nivel de vida.",
+    "L2": "Ein niedriger Lebensstandard.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 554,
+    "O": "A nuanced critique.",
+    "L1": "Una crítica matizada.",
+    "L2": "Eine nuancierte Kritik.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 555,
+    "O": "Panty raids.",
+    "L1": "Redadas de panty",
+    "L2": "Panty Raids.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 556,
+    "O": "A passionate Latino lover.",
+    "L1": "Un apasionado amante latino.",
+    "L2": "Ein leidenschaftlicher Latino-Liebhaber.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 557,
+    "O": "A rival dojo.",
+    "L1": "Un dojo rival.",
+    "L2": "Ein rivalisierendes Dojo.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 558,
+    "O": "A web of lies.",
+    "L1": "Una red de mentiras.",
+    "L2": "Ein Netz von Lügen.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 559,
+    "O": "A woman scorned.",
+    "L1": "Una mujer despreciada.",
+    "L2": "Eine verachtete Frau.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 560,
+    "O": "Clams.",
+    "L1": "Almejas.",
+    "L2": "Venusmuscheln.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 561,
+    "O": "Apologizing.",
+    "L1": "Disculpandose",
+    "L2": "Entschuldigend.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 562,
+    "O": "A plunger to the face.",
+    "L1": "Un émbolo en la cara.",
+    "L2": "Ein Kolben zum Gesicht.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 563,
+    "O": "Neil Patrick Harris.",
+    "L1": "Neil Patrick Harris.",
+    "L2": "Neil Patrick Harris.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 564,
+    "O": "Beating your wives.",
+    "L1": "Golpeando a sus esposas",
+    "L2": "Deine Frauen schlagen.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 565,
+    "O": "Being a dinosaur.",
+    "L1": "Ser un dinosaurio",
+    "L2": "Ein Dinosaurier sein.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 566,
+    "O": "Shaft.",
+    "L1": "Eje.",
+    "L2": "Welle.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 567,
+    "O": "Bosnian chicken farmers.",
+    "L1": "Gallineros bosnios.",
+    "L2": "Bosnische Hühnerbauern.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 568,
+    "O": "Nubile slave boys.",
+    "L1": "Niños esclavos núbiles.",
+    "L2": "Nubile Sklavenjungs.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 569,
+    "O": "Carnies.",
+    "L1": "Carnies",
+    "L2": "Carnies.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 570,
+    "O": "Coughing into a vagina.",
+    "L1": "Toser en una vagina.",
+    "L2": "Husten in eine Vagina.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 571,
+    "O": "Suicidal thoughts.",
+    "L1": "Pensamientos suicidas.",
+    "L2": "Selbstmordgedanken.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 572,
+    "O": "The ooze.",
+    "L1": "El lodo",
+    "L2": "Der Schlamm.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 573,
+    "O": "Deflowering the princess.",
+    "L1": "Desflorando a la princesa.",
+    "L2": "Die Prinzessin entjungfern.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 574,
+    "O": "Dorito breath.",
+    "L1": "Dorito aliento.",
+    "L2": "Dorito Atem.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 575,
+    "O": "Eating an albino.",
+    "L1": "Comiendo un albino.",
+    "L2": "Einen Albino essen.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 576,
+    "O": "Enormous Scandinavian women.",
+    "L1": "Enormes mujeres escandinavas.",
+    "L2": "Enorme skandinavische Frauen.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 577,
+    "O": "Fabricating statistics.",
+    "L1": "Fabricación de estadísticas.",
+    "L2": "Statistiken erstellen.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 578,
+    "O": "Finding a skeleton.",
+    "L1": "Encontrando un esqueleto",
+    "L2": "Ein Skelett finden.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 579,
+    "O": "Gandalf.",
+    "L1": "Gandalf.",
+    "L2": "Gandalf.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 580,
+    "O": "Genetically engineered super-soldiers.",
+    "L1": "Super-soldados genéticamente diseñados.",
+    "L2": "Gentechnisch veränderte Super-Soldaten.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 581,
+    "O": "George Clooney's musk.",
+    "L1": "El almizcle de george clooney.",
+    "L2": "George Clooneys Moschus.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 582,
+    "O": "Getting abducted by Peter Pan.",
+    "L1": "Siendo secuestrado por peter pan.",
+    "L2": "Von Peter Pan entführt werden.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 583,
+    "O": "Getting in her pants, politely.",
+    "L1": "Meterse en sus pantalones, cortésmente.",
+    "L2": "In ihre Hose, höflich.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 584,
+    "O": "Gladiatorial combat.",
+    "L1": "Combate de gladiadores.",
+    "L2": "Gladiatorenkämpfe.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 585,
+    "O": "Clenched butt cheeks.",
+    "L1": "Las nalgas apretadas a tope.",
+    "L2": "Zusammengeballte Pobacken.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 586,
+    "O": "Hipsters.",
+    "L1": "Los hipsters",
+    "L2": "Hipster.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 587,
+    "O": "Historical revisionism.",
+    "L1": "Revisionismo historico.",
+    "L2": "Historischer Revisionismus.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 588,
+    "O": "Insatiable bloodlust.",
+    "L1": "Sed de sangre insaciable.",
+    "L2": "Unersättlicher Blutrausch.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 589,
+    "O": "Jafar.",
+    "L1": "Jafar",
+    "L2": "Jafar.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 590,
+    "O": "Jean-Claude Van Damme.",
+    "L1": "Jean Claude Van Damme.",
+    "L2": "Jean Claude Van Damme.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 591,
+    "O": "Just the tip.",
+    "L1": "Solo la punta.",
+    "L2": "Nur die Spitze.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 592,
+    "O": "Mad hacky-sack skills.",
+    "L1": "Habilidades de hacky-saco loco.",
+    "L2": "Verrückte Hacky-Sack-Fähigkeiten.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 593,
+    "O": "Leveling up.",
+    "L1": "Subir de nivel.",
+    "L2": "Stufe aufsteigen.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 594,
+    "O": "Literally eating shit.",
+    "L1": "Literalmente comiendo mierda.",
+    "L2": "Buchstäblich Scheiße essen.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 595,
+    "O": "Making the penises kiss.",
+    "L1": "Haciendo que los penes se besen.",
+    "L2": "Die Penisse küssen lassen.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 596,
+    "O": "24-hour media coverage.",
+    "L1": "Cobertura mediática las 24 horas.",
+    "L2": "24-Stunden-Berichterstattung",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 598,
+    "O": "Moral ambiguity.",
+    "L1": "Ambigüedad moral",
+    "L2": "Moralische Ambiguität.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 599,
+    "O": "My machete.",
+    "L1": "Mi machete",
+    "L2": "Meine Machete.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 600,
+    "O": "One thousand Slim Jims.",
+    "L1": "Mil jims delgados.",
+    "L2": "Eintausend schlanke Jims.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 601,
+    "O": "Ominous background music.",
+    "L1": "Ominosa música de fondo.",
+    "L2": "Ominöse Hintergrundmusik.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 602,
+    "O": "Overpowering your father.",
+    "L1": "Dominar a tu padre",
+    "L2": "Deinen Vater überwältigen.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 603,
+    "O": "Stockholm Syndrome.",
+    "L1": "Síndrome de Estocolmo.",
+    "L2": "Stockholm syndrom.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 604,
+    "O": "Quiche.",
+    "L1": "Quiche.",
+    "L2": "Quiche.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 605,
+    "O": "Quivering jowls.",
+    "L1": "Papadas temblorosas.",
+    "L2": "Zitternde Wangen.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 606,
+    "O": "Revenge fucking.",
+    "L1": "Venganza de mierda",
+    "L2": "Rache ficken.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 607,
+    "O": "Ripping into a man's chest and pulling out his still-beating heart.",
+    "L1": "Rasgando en el pecho de un hombre y sacando su corazón aún palpitante.",
+    "L2": "In die Brust eines Mannes reißen und sein noch schlagendes Herz herausziehen.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 608,
+    "O": "Ryan Gosling riding in on a white horse.",
+    "L1": "Ryan gosling montando en un caballo blanco.",
+    "L2": "Ryan Gosling, der herein auf ein weißes Pferd reitet.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 609,
+    "O": "Santa Claus.",
+    "L1": "Papá Noel.",
+    "L2": "Weihnachtsmann.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 610,
+    "O": "Scrotum tickling.",
+    "L1": "Escroto cosquilleo.",
+    "L2": "Hodensack Kitzeln.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 611,
+    "O": "Sexual humiliation.",
+    "L1": "Humillación sexual.",
+    "L2": "Sexuelle Demütigung.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 612,
+    "O": "Sexy Siamese twins.",
+    "L1": "Gemelas sexy siamesas",
+    "L2": "Sexy siamesische Zwillinge.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 613,
+    "O": "Saliva.",
+    "L1": "Saliva.",
+    "L2": "Speichel.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 614,
+    "O": "Space muffins.",
+    "L1": "Magdalenas espaciales.",
+    "L2": "Raummuffins.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 615,
+    "O": "Statistically validated stereotypes.",
+    "L1": "Estereotipos estadísticamente validados.",
+    "L2": "Statistisch validierte Stereotypen.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 616,
+    "O": "Sudden Poop Explosion Disease.",
+    "L1": "Enfermedad repentina explosión caca.",
+    "L2": "Plötzliche Poop Explosionskrankheit.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 617,
+    "O": "The boners of the elderly.",
+    "L1": "Los boners de los ancianos.",
+    "L2": "Die Knochen der Alten.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 618,
+    "O": "The economy.",
+    "L1": "La economía.",
+    "L2": "Die Wirtschaft.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 619,
+    "O": "Syphilitic insanity.",
+    "L1": "Locura sifilítica.",
+    "L2": "Syphilitischer Wahnsinn.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 620,
+    "O": "The Gulags.",
+    "L1": "Los gulags.",
+    "L2": "Die Gulags.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 621,
+    "O": "The harsh light of day.",
+    "L1": "La dura luz del día.",
+    "L2": "Das grelle Licht des Tages.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 622,
+    "O": "The hiccups.",
+    "L1": "El hipo.",
+    "L2": "Schluckauf.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 623,
+    "O": "The shambling corpse of Larry King.",
+    "L1": "El desvencijado cadáver del rey larry.",
+    "L2": "Die wogende Leiche von Larry King.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 624,
+    "O": "The four arms of Vishnu.",
+    "L1": "Los cuatro brazos de vishnu.",
+    "L2": "Die vier Arme Vishnus.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 625,
+    "O": "Being a busy adult with many important things to do.",
+    "L1": "Ser un adulto ocupado con muchas cosas importantes que hacer.",
+    "L2": "Ein beschäftigter Erwachsener mit vielen wichtigen Dingen zu tun sein.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 626,
+    "O": "Tripping balls.",
+    "L1": "Disparando bolas",
+    "L2": "Stolpern Kugeln.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 627,
+    "O": "Words, words, words.",
+    "L1": "Palabras, palabras, palabras",
+    "L2": "Wörter, Wörter, Wörter.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 628,
+    "O": "Zeus's sexual appetites.",
+    "L1": "Los apetitos sexuales de zeus.",
+    "L2": "Zeus sexuellen Appetit.",
+    "Exp": "CAHe1"
+  },
+  {
+    "I": 649,
+    "O": "A bigger, blacker dick.",
+    "L1": "Una polla más grande, más negra.",
+    "L2": "Ein größerer, schwärzerer Schwanz.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 650,
+    "O": "The mere concept of Applebee's.",
+    "L1": "El mero concepto de applebee's.",
+    "L2": "Das bloße Konzept von Applebee.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 651,
+    "O": "A sad fat dragon with no friends.",
+    "L1": "Un dragón gordo y triste sin amigos.",
+    "L2": "Ein trauriger dicker Drache ohne Freunde.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 652,
+    "O": "Catastrophic urethral trauma.",
+    "L1": "Trauma uretral catastrófico.",
+    "L2": "Katastrophales Urethraltrauma.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 653,
+    "O": "Hillary Clinton's death stare.",
+    "L1": "La mirada fija de hillary clinton.",
+    "L2": "Hillary Clintons Todesblick.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 654,
+    "O": "Existing.",
+    "L1": "Existente.",
+    "L2": "Bestehende.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 655,
+    "O": "A pinata full of scorpions.",
+    "L1": "Una piñata llena de escorpiones.",
+    "L2": "Eine Pinata voller Skorpione.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 656,
+    "O": "Mooing.",
+    "L1": "Mooing",
+    "L2": "Muhen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 657,
+    "O": "Swiftly achieving orgasm.",
+    "L1": "Alcanzando rápidamente el orgasmo.",
+    "L2": "Schnell zum Orgasmus kommen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 658,
+    "O": "Daddy's belt.",
+    "L1": "El cinturón de papi",
+    "L2": "Papas Gürtel.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 659,
+    "O": "Double penetration.",
+    "L1": "Doble penetración.",
+    "L2": "Doppelpenetration.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 660,
+    "O": "Weapons-grade plutonium.",
+    "L1": "Plutonio de grado de armas.",
+    "L2": "Waffenfähiges Plutonium.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 661,
+    "O": "Some really fucked-up shit.",
+    "L1": "Alguna mierda realmente jodida.",
+    "L2": "Einige wirklich abgefuckte Scheiße.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 662,
+    "O": "Subduing a grizzly bear and making her your wife.",
+    "L1": "Dominar a un oso grizzly y convertirla en tu esposa.",
+    "L2": "Einen Grizzlybären unterwerfen und sie zu deiner Frau machen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 663,
+    "O": "Rising from the grave.",
+    "L1": "Levantándose de la tumba.",
+    "L2": "Aus dem Grab aufstehen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 664,
+    "O": "The mixing of the races.",
+    "L1": "La mezcla de las razas.",
+    "L2": "Das Mischen der Rassen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 665,
+    "O": "Taking a man's eyes and balls out and putting his eyes where his balls go and then his balls in the eye holes.",
+    "L1": "Sacando los ojos y las bolas de un hombre y poniendo sus ojos donde van sus bolas y luego sus bolas en los agujeros de los ojos.",
+    "L2": "Man nimmt die Augen und die Bälle eines Mannes heraus und setzt seine Augen dort hin, wo seine Eier hingehen und dann seine Eier in die Augenlöcher.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 666,
+    "O": "Scrotal frostbite.",
+    "L1": "Congelación escrotal.",
+    "L2": "Skrotal Erfrierungen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 667,
+    "O": "All of this blood.",
+    "L1": "Toda esta sangre",
+    "L2": "All dieses Blut.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 668,
+    "O": "Loki, the trickster god.",
+    "L1": "Loki, el dios tramposo.",
+    "L2": "Loki, der Trickstergott.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 669,
+    "O": "Whining like a little bitch.",
+    "L1": "Gimiendo como una pequeña perra.",
+    "L2": "Winseln wie eine kleine Schlampe.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 670,
+    "O": "Pumping out a baby every nine months.",
+    "L1": "Sacar a un bebé cada nueve meses.",
+    "L2": "Ein Baby alle neun Monate auspumpen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 671,
+    "O": "Tongue.",
+    "L1": "Lengua.",
+    "L2": "Zunge.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 672,
+    "O": "Finding Waldo.",
+    "L1": "Encontrando waldo.",
+    "L2": "Waldo finden.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 673,
+    "O": "Upgrading homeless people to mobile hotspots.",
+    "L1": "Actualización de personas sin hogar a puntos de acceso móviles.",
+    "L2": "Aufwertung von Obdachlosen zu mobilen Hotspots.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 674,
+    "O": "Wearing an octopus for a hat.",
+    "L1": "Llevando un pulpo por un sombrero.",
+    "L2": "Einen Tintenfisch für einen Hut tragen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 675,
+    "O": "An unhinged ferris wheel rolling toward the sea.",
+    "L1": "Una rueda de ferris desordenado rodando hacia el mar.",
+    "L2": "Ein schwereloses Riesenrad, das sich dem Meer nähert.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 676,
+    "O": "Living in a trashcan.",
+    "L1": "Viviendo en un basurero.",
+    "L2": "In einem Mülleimer leben.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 677,
+    "O": "The corporations.",
+    "L1": "Las corporaciones",
+    "L2": "Die Unternehmen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 678,
+    "O": "A magic hippie love cloud.",
+    "L1": "Una mágica nube de amor hippie.",
+    "L2": "Eine magische Hippie-Liebeswolke.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 679,
+    "O": "Fuck Mountain.",
+    "L1": "Joder montaña",
+    "L2": "Fick Berg.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 680,
+    "O": "Survivor's guilt.",
+    "L1": "Culpa del sobreviviente",
+    "L2": "Schuld des Überlebenden.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 681,
+    "O": "Me.",
+    "L1": "Yo.",
+    "L2": "Mich.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 682,
+    "O": "Getting hilariously gang-banged by the Blue Man Group.",
+    "L1": "Siendo hilarantemente golpeado en grupo por el grupo de hombres azules.",
+    "L2": "Von der Blue Man Group urkomisch Gangbanged.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 683,
+    "O": "Jeff Goldblum.",
+    "L1": "Jeff goldblum.",
+    "L2": "Jeff Goldblum.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 684,
+    "O": "Making a friend.",
+    "L1": "Haciendo un amigo",
+    "L2": "Einen Freund machen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 686,
+    "O": "Intimacy problems.",
+    "L1": "Problemas de intimidad",
+    "L2": "Intimitätsprobleme.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 687,
+    "O": "A sweaty, panting leather daddy.",
+    "L1": "Un sudoroso y jadeante papá de cuero.",
+    "L2": "Ein verschwitzter, keuchender Lederpapa.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 688,
+    "O": "Spring break!",
+    "L1": "¡vacaciones de primavera!",
+    "L2": "Spring Break, Frühjahrsurlaub, Frühjahrsferien!",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 689,
+    "O": "Being awesome at sex.",
+    "L1": "Ser genial en el sexo",
+    "L2": "Beim Sex geil sein.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 690,
+    "O": "Dining with cardboard cutouts of the cast of Friends.",
+    "L1": "Comedor con recortes de cartón del elenco de amigos.",
+    "L2": "Essen mit Pappausschnitten der Besetzung von Freunden.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 691,
+    "O": "Another shot of morphine.",
+    "L1": "Otra inyección de morfina.",
+    "L2": "Ein weiterer Schuss Morphium.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 692,
+    "O": "Beefin' over turf.",
+    "L1": "La carne sobre el césped.",
+    "L2": "über Rasen ranken.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 693,
+    "O": "A squadron of moles wearing aviator goggles.",
+    "L1": "Un escuadrón de topos con gafas de aviador.",
+    "L2": "Ein Geschwader von Maulwürfen, die Fliegerbrillen tragen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 694,
+    "O": "Bullshit.",
+    "L1": "Mierda.",
+    "L2": "Schwachsinn.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 695,
+    "O": "The Google.",
+    "L1": "El Google.",
+    "L2": "Das Google.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 697,
+    "O": "The new Radiohead album.",
+    "L1": "El nuevo álbum de radiohead.",
+    "L2": "Das neue Radiohead-Album.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 698,
+    "O": "An army of skeletons.",
+    "L1": "Un ejército de esqueletos.",
+    "L2": "Eine Armee von Skeletten.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 699,
+    "O": "A man in yoga pants with a ponytail and feather earrings.",
+    "L1": "Un hombre en pantalones de yoga con una cola de caballo y pendientes de plumas.",
+    "L2": "Ein Mann in Yogahosen mit einem Pferdeschwanz und Federohrringen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 700,
+    "O": "Mild autism.",
+    "L1": "Autismo leve",
+    "L2": "Leichter Autismus.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 701,
+    "O": "Nunchuck moves.",
+    "L1": "Nunchuck se mueve.",
+    "L2": "Nunchuck bewegt sich.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 702,
+    "O": "Whipping a disobedient slave.",
+    "L1": "Azotando a un esclavo desobediente",
+    "L2": "Einen ungehorsamen Sklaven auspeitschen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 703,
+    "O": "An ether-soaked rag.",
+    "L1": "Un trapo empapado en éter.",
+    "L2": "Ein mit Ether getränkter Lappen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 704,
+    "O": "A sweet spaceship.",
+    "L1": "Una dulce nave espacial.",
+    "L2": "Ein süßes Raumschiff.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 705,
+    "O": "A 55-gallon drum of lube.",
+    "L1": "Un tambor de lubricante de 55 galones.",
+    "L2": "Eine 55-Gallonen-Trommel Schmieröl.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 706,
+    "O": "Special musical guest, Cher.",
+    "L1": "Invitado musical especial, cher.",
+    "L2": "Besonderer musikalischer Gast, cher.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 707,
+    "O": "The human body.",
+    "L1": "El cuerpo humano.",
+    "L2": "Der menschliche Körper.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 708,
+    "O": "Boris the Soviet Love Hammer.",
+    "L1": "Boris el martillo de amor soviético.",
+    "L2": "Boris der sowjetische Liebeshammer.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 709,
+    "O": "The grey nutrient broth that sustains Mitt Romney.",
+    "L1": "El caldo nutriente gris que sostiene el manopla romney.",
+    "L2": "Die graue nährstoffbrühe, die mitt romney unterstützt.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 710,
+    "O": "Tiny nipples.",
+    "L1": "Pequeños pezones.",
+    "L2": "Winzige Nippel.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 711,
+    "O": "Power.",
+    "L1": "Poder.",
+    "L2": "Leistung.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 712,
+    "O": "Oncoming traffic.",
+    "L1": "Trafico en sentido contrario.",
+    "L2": "Gegenverkehr.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 713,
+    "O": "A dollop of sour cream.",
+    "L1": "Una cucharada de crema agria.",
+    "L2": "Ein Klecks Sauerrahm.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 714,
+    "O": "A slightly shittier parallel universe.",
+    "L1": "Un universo paralelo un poco más shittier.",
+    "L2": "Ein etwas schäbigeren Paralleluniversum.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 715,
+    "O": "My first kill.",
+    "L1": "Mi primer asesinato",
+    "L2": "Meine erste Tötung.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 716,
+    "O": "Graphic violence, adult language, and some sexual content.",
+    "L1": "Violencia gráfica, lenguaje adulto y algún contenido sexual.",
+    "L2": "Grafikgewalt, Erwachsenensprache und einige sexuelle Inhalte.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 717,
+    "O": "Fetal alcohol syndrome.",
+    "L1": "Síndrome de alcoholismo fetal.",
+    "L2": "Fetales Alkoholsyndrom.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 718,
+    "O": "The day the birds attacked.",
+    "L1": "El día en que atacaron las aves.",
+    "L2": "Der Tag, an dem die Vögel angriffen.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 719,
+    "O": "One Ring to rule them all.",
+    "L1": "Un anillo para gobernarlos a todos.",
+    "L2": "Ein Ring sie alle zu knechten.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 720,
+    "O": "Grandpa's ashes.",
+    "L1": "Las cenizas del abuelo.",
+    "L2": "Opas Asche.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 721,
+    "O": "Basic human decency.",
+    "L1": "La decencia humana básica.",
+    "L2": "Grundlegender menschlicher Anstand.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 722,
+    "O": "A Burmese tiger pit.",
+    "L1": "Un pozo de tigre burmés.",
+    "L2": "Eine birmanische Tigergrube.",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 723,
+    "O": "Death by Steven Seagal",
+    "L1": "Muerte por Steven Seagal",
+    "L2": "Tod von Steven Seagal",
+    "Exp": "CAHe2"
+  },
+  {
+    "I": 772,
+    "O": "Dragon boobs.",
+    "L1": "Tetas de dragón",
+    "L2": "Drachenbrüste.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 773,
+    "O": "Verisimilitude.",
+    "L1": "Verosimilitud.",
+    "L2": "Wahrheitsnähe.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 774,
+    "O": "Dissociated mechanics.",
+    "L1": "Mecánica disociada.",
+    "L2": "Dissoziierte Mechanik.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 775,
+    "O": "Rape.",
+    "L1": "Violación.",
+    "L2": "Vergewaltigen.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 776,
+    "O": "Storygames.",
+    "L1": "Juegos de cuentos.",
+    "L2": "Geschichtenspiele.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 777,
+    "O": "Random chargen",
+    "L1": "Chargen al azar",
+    "L2": "Zufällige Aufladung",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 778,
+    "O": "RPG.net.",
+    "L1": "Rpg.net.",
+    "L2": "Rpg.de.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 779,
+    "O": "Dice inserted somewhere painful.",
+    "L1": "Dados insertados en algún lugar doloroso.",
+    "L2": "Würfel irgendwo schmerzhaft eingefügt.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 780,
+    "O": "FATAL.",
+    "L1": "Fatal.",
+    "L2": "Tödlich.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 781,
+    "O": "Ron Edwards' brain damage.",
+    "L1": "El daño cerebral de ron edwards.",
+    "L2": "Ron Edwards Gehirnschaden.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 782,
+    "O": "Boob plate armor.",
+    "L1": "Armadura de placa de tetas.",
+    "L2": "Brustplatte Rüstung.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 783,
+    "O": "Gamer chicks.",
+    "L1": "Polluelos de jugador",
+    "L2": "Gamer-Küken.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 784,
+    "O": "GNS theory.",
+    "L1": "Teoría de gns.",
+    "L2": "GNS-Theorie.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 785,
+    "O": "Drizzt.",
+    "L1": "Llovizna",
+    "L2": "Drizzt.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 786,
+    "O": "The entire Palladium Books Megaverse",
+    "L1": "Todos los libros de paladio megaverse.",
+    "L2": "Die gesamte Palladium-Bücher megaverse",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 787,
+    "O": "BadWrongFun.",
+    "L1": "Badwrongfun.",
+    "L2": "Schlechtwichtel.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 788,
+    "O": "Misogynerds.",
+    "L1": "Misogynerds",
+    "L2": "Frauenfeindlichkeit.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 789,
+    "O": "Cultural Marxism.",
+    "L1": "El marxismo cultural.",
+    "L2": "Kultureller Marxismus.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 790,
+    "O": "Pissing on Gary Gygax's grave.",
+    "L1": "Orinando en la tumba de gary gygax.",
+    "L2": "Auf Gary Gygax's Grab gepisst.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 791,
+    "O": "Steve Jackson's beard.",
+    "L1": "La barba de steve jackson.",
+    "L2": "Steve Jacksons Bart.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 792,
+    "O": "Natural 20.",
+    "L1": "20 naturales.",
+    "L2": "Natürlich 20.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 793,
+    "O": "Rapenards.",
+    "L1": "Raperos",
+    "L2": "Rappen.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 794,
+    "O": "The Crisis of Treachery.",
+    "L1": "La crisis de la traición.",
+    "L2": "Die Krise des Verrats.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 795,
+    "O": "Game balance.",
+    "L1": "Saldo del juego.",
+    "L2": "Spielbalance.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 796,
+    "O": "Fishmalks.",
+    "L1": "Pescaditos",
+    "L2": "Fischmalz.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 797,
+    "O": "A kick to the dicebags.",
+    "L1": "Una patada a los dicebags.",
+    "L2": "Ein Tritt in die Würfel.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 798,
+    "O": "Bearded dwarven women.",
+    "L1": "Mujeres enanas barbudas.",
+    "L2": "Bärtige Zwergenfrauen.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 799,
+    "O": "Owlbear's tears.",
+    "L1": "Las lágrimas de owlbear.",
+    "L2": "Eulenbär Tränen.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 800,
+    "O": "Magic missile.",
+    "L1": "Misil mágico.",
+    "L2": "Magische Rakete.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 801,
+    "O": "THAC0.",
+    "L1": "Thac0.",
+    "L2": "Thac0.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 802,
+    "O": "Bigby's Groping Hands.",
+    "L1": "Las manos a tientas de Bigby.",
+    "L2": "Bigbys tastende Hände.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 803,
+    "O": "Drow blackface.",
+    "L1": "Drow blackface.",
+    "L2": "Drow Blackface.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 804,
+    "O": "Save or die.",
+    "L1": "Salvar o morir",
+    "L2": "Retten oder sterben.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 805,
+    "O": "Swine.",
+    "L1": "Cerdo.",
+    "L2": "Schwein.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 806,
+    "O": "The Forge.",
+    "L1": "La forja.",
+    "L2": "Die Schmiede.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 807,
+    "O": "Healing Surges.",
+    "L1": "Oleadas de curación.",
+    "L2": "Heilende Überspannungen.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 808,
+    "O": "Gelatinous Cubes.",
+    "L1": "Cubos gelatinosos.",
+    "L2": "Gelatineartige Würfel.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 809,
+    "O": "Total Party Kill.",
+    "L1": "Fiesta total de matar.",
+    "L2": "Totale Party-Tötung.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 810,
+    "O": "Quoting Monty Python.",
+    "L1": "Citando a monty python.",
+    "L2": "Zitierend Monty Python.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 811,
+    "O": "Dumbed down shit for ADD WoW babies.",
+    "L1": "Se muda abajo la mierda para agregar wow bebés.",
+    "L2": "Dumbed down shit für add wow babies.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 812,
+    "O": "Mike Mearls.",
+    "L1": "Mike mearls.",
+    "L2": "Mike Mearls.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 813,
+    "O": "Comeliness.",
+    "L1": "Simpatía.",
+    "L2": "Anmut.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 814,
+    "O": "Vampire: The Masquerade.",
+    "L1": "Vampiro: la mascarada.",
+    "L2": "Vampir: die Maskerade.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 815,
+    "O": "Rifts.",
+    "L1": "Grietas",
+    "L2": "Risse.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 816,
+    "O": "The random prostitute table.",
+    "L1": "La mesa de prostitutas al azar.",
+    "L2": "Der zufällige Prostituierte Tisch.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 817,
+    "O": "Dildo of Enlightenment +2",
+    "L1": "Consolador de la iluminación +2",
+    "L2": "Dildo der Erleuchtung +2",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 818,
+    "O": "Grognards Against Humanity.",
+    "L1": "Grognards contra la humanidad.",
+    "L2": "Grownards gegen die Menschheit.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 819,
+    "O": "Cthulhu.",
+    "L1": "Cthulhu.",
+    "L2": "Cthulhu.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 820,
+    "O": "The naked succubus in the Monster Manual.",
+    "L1": "El súcubo desnudo en el monstruo manual.",
+    "L2": "Der nackte Sukkubus im Monsterhandbuch.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 821,
+    "O": "Role-playing and roll-playing.",
+    "L1": "Rol y rol.",
+    "L2": "Rollenspiel und Rollenspiel.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 822,
+    "O": "Fun Tyrant.",
+    "L1": "Tirano divertido",
+    "L2": "Spaß Tyrannen.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 823,
+    "O": "4rries.",
+    "L1": "4rries.",
+    "L2": "4rries.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 824,
+    "O": "Martial dailies.",
+    "L1": "Diarios marciales.",
+    "L2": "Kriegszeitungen.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 825,
+    "O": "Black Tokyo.",
+    "L1": "Tokio negro",
+    "L2": "Schwarzer Tokyo.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 826,
+    "O": "Killfuck Soulshitter.",
+    "L1": "Killfuck Soul Shitter.",
+    "L2": "Killfuck Seelenjäger.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 827,
+    "O": "Cheetoism.",
+    "L1": "Cheetoismo.",
+    "L2": "Cheetoismus.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 828,
+    "O": "Grimdark.",
+    "L1": "Grimdark",
+    "L2": "Grimdark.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 829,
+    "O": "Kobolds.",
+    "L1": "Kobolds.",
+    "L2": "Kobolde.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 830,
+    "O": "Oozemaster.",
+    "L1": "Oozemaster",
+    "L2": "Oozemaster.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 831,
+    "O": "Rocks fall, everyone dies.",
+    "L1": "Las rocas caen, todos mueren.",
+    "L2": "Felsen fallen, alle sterben.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 833,
+    "O": "Maid RPG.",
+    "L1": "Mucama rpg.",
+    "L2": "Dienstmädchen-RPG.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 834,
+    "O": "Splugorth blind warrior women.",
+    "L1": "Splugorth mujeres guerreras ciegas.",
+    "L2": "Splugorth blinde Kriegerinnen.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 835,
+    "O": "Dying during chargen.",
+    "L1": "Muriendo durante el chargen.",
+    "L2": "Sterben während der Ladung.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 836,
+    "O": "Slaughtering innocent orc children.",
+    "L1": "Matando inocentes niños orcos.",
+    "L2": "Unschuldige Orkkinder schlachten.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 837,
+    "O": "Lesbian stripper ninjas.",
+    "L1": "Ninjas stripper lesbianas.",
+    "L2": "Lesbische Stripperin Ninjas.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 838,
+    "O": "Magical tea party.",
+    "L1": "Fiesta del té mágico.",
+    "L2": "Magische Teeparty.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 839,
+    "O": "Grinding levels.",
+    "L1": "Niveles de molienda.",
+    "L2": "Mahlgrade.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 840,
+    "O": "Dice animism.",
+    "L1": "Animismo de los dados.",
+    "L2": "Würfel Animismus.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 841,
+    "O": "White privilege.",
+    "L1": "Privilegio blanco",
+    "L2": "Weißes Privileg.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 842,
+    "O": "Githyanki therapy.",
+    "L1": "Terapia githyanki.",
+    "L2": "Githyanki-Therapie.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 843,
+    "O": "Amber Diceless Roleplaying.",
+    "L1": "Juego de rol de ámbar sin dados.",
+    "L2": "Bernsteinloses, würfelloses Rollenspiel.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 844,
+    "O": "A ratcatcher with a small but vicious dog.",
+    "L1": "Un cazador de ratas con un perro pequeño pero vicioso.",
+    "L2": "Ein Rattenfänger mit einem kleinen aber bösartigen Hund.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 845,
+    "O": "Bribing the GM with sexual favors.",
+    "L1": "Sobornando a la gm con favores sexuales.",
+    "L2": "Bestechen Sie das gm mit sexuellen Gefälligkeiten.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 846,
+    "O": "Eurocentric fantasy.",
+    "L1": "Fantasía eurocéntrica.",
+    "L2": "Eurozentrische Fantasie.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 847,
+    "O": "Sacred cows.",
+    "L1": "Vacas sagradas.",
+    "L2": "Heilige Kühe.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 848,
+    "O": "Gygaxian naturalism.",
+    "L1": "El naturalismo gygaxiano.",
+    "L2": "Gygaxischer Naturalismus.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 849,
+    "O": "Special snowflakes.",
+    "L1": "Copos de nieve especiales.",
+    "L2": "Spezielle Schneeflocken.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 850,
+    "O": "Neckbeards.",
+    "L1": "Barrigas",
+    "L2": "Nackenbart.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 851,
+    "O": "Gazebos.",
+    "L1": "Miradores",
+    "L2": "Pavillons.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 852,
+    "O": "Lorraine Williams.",
+    "L1": "Lorraine williams.",
+    "L2": "Lorraine Williams.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 853,
+    "O": "Nude larping.",
+    "L1": "Larping desnuda.",
+    "L2": "Nackt larping.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 854,
+    "O": "Portable holes.",
+    "L1": "Agujeros portátiles.",
+    "L2": "Tragbare Löcher.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 855,
+    "O": "Steampunk bullshit.",
+    "L1": "Mierda de steampunk.",
+    "L2": "Steampunk Bullshit.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 856,
+    "O": "Dump stats.",
+    "L1": "Dump stats.",
+    "L2": "Speicherwerte.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 857,
+    "O": "Ale and whores.",
+    "L1": "Cerveza y putas.",
+    "L2": "Ale und Huren.",
+    "Exp": "CAHgrognards"
+  },
+  {
+    "I": 880,
+    "O": "Japanese schoolgirl porn.",
+    "L1": "Colegiala japonesa porno.",
+    "L2": "Japanischer Schulmädchenporno.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 881,
+    "O": "Horny catgirls.",
+    "L1": "Catgirls cachondas.",
+    "L2": "Geile Catgirls.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 882,
+    "O": "Japanese people.",
+    "L1": "Personas japonesas.",
+    "L2": "Japaner.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 883,
+    "O": "Cimo.",
+    "L1": "Cimo",
+    "L2": "Cimo.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 884,
+    "O": "ZA WARUDO!",
+    "L1": "Za warudo!",
+    "L2": "Za warudo!",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 885,
+    "O": "40 gigs of lolicon.",
+    "L1": "40 gigas de lolicon.",
+    "L2": "40 Konzerte von Lolicon.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 886,
+    "O": "Goku's hair.",
+    "L1": "El pelo de goku.",
+    "L2": "Gokus Haare.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 887,
+    "O": "Slashfic.",
+    "L1": "Slashfic.",
+    "L2": "Slashfic.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 888,
+    "O": "Star Gentle Uterus",
+    "L1": "útero suave estrella",
+    "L2": "Stern sanfter Uterus",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 889,
+    "O": "Naruto headbands.",
+    "L1": "Naruto de diademas.",
+    "L2": "Naruto-Stirnbänder.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 890,
+    "O": "Homestuck troll horns.",
+    "L1": "Troll homestuck cuernos.",
+    "L2": "Homestuck Troll Hörner.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 891,
+    "O": "Hayao Miyazaki.",
+    "L1": "Hayao Miyazaki.",
+    "L2": "Hayao Miyazaki.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 892,
+    "O": "The tsunami.",
+    "L1": "El tsunami.",
+    "L2": "Der Tsunami.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 893,
+    "O": "Death Note.",
+    "L1": "Aviso de muerte.",
+    "L2": "Todesmeldung.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 894,
+    "O": "Small breasts.",
+    "L1": "Senos pequeños.",
+    "L2": "Kleine Brüste.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 895,
+    "O": "Asians being racist against each other.",
+    "L1": "Los asiáticos son racistas unos contra otros.",
+    "L2": "Asiaten sind rassistisch gegeneinander.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 896,
+    "O": "Weeaboo bullshit.",
+    "L1": "Mierda de weeaboo.",
+    "L2": "Weeaboo Bullshit.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 897,
+    "O": "Tsundere.",
+    "L1": "Tsundere",
+    "L2": "Tsundere.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 898,
+    "O": "Body pillows.",
+    "L1": "Almohadas corporales.",
+    "L2": "Körperkissen.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 899,
+    "O": "A lifelike silicone love doll.",
+    "L1": "Una muñeca de amor de silicona realista.",
+    "L2": "Eine lebensechte Silikonliebespuppe.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 900,
+    "O": "Anime figures drenched in jizz.",
+    "L1": "Figuras de anime empapadas en esperma.",
+    "L2": "Anime-Figuren in Sperma getränkt.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 901,
+    "O": "Surprise sex.",
+    "L1": "Sexo sorpresa",
+    "L2": "Überraschungs-Sex.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 902,
+    "O": "Yaoi.",
+    "L1": "Yaoi",
+    "L2": "Yaoi.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 903,
+    "O": "Girls with glasses.",
+    "L1": "Chicas con gafas.",
+    "L2": "Mädchen mit Brille.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 904,
+    "O": "Bronies.",
+    "L1": "Bronies",
+    "L2": "Bronis.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 905,
+    "O": "Blue and white striped panties.",
+    "L1": "Bragas de rayas azules y blancas.",
+    "L2": "Blau und weiß gestreiften Höschen.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 906,
+    "O": "4chan.",
+    "L1": "4chan.",
+    "L2": "4chan.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 907,
+    "O": "Hello Kitty vibrator.",
+    "L1": "Hola gatito vibrador.",
+    "L2": "Hallo Kätzchen Vibrator.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 908,
+    "O": "Finishing attack.",
+    "L1": "Ataque final",
+    "L2": "Finishing-Angriff.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 909,
+    "O": "Keikaku* *(keikaku means plan).",
+    "L1": "Keikaku * * (keikaku significa plan).",
+    "L2": "Keikaku * * (keikaku bedeutet Plan).",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 910,
+    "O": "Hatsune Miku's screams.",
+    "L1": "Los gritos de Hatsune Miku.",
+    "L2": "Hatsune Mikus Schreie.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 911,
+    "O": "School swimsuits.",
+    "L1": "Trajes de baño escolares.",
+    "L2": "Schulbadeanzüge.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 912,
+    "O": "Lovingly animated bouncing boobs.",
+    "L1": "Con cariño animado rebotando tetas.",
+    "L2": "Liebevoll animierte Boobs.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 913,
+    "O": "Dragon Balls.",
+    "L1": "Esferas del dragón.",
+    "L2": "Drachenbälle.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 914,
+    "O": "Zangief's chest hair.",
+    "L1": "Pelo del pecho de zangief.",
+    "L2": "Zangiefs Brusthaare.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 915,
+    "O": "DeviantArt.",
+    "L1": "Deviantart.",
+    "L2": "Abweichend.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 916,
+    "O": "Giant fucking robots.",
+    "L1": "Gigantescos robots de mierda.",
+    "L2": "Riesige verdammte Roboter.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 917,
+    "O": "Crossplay.",
+    "L1": "Juego cruzado",
+    "L2": "Kreuzspiel.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 918,
+    "O": "Moeblob.",
+    "L1": "Moeblob",
+    "L2": "Moeblob.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 919,
+    "O": "Carl Macek's rotting corpse.",
+    "L1": "El cuerpo podrido de Carl Macek.",
+    "L2": "Carl maceks verrottende Leiche.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 920,
+    "O": "My waifu.",
+    "L1": "Mi waifu",
+    "L2": "Mein Waifu.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 921,
+    "O": "Voice actress Megumi Hayashibara.",
+    "L1": "Voz actriz megumi hayashibara.",
+    "L2": "Schauspielerin Megumi Hayashibara.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 922,
+    "O": "Lynn Minmei.",
+    "L1": "Lynn Minmei.",
+    "L2": "Lynn Minmei.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 923,
+    "O": "Panty shots.",
+    "L1": "Tiros de bragas",
+    "L2": "Strumpfhosen.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 924,
+    "O": "Love and Justice.",
+    "L1": "Amor y justicia",
+    "L2": "Liebe und Gerechtigkeit.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 925,
+    "O": "Consensual tentacle rape.",
+    "L1": "La violación consensual de tentáculos.",
+    "L2": "Einvernehmliche Tentakelvergewaltigung.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 926,
+    "O": "Gundam.",
+    "L1": "Gundam",
+    "L2": "Gundam.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 927,
+    "O": "Captain Bright slapping Amuro.",
+    "L1": "Capitán brillante abofeteando a amuro.",
+    "L2": "Kapitän hell auf Amuro schlagen.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 928,
+    "O": "The Wave Undulation Cannon.",
+    "L1": "El cañón de ondulación de las olas.",
+    "L2": "Die Welle Wellenkanone.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 929,
+    "O": "Having sex in the P.E. equipment shed.",
+    "L1": "Tener relaciones sexuales en la p.e. Cobertizo de equipos.",
+    "L2": "Sex in der p.e. Geräteschuppen.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 930,
+    "O": "Tainted sushi.",
+    "L1": "Sushi contaminado.",
+    "L2": "Verdorbenes Sushi.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 931,
+    "O": "Shitty eurobeat music.",
+    "L1": "Mierda de música eurobeat.",
+    "L2": "Beschissene eurobeat Musik.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 932,
+    "O": "Bad dubbing.",
+    "L1": "Mal doblaje",
+    "L2": "Schlechte Synchronisation.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 933,
+    "O": "Fangirls.",
+    "L1": "Fangirls",
+    "L2": "Fangirls.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 934,
+    "O": "Kawaii desu uguu.",
+    "L1": "Kawaii desu uguu.",
+    "L2": "Kawaii desu uguu.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 935,
+    "O": "Futanari.",
+    "L1": "Futanari.",
+    "L2": "Futanari.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 936,
+    "O": "Lesbian schoolgirls.",
+    "L1": "Colegialas lesbianas.",
+    "L2": "Lesbische Schulmädchen.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 937,
+    "O": "Osamu Tezuka, rolling in his grave forever.",
+    "L1": "Osamu Tezuka, rodando en su tumba para siempre.",
+    "L2": "Osamu tezuka, für immer in seinem Grab rollend.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 938,
+    "O": "FUNimation.",
+    "L1": "Funimacion",
+    "L2": "Funimation.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 939,
+    "O": "Underage cosplayers in bondage gear.",
+    "L1": "Cosplayers menores de edad en equipo de bondage.",
+    "L2": "Minderjährige Cosplayer in Bondage-Ausrüstung.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 940,
+    "O": "Jackie Chan.",
+    "L1": "Jackie Chan.",
+    "L2": "Jackie Chan.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 941,
+    "O": "Exchanging Pocky for sexual favors.",
+    "L1": "Intercambio de pocky por favores sexuales.",
+    "L2": "Pocke für sexuelle Gefälligkeiten austauschen.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 942,
+    "O": "Shipping.",
+    "L1": "Envío.",
+    "L2": "Versand.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 943,
+    "O": "Chiyo's father.",
+    "L1": "El padre de chiyo",
+    "L2": "Chiyos Vater.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 944,
+    "O": "Magikarp.",
+    "L1": "Magikarp.",
+    "L2": "Karpador.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 945,
+    "O": "Derpy.",
+    "L1": "Derpy",
+    "L2": "Derpy.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 946,
+    "O": "Nanoha and her special friend Fate.",
+    "L1": "Nanoha y su destino amigo especial.",
+    "L2": "Nanoha und ihr besonderes Freund Schicksal.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 947,
+    "O": "The marbles from Ramune bottles.",
+    "L1": "Las canicas de botellas de ramune.",
+    "L2": "Die Murmeln aus Ramuneflaschen.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 948,
+    "O": "Wideface.",
+    "L1": "Cara ancha.",
+    "L2": "Breites Gesicht.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 949,
+    "O": "Spoilers.",
+    "L1": "Spoilers",
+    "L2": "Spoiler.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 950,
+    "O": "Man-Faye.",
+    "L1": "Hombre-faye",
+    "L2": "Mann-Faye.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 951,
+    "O": "Oppai mousepads.",
+    "L1": "Alfombrillas de ratón oppai.",
+    "L2": "Oppai Mauspads.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 952,
+    "O": "Another dimension.",
+    "L1": "Otra dimension.",
+    "L2": "Eine andere Dimension.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 953,
+    "O": "Homura sniffing Madoka's panties.",
+    "L1": "Homura olfateando las bragas de madoka.",
+    "L2": "Homura schnüffelt Madokas Höschen.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 954,
+    "O": "Hadouken.",
+    "L1": "Hadouken",
+    "L2": "Haduken.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 955,
+    "O": "Asian ball-jointed dolls.",
+    "L1": "Muñecas de articulación asiática.",
+    "L2": "Asiatische Kugelgelenkpuppen.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 956,
+    "O": "J-list.",
+    "L1": "J-list.",
+    "L2": "J-Liste.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 957,
+    "O": "Childhood friends.",
+    "L1": "Amigos de la infancia.",
+    "L2": "Kindheitsfreunde.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 958,
+    "O": "Monkey D. Luffy's rubbery cock.",
+    "L1": "Mono d. polla de goma de luffy.",
+    "L2": "Affe d. Luffys gummiartiger Schwanz.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 959,
+    "O": "Cloud's giant fucking Buster Swords.",
+    "L1": "Las gigantescas jodidas espadas de Cloud Cloud.",
+    "L2": "Die riesigen verdammten Schwerter der Wolke.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 960,
+    "O": "Taking a dump in Char's helmet.",
+    "L1": "Tomando un basurero en el casco de char.",
+    "L2": "Einen Sturz in Char's Helm.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 961,
+    "O": "Hentai marathons.",
+    "L1": "Maratones hentai.",
+    "L2": "Hentai Marathons.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 962,
+    "O": "Gothic Lolita.",
+    "L1": "Lolita gótica.",
+    "L2": "Gotische Lolita.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 963,
+    "O": "Onaholes.",
+    "L1": "Onaholes.",
+    "L2": "Onahole.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 964,
+    "O": "Super Saiyan Level 2.",
+    "L1": "Super nivel saiyan 2.",
+    "L2": "Super Saiyajin Level 2.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 965,
+    "O": "Gaia Online.",
+    "L1": "Gaia en linea",
+    "L2": "Gaia online.",
+    "Exp": "CAHweeaboo"
+  },
+  {
+    "I": 973,
+    "O": "Santa's heavy sack.",
+    "L1": "Saco pesado de santa",
+    "L2": "Santa's schwerer Sack.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 974,
+    "O": "Clearing a bloody path through Walmart with a scimitar.",
+    "L1": "Despejando un camino sangriento a través de walmart con una cimitarra.",
+    "L2": "Einen blutigen Weg durch Walmart mit einem Krummsäbel freimachen.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 975,
+    "O": "Another shitty year.",
+    "L1": "Otro año de mierda.",
+    "L2": "Ein weiteres beschissenes Jahr.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 976,
+    "O": "Whatever Kwanzaa is supposed to be about.",
+    "L1": "De lo que se supone que se trata kwanzaa.",
+    "L2": "Was auch immer Kwanzaa sein soll.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 977,
+    "O": "A Christmas stocking full of coleslaw.",
+    "L1": "Un calcetín navideño lleno de ensalada de col.",
+    "L2": "Ein Weihnachtsstrumpf voller Krautsalat.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 978,
+    "O": "Elf cum.",
+    "L1": "Elfo cum.",
+    "L2": "Elf cum.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 979,
+    "O": "The tiny, calloused hands of the Chinese children that made this card.",
+    "L1": "Las diminutas manos callosas de los niños chinos que hicieron esta tarjeta.",
+    "L2": "Die winzigen, schwieligen Hände der chinesischen Kinder, die diese Karte gemacht haben.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 980,
+    "O": "Taking down Santa with a surface-to-air missile.",
+    "L1": "Derribando a santa con un misil tierra-aire.",
+    "L2": "Santa mit einer Boden-Luft-Rakete abschießen.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 981,
+    "O": "Socks.",
+    "L1": "Calcetines.",
+    "L2": "Socken.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 982,
+    "O": "Pretending to be happy.",
+    "L1": "Pretendiendo ser feliz.",
+    "L2": "Vorgeben, glücklich zu sein.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 983,
+    "O": "Krampus, the Austrian Christmas monster.",
+    "L1": "Krampus, el monstruo navideño austríaco.",
+    "L2": "Krampus, das österreichische Weihnachtsmonster.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 984,
+    "O": "The Star Wars Holiday Special.",
+    "L1": "El especial de vacaciones de Star Wars.",
+    "L2": "Das Star Wars-Ferien-Special.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 985,
+    "O": "My hot cousin.",
+    "L1": "Mi primo caliente",
+    "L2": "Mein heißer Cousin.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 986,
+    "O": "Mall Santa.",
+    "L1": "Centro comercial santa",
+    "L2": "Einkaufszentrum Santa.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 987,
+    "O": "Several intertwining love stories featuring Hugh Grant.",
+    "L1": "Varias historias de amor entrelazadas con hugh grant.",
+    "L2": "Mehrere ineinander greifende Liebesgeschichten mit Hugh Grant.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 988,
+    "O": "A Hungry-Man Frozen Christmas Dinner for one.",
+    "L1": "Un hambriento hombre congelado cena de navidad para uno.",
+    "L2": "Ein hungriger Mann gefrorenes Weihnachtsessen für einen.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 989,
+    "O": "Gift-wrapping a live hamster.",
+    "L1": "Envoltura de regalos de un hámster vivo.",
+    "L2": "Geschenkverpackung eines lebenden Hamsters.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 990,
+    "O": "Space Jam on VHS.",
+    "L1": "Atasco de espacio en vhs.",
+    "L2": "Weltraummarmelade auf VHS.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 991,
+    "O": "Immaculate conception.",
+    "L1": "Inmaculada Concepción.",
+    "L2": "Unbefleckte Empfängnis.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 992,
+    "O": "Fucking up 'Silent Night' in front of 300 parents.",
+    "L1": "Jodiendo la 'noche silenciosa' frente a 300 padres.",
+    "L2": "\"Stille Nacht\" vor 300 Eltern.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 993,
+    "O": "A visually arresting turtleneck.",
+    "L1": "Un cuello de tortuga visualmente llamativo.",
+    "L2": "Ein optisch auffälliger Rollkragenpullover.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 994,
+    "O": "A toxic family environment.",
+    "L1": "Un ambiente familiar tóxico.",
+    "L2": "Ein giftiges familiäres Umfeld.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 995,
+    "O": "Eating an entire snowman.",
+    "L1": "Comiendo un muñeco de nieve entero.",
+    "L2": "Einen ganzen Schneemann essen.",
+    "Exp": "CAHxmas"
+  },
+  {
+    "I": 996,
+    "O": "Bumpses.",
+    "L1": "Golpes",
+    "L2": "Bumps.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 997,
+    "O": "A Vin Gerard H8 X 10.",
+    "L1": "Un vin gerard h8 x 10.",
+    "L2": "Ein vin gerard h8 x 10.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 999,
+    "O": "Harry Acropolis.",
+    "L1": "Harry acrópolis.",
+    "L2": "Harry Akropolis.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1000,
+    "O": "Under the ring.",
+    "L1": "Debajo del anillo.",
+    "L2": "Unter dem Ring.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1002,
+    "O": "Afa The Wild Samoan.",
+    "L1": "Afa el salvaje samoano.",
+    "L2": "Afa der wilde Samoan.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1004,
+    "O": "Peanut Butter and Baby sandwiches.",
+    "L1": "Mantequilla de maní y sándwiches de bebé.",
+    "L2": "Erdnussbutter und Baby Sandwiches.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1006,
+    "O": "Yard Tards.",
+    "L1": "Astillas de patio.",
+    "L2": "Yard Tards.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1007,
+    "O": "Two girls, one cup.",
+    "L1": "Dos chicas, una taza.",
+    "L2": "Zwei Mädchen, eine Tasse.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1008,
+    "O": "Ugly Mexican Hookers.",
+    "L1": "Putas mexicanas feas.",
+    "L2": "Hässliche mexikanische Nutten.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1009,
+    "O": "Duct tape.",
+    "L1": "Cinta adhesiva.",
+    "L2": "Klebeband.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1010,
+    "O": "Sodaj.",
+    "L1": "Sodaj",
+    "L2": "Sodaj.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1014,
+    "O": "Steve The Teacher.",
+    "L1": "Steve el profesor.",
+    "L2": "Steve der Lehrer.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1016,
+    "O": "Jefferee.",
+    "L1": "Jefferee",
+    "L2": "Jefferson.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1019,
+    "O": "Autoerotic Asphyxiation.",
+    "L1": "Asfixia autoerótica.",
+    "L2": "Autoerotische Erstickung.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1021,
+    "O": "Sonic The Hedgehog.",
+    "L1": "Sonic el erizo.",
+    "L2": "Sonic the Hedgehog.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1022,
+    "O": "Lotto Money.",
+    "L1": "Dinero de lotería",
+    "L2": "Lotto-Geld.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1024,
+    "O": "Jailbait.",
+    "L1": "Jailbait",
+    "L2": "Jailbait.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1025,
+    "O": "Prison rape.",
+    "L1": "Violación en prisión",
+    "L2": "Gefängnisvergewaltigung.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1028,
+    "O": "Two And A Half Men.",
+    "L1": "Dos hombres y medio.",
+    "L2": "Zweieinhalb Männer.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1029,
+    "O": "Anne Frank.",
+    "L1": "Anne frank",
+    "L2": "Anne Frank.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1030,
+    "O": "Black Santa.",
+    "L1": "Santa negro",
+    "L2": "Schwarze Sankt.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1033,
+    "O": "Jesus Christ (our lord and saviour).",
+    "L1": "Jesucristo (nuestro señor y salvador).",
+    "L2": "Jesus Christus (unser Herr und Retter).",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1034,
+    "O": "Farting with your armpits.",
+    "L1": "Haciendo pedos con tus axilas.",
+    "L2": "Furz mit deinen Achseln.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1035,
+    "O": "Poopsicles.",
+    "L1": "Poopsicles",
+    "L2": "Poopsikel.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1036,
+    "O": "Slaughtering innocent children.",
+    "L1": "Matando niños inocentes.",
+    "L2": "Unschuldige Kinder schlachten.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1037,
+    "O": "Sex with vegetables.",
+    "L1": "Sexo con verduras.",
+    "L2": "Sex mit Gemüse.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1038,
+    "O": "My gay ex-husband.",
+    "L1": "Mi ex marido gay",
+    "L2": "Mein schwuler Ex-Mann.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1039,
+    "O": "Accidentally sexting your mom.",
+    "L1": "Accidentalmente sexting tu mamá.",
+    "L2": "Versehentlich Sex mit deiner Mutter.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1040,
+    "O": "Tabasco in your pee-hole.",
+    "L1": "Tabasco en tu pipí.",
+    "L2": "Tabasco in deiner Pisse.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1041,
+    "O": "Pee Wee Herman.",
+    "L1": "Pee wee herman",
+    "L2": "Pisse wee herman.",
+    "Exp": "NEIndy"
+  },
+  {
+    "I": 1042,
+    "O": "A breath of fresh air.",
+    "L1": "Un soplo de aire fresco.",
+    "L2": "Ein Atemzug Frischluft.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1043,
+    "O": "A great big floppy donkey dick.",
+    "L1": "Un gran gran burro disquete polla.",
+    "L2": "Ein großer großer Floppy Esel Dick.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1044,
+    "O": "A pyramid scheme.",
+    "L1": "Un esquema piramidal.",
+    "L2": "Ein Schneeballsystem.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1045,
+    "O": "A school bus surrounded by cop cars.",
+    "L1": "Un autobús escolar rodeado de coches de policía.",
+    "L2": "Ein Schulbus, umgeben von Polizeiautos.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1046,
+    "O": "A short walk in the desert with shovels.",
+    "L1": "Un corto paseo por el desierto con palas.",
+    "L2": "Ein kurzer Spaziergang in der Wüste mit Schaufeln.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1047,
+    "O": "All the boys staring at your chest.",
+    "L1": "Todos los chicos miran fijamente tu pecho.",
+    "L2": "Alle Jungs starren auf deine Brust.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1048,
+    "O": "An amorous stallion.",
+    "L1": "Un semental amoroso.",
+    "L2": "Ein amouröser Hengst.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1049,
+    "O": "Being so wet it just slides out of you.",
+    "L1": "Estar tan mojado que simplemente se desliza fuera de ti.",
+    "L2": "Es ist so nass, dass es nur aus dir herausrutscht.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1050,
+    "O": "Being tarred and feathered.",
+    "L1": "Siendo alquitranada y emplumada.",
+    "L2": "Geteert und gefiedert sein.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1051,
+    "O": "Catching 'em all.",
+    "L1": "Atraparlos a todos",
+    "L2": "Sie alle fangen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1052,
+    "O": "Chained to the bed and whipped to orgasmic bliss by a leather-clad woman.",
+    "L1": "Encadenado a la cama y azotado a la felicidad orgásmica por una mujer vestida de cuero.",
+    "L2": "Angekettet an das Bett und gepeitscht von einer in Leder gekleideten Frau zum Orgasmus.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1053,
+    "O": "Child-bearing hips.",
+    "L1": "Caderas para niños.",
+    "L2": "Tragende Hüften.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1054,
+    "O": "Defenestration.",
+    "L1": "Defenestración.",
+    "L2": "Fenstersturz.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1055,
+    "O": "Dungeons and/or dragons.",
+    "L1": "Mazmorras y / o dragones.",
+    "L2": "Dungeons und / oder Drachen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1056,
+    "O": "Ecco the Dolphin.",
+    "L1": "Ecco el delfín.",
+    "L2": "Ecco der Delphin.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1057,
+    "O": "George Washington riding on a giant eagle.",
+    "L1": "George Washington montando en un águila gigante.",
+    "L2": "George Washington Reiten auf einem riesigen Adler.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1058,
+    "O": "Getting abducted and probed by aliens.",
+    "L1": "Siendo secuestrados y sondeados por extraterrestres.",
+    "L2": "Von Aliens entführt und untersucht werden.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1059,
+    "O": "Going viral on YouTube.",
+    "L1": "Va viral en youtube.",
+    "L2": "Viral auf youtube gehen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1060,
+    "O": "Gushing.",
+    "L1": "Efusivo.",
+    "L2": "Sprudelnd.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1061,
+    "O": "Making the baby Jesus cry.",
+    "L1": "Haciendo llorar al bebe jesus",
+    "L2": "Das Baby Jesus zum Weinen bringen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1062,
+    "O": "More than you can chew.",
+    "L1": "Más de lo que puedes masticar.",
+    "L2": "Mehr als du kauen kannst.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1063,
+    "O": "Napalm.",
+    "L1": "Napalm.",
+    "L2": "Napalm.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1064,
+    "O": "Pancake bitches.",
+    "L1": "Perras panqueques.",
+    "L2": "Pfannkuchen Hündinnen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1065,
+    "O": "Playing God with the power of lightning.",
+    "L1": "Dios jugando con el poder del rayo.",
+    "L2": "Gott mit der Kraft des Blitzes spielen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1066,
+    "O": "Playing tonsil-hockey.",
+    "L1": "Jugando a las amígdalas de hockey.",
+    "L2": "Tonsil-Hockey spielen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1067,
+    "O": "Racing cheese wheels downhill.",
+    "L1": "Carreras de ruedas de queso cuesta abajo.",
+    "L2": "Rennkäse Räder bergab.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1068,
+    "O": "Riding the bomb.",
+    "L1": "Montando la bomba.",
+    "L2": "Die Bombe fahren.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1069,
+    "O": "Settling arguments with dance-offs.",
+    "L1": "Resolviendo discusiones con bailes.",
+    "L2": "Absprachen mit Abzügen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1070,
+    "O": "Sheer spite.",
+    "L1": "Pura pesar.",
+    "L2": "Schiere Bosheit.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1071,
+    "O": "Sinister laughter.",
+    "L1": "Risa siniestra.",
+    "L2": "Finsteres Lachen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1072,
+    "O": "SS Girls.",
+    "L1": "Ss chicas.",
+    "L2": "Ss Mädchen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1073,
+    "O": "Stealing your sister's underwear.",
+    "L1": "Robando la ropa interior de tu hermana",
+    "L2": "Die Unterwäsche deiner Schwester stehlen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1074,
+    "O": "Stroking a cat the wrong way.",
+    "L1": "Acariciando a un gato de manera equivocada",
+    "L2": "Eine Katze falsch streicheln.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1075,
+    "O": "Sucking and blowing.",
+    "L1": "Chupando y soplando.",
+    "L2": "Saugen und Blasen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1076,
+    "O": "The bullet with your name on it.",
+    "L1": "La bala con tu nombre en ella.",
+    "L2": "Die Kugel mit deinem Namen darauf.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1077,
+    "O": "The entire rest of eternity, spent in fucking Bruges.",
+    "L1": "Todo el resto de la eternidad, pasado en la puta brujas.",
+    "L2": "Den ganzen Rest der Ewigkeit, verbracht in verdammten Brügen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1078,
+    "O": "The oceans rising to reclaim the land.",
+    "L1": "Los océanos se alzan para reclamar la tierra.",
+    "L2": "Die Ozeane erheben sich, um das Land zurückzugewinnen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1079,
+    "O": "A cocained-fuelled sex orgy heart attack.",
+    "L1": "Un ataque al corazón de una orgía sexual alimentada por cocidos.",
+    "L2": "Ein cocained-fuelled Sex Orgie Herzinfarkt.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1080,
+    "O": "A cocktail umbrella ",
+    "L1": "Un paraguas de cóctel",
+    "L2": "Ein Cocktailschirm",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1081,
+    "O": "A murder/suicide pact.",
+    "L1": "Un pacto de asesinato / suicidio.",
+    "L2": "Ein Mord / Selbstmord-Pakt.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1082,
+    "O": "A squirming mass of kittens.",
+    "L1": "Una masa de gatitos que se retuercen.",
+    "L2": "Eine wimmelnde Masse von Kätzchen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1083,
+    "O": "An angry mob with torches and pitchforks.",
+    "L1": "Una turba enfadada con antorchas y horcas.",
+    "L2": "Ein wütender Mob mit Fackeln und Mistgabeln.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1084,
+    "O": "Biting my girlfriend like a vampire during sex.",
+    "L1": "Morder a mi novia como un vampiro durante el sexo.",
+    "L2": "Beißt meine Freundin wie ein Vampir beim Sex.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1085,
+    "O": "Dropping your pants and saluting.",
+    "L1": "Bajando los pantalones y saludando.",
+    "L2": "Lass deine Hose fallen und salutiere.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1086,
+    "O": "Frankenstein's Monster",
+    "L1": "El monstruo de frankenstein",
+    "L2": "Frankensteins Monster",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1087,
+    "O": "Getting a blowjob in a theater.",
+    "L1": "Conseguir una mamada en un teatro",
+    "L2": "Einen Blowjob in einem Theater bekommen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1088,
+    "O": "Going full retard.",
+    "L1": "Va todo el retraso.",
+    "L2": "Vollverzögerung gehen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1089,
+    "O": "Going slob-slob-slob all over that knob.",
+    "L1": "Pasando slob-slob-slob por todo el mando.",
+    "L2": "Slob-Slob-Slob über den ganzen Knopf gehen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1090,
+    "O": "Leaking implants.",
+    "L1": "Implantes con fugas.",
+    "L2": "Undichte Implantate.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1091,
+    "O": "Low-flying planes.",
+    "L1": "Aviones de bajo vuelo.",
+    "L2": "Tieffliegende Flugzeuge.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1092,
+    "O": "Monkies flinging their own shit.",
+    "L1": "Monkies arrojando su propia mierda.",
+    "L2": "Monkies werfen ihre eigene Scheiße.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1093,
+    "O": "My robot duplicate.",
+    "L1": "Mi robot se duplica.",
+    "L2": "Mein Roboter duplizieren.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1094,
+    "O": "Other people’s children.",
+    "L1": "Hijos de otras personas.",
+    "L2": "Die Kinder anderer Leute.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1095,
+    "O": "People who can't take a joke. Seriously.",
+    "L1": "Personas que no pueden tomar una broma. seriamente.",
+    "L2": "Leute, die keinen Witz machen können. ernst.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1096,
+    "O": "Popping a boner during Sex Ed class.",
+    "L1": "Haciendo estallar una erección durante la clase de educación sexual.",
+    "L2": "Knallen während der Sex-Ed-Klasse.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1097,
+    "O": "Projectile vomiting.",
+    "L1": "Vomito intenso.",
+    "L2": "Projektil Erbrechen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1098,
+    "O": "Pulling down panties with your teeth.",
+    "L1": "Bajando las bragas con los dientes.",
+    "L2": "Höschen mit den Zähnen runterziehen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1099,
+    "O": "Saying ",
+    "L1": "Diciendo",
+    "L2": "Sprichwort",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1100,
+    "O": "Shedding skin like a snake.",
+    "L1": "Derramando la piel como una serpiente.",
+    "L2": "Haut wie eine Schlange vergießen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1101,
+    "O": "Shooting Valley Girls for like, saying like all the time. Really.",
+    "L1": "Disparando a chicas del valle por igual, diciendo como todo el tiempo. De Verdad.",
+    "L2": "Schießen Tal Girls für wie, sagen wie die ganze Zeit. Ja wirklich.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1102,
+    "O": "Slow seductive tentacle rape.",
+    "L1": "Violación tentáculo lento y seductor.",
+    "L2": "Langsame verführerische Tentakelvergewaltigung.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1103,
+    "O": "Talking like a pirate, y’arr!",
+    "L1": "Hablando como un pirata, y'arr!",
+    "L2": "Rede wie ein Pirat, y'arr!",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1104,
+    "O": "Tenderly kissing a unicorn's horn.",
+    "L1": "Besando tiernamente un cuerno de unicornio.",
+    "L2": "Zärtlich ein Horn eines Einhorns küssend.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1105,
+    "O": "That bastard Jesus!",
+    "L1": "¡Ese bastardo de Jesús!",
+    "L2": "Dieser Bastard Jesus!",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1106,
+    "O": "The last shreads of dignity.",
+    "L1": "Los últimos hilos de la dignidad.",
+    "L2": "Die letzten Scharen von Würde.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1107,
+    "O": "The power of friendship.",
+    "L1": "El poder de la amistad.",
+    "L2": "Die Kraft der Freundschaft.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1108,
+    "O": "This card intentionally left blank.",
+    "L1": "Esta tarjeta se dejó en blanco intencionalmente.",
+    "L2": "Diese Karte wurde absichtlich leer gelassen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1109,
+    "O": "Throwing water on a braless woman in a white t-shirt",
+    "L1": "Arrojando agua sobre una mujer braless en una camiseta blanca",
+    "L2": "Werfendes Wasser auf eine braless Frau in einem weißen T-Shirt",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1110,
+    "O": "Upskirts.",
+    "L1": "Upskirts",
+    "L2": "Upskirts.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1111,
+    "O": "Wasting all your money on hookers and booze.",
+    "L1": "Gastando todo su dinero en prostitutas y bebidas alcohólicas.",
+    "L2": "Verschwenden all dein Geld auf Nutten und Alkohol.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1112,
+    "O": "Winning.",
+    "L1": "Victorioso.",
+    "L2": "Gewinnen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1113,
+    "O": "A foot fetish.",
+    "L1": "Un fetichismo de pies.",
+    "L2": "Ein Fußfetisch.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1114,
+    "O": "A powerful gag reflex.",
+    "L1": "Un poderoso reflejo nauseoso.",
+    "L2": "Ein starker Würgereflex.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1115,
+    "O": "A tight, Asian pussy.",
+    "L1": "Un coño apretado, asiático.",
+    "L2": "Eine enge, asiatische Muschi.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1116,
+    "O": "Explosive decompression.",
+    "L1": "Descompresión explosiva.",
+    "L2": "Explosive Dekompression.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1117,
+    "O": "Extraordinary Rendition.",
+    "L1": "Rendimiento extraordinario.",
+    "L2": "Außergewöhnliche Wiedergabe.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1118,
+    "O": "Forgetting the safety word.",
+    "L1": "Olvidando la palabra de seguridad.",
+    "L2": "Das Sicherheitswort vergessen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1119,
+    "O": "Greeting Christmas carollers naked.",
+    "L1": "Saludo navidad carollers desnudo.",
+    "L2": "Gruß Weihnachtskarollern nackt.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1120,
+    "O": "Handcuffs, without the key.",
+    "L1": "Esposas, sin la llave.",
+    "L2": "Handschellen, ohne den Schlüssel.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1121,
+    "O": "Having a drill for a penis.",
+    "L1": "Tener un taladro para un pene.",
+    "L2": "Einen Bohrer für einen Penis haben.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1122,
+    "O": "Hot Jailbait Ass.",
+    "L1": "Culo jailbait caliente.",
+    "L2": "Heißer Jailbait Arsch.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1123,
+    "O": "Liposuction gone horrible wrong.",
+    "L1": "La liposucción ha ido horrible mal.",
+    "L2": "Fettabsaugung schrecklich falsch gegangen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1124,
+    "O": "My harem of scantily clad women.",
+    "L1": "Mi harén de mujeres con poca ropa.",
+    "L2": "Mein Harem von spärlich bekleideten Frauen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1125,
+    "O": "Nazi Zombie Robot Ninjas.",
+    "L1": "Ninjas zombis robot nazi.",
+    "L2": "Nazi Zombie Roboter Ninjas.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1126,
+    "O": "Redneck gypsies.",
+    "L1": "Gitanos Redneck.",
+    "L2": "Redneck-Zigeuner.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1127,
+    "O": "Scissoring.",
+    "L1": "Tijera",
+    "L2": "Scheren",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1128,
+    "O": "A guy and two robots who won’t shut up.",
+    "L1": "Un chico y dos robots que no se callan.",
+    "L2": "Ein Kerl und zwei Roboter, die nicht den Mund halten.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1129,
+    "O": "A shotgun wedding.",
+    "L1": "Una boda de escopeta.",
+    "L2": "Eine Schrotflintenhochzeit.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1130,
+    "O": "Anne Frank's diary",
+    "L1": "El diario de anne frank",
+    "L2": "Anne Franks Tagebuch",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1131,
+    "O": "Autoerotic asphyxiation.",
+    "L1": "Asfixia autoerótica.",
+    "L2": "Autoerotische Erstickung.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1132,
+    "O": "Blow Up Bianca the Latex Lovedoll.",
+    "L1": "Explota bianca la latex lovedoll.",
+    "L2": "Sprengen bianca die latex lovedoll.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1133,
+    "O": "Endlessly tumbling down an up escalator.",
+    "L1": "Caer sin cesar por una escalera mecánica.",
+    "L2": "Endlos eine Rolltreppe hinunterstürzen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1134,
+    "O": "Fun with nuns.",
+    "L1": "Divertirse con las monjas.",
+    "L2": "Spaß mit Nonnen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1135,
+    "O": "Getting it all over the walls.",
+    "L1": "Conseguirlo por todas las paredes.",
+    "L2": "Alles über die Wände bekommen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1136,
+    "O": "Holiday Dinner by Jack Daniels.",
+    "L1": "Cena navideña de Jack Daniels.",
+    "L2": "Urlaub Abendessen von Jack Daniels.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1137,
+    "O": "Nailgun fights.",
+    "L1": "Luchas de pistola.",
+    "L2": "Nagelpistolen kämpfen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1138,
+    "O": "Teaching the bitch a lesson.",
+    "L1": "Enseñando a la perra una lección",
+    "L2": "Der Hündin eine Lektion erteilen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1139,
+    "O": "Nazi super science.",
+    "L1": "Super ciencia nazi.",
+    "L2": "Nazi Super Wissenschaft.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1140,
+    "O": "Making a human centipede.",
+    "L1": "Haciendo un ciempiés humano.",
+    "L2": "Einen Menschen Tausendfüßler machen.",
+    "Exp": "NSFH"
+  },
+  {
+    "I": 1173,
+    "O": "The primal, ball-slapping sex your parents are having right now.",
+    "L1": "El sexo primordial que tus padres tienen en este momento.",
+    "L2": "Der ursprüngliche, ballklatschende Sex, den deine Eltern gerade haben.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1174,
+    "O": "A cat video so cute that your eyes roll back and your spine slides out of your anus.",
+    "L1": "Un video de gato tan lindo que sus ojos se mueven hacia atrás y su columna vertebral se desliza fuera de su ano.",
+    "L2": "Ein Katzenvideo, so süß, dass deine Augen zurückrollen und deine Wirbelsäule aus deinem Anus gleitet.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1175,
+    "O": "Cock.",
+    "L1": "Polla.",
+    "L2": "Schwanz.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1176,
+    "O": "A cop who is also a dog.",
+    "L1": "Un policía que también es un perro.",
+    "L2": "Ein Polizist, der auch ein Hund ist.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1177,
+    "O": "Dying alone and in pain.",
+    "L1": "Morir solo y con dolor.",
+    "L2": "Sterben alleine und in Schmerzen.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1178,
+    "O": "Gay aliens.",
+    "L1": "Extranjeros gay.",
+    "L2": "Homosexuell Aliens.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1179,
+    "O": "The way white people is.",
+    "L1": "La forma en que los blancos son.",
+    "L2": "So wie die Weißen sind.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1180,
+    "O": "Reverse cowgirl.",
+    "L1": "Vaquera inversa.",
+    "L2": "Verkehrtes Cowgirl.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1181,
+    "O": "The Quesadilla Explosion Salad from Chili's.",
+    "L1": "La ensalada de quesadilla de chile.",
+    "L2": "Der Quesadilla-Explosionssalat von Chili's.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1182,
+    "O": "Actually getting shot, for real.",
+    "L1": "En realidad recibir un disparo, de verdad.",
+    "L2": "Tatsächlich erschossen werden, für echt.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1183,
+    "O": "Not having sex.",
+    "L1": "No teniendo sexo",
+    "L2": "Keinen Sex haben.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1184,
+    "O": "Vietnam flashbacks.",
+    "L1": "Flashbacks vietnam.",
+    "L2": "Vietnam Rückblenden.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1185,
+    "O": "Running naked through a mall, pissing and shitting everywhere.",
+    "L1": "Corriendo desnudo por un centro comercial, orinando y cagando por todas partes.",
+    "L2": "Nackt durch ein Einkaufszentrum laufen, überall pissen und scheißen.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1186,
+    "O": "Nothing.",
+    "L1": "Nada.",
+    "L2": "Nichts.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1187,
+    "O": "Warm, velvety muppet sex.",
+    "L1": "Muppet sexo cálido y aterciopelado.",
+    "L2": "Warmer, samtiger Muppet Sex.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1188,
+    "O": "Self-flagellation.",
+    "L1": "Autoflagelación.",
+    "L2": "Selbstgeißelung.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1189,
+    "O": "The systematic destruction of an entire people and their way of life.",
+    "L1": "La destrucción sistemática de un pueblo entero y su forma de vida.",
+    "L2": "Die systematische Zerstörung eines ganzen Volkes und seiner Lebensweise.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1190,
+    "O": "Samuel L. Jackson.",
+    "L1": "Samuel l. jackson",
+    "L2": "Samuel l. Jackson.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1191,
+    "O": "A boo-boo.",
+    "L1": "Un abucheo.",
+    "L2": "Ein boo-boo.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1192,
+    "O": "Going around punching people.",
+    "L1": "Andando por ahí golpeando gente.",
+    "L2": "Leute herumstochern.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1193,
+    "O": "The entire Internet.",
+    "L1": "Todo el internet.",
+    "L2": "Das gesamte Internet.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1194,
+    "O": "Some kind of bird-man.",
+    "L1": "Una especie de pájaro-hombre.",
+    "L2": "Eine Art Vogelmensch.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1195,
+    "O": "Chugging a lava lamp.",
+    "L1": "Encendiendo una lámpara de lava.",
+    "L2": "Eine Lavalampe tuckern.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1196,
+    "O": "Having sex on top of a pizza.",
+    "L1": "Tener sexo encima de una pizza.",
+    "L2": "Sex auf einer Pizza haben.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1197,
+    "O": "Indescribable loneliness.",
+    "L1": "Indescriptible soledad.",
+    "L2": "Unbeschreibliche Einsamkeit.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1198,
+    "O": "An ass disaster.",
+    "L1": "Un asno desastre",
+    "L2": "Eine Eselskatastrophe.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1199,
+    "O": "Shutting the fuck up.",
+    "L1": "Cerrando la puta boca.",
+    "L2": "Den Mund halten.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1200,
+    "O": "All my friends dying.",
+    "L1": "Todos mis amigos muriendo.",
+    "L2": "Alle meine Freunde sterben.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1201,
+    "O": "Putting an entire peanut butter and jelly sandwich into the VCR.",
+    "L1": "Poner un sándwich entero de mantequilla de maní y jalea en el vcr.",
+    "L2": "Ein komplettes Erdnussbutter und Geleesandwich in den vcr legen.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1202,
+    "O": "Spending lots of money.",
+    "L1": "Gastando mucho dinero.",
+    "L2": "Viel Geld ausgeben.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1203,
+    "O": "Some douche with an acoustic guitar.",
+    "L1": "Algunos duchas con una guitarra acústica.",
+    "L2": "Etwas Douche mit einer akustischen Gitarre.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1204,
+    "O": "Flying robots that kill people.",
+    "L1": "Robots voladores que matan personas.",
+    "L2": "Fliegende Roboter, die Menschen töten.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1205,
+    "O": "A greased-up Matthew McConaughey.",
+    "L1": "Un matto engrasado mcconaughey.",
+    "L2": "Ein gefettetes matthew mcconaughey.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1206,
+    "O": "An unstoppable wave of fire ants.",
+    "L1": "Una ola imparable de hormigas de fuego.",
+    "L2": "Eine unaufhaltbare Welle von Feuerameisen.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1207,
+    "O": "Not contributing to society in any meaningful way.",
+    "L1": "No contribuyendo de manera significativa a la sociedad.",
+    "L2": "Keinen sinnvollen Beitrag zur Gesellschaft leisten.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1208,
+    "O": "An all-midget production of Shakespeare's Richard III.",
+    "L1": "Una producción para todo el mundo de Richard Shakespeare iii.",
+    "L2": "Eine All-Midget-Produktion von Shakespeares Richard III.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1209,
+    "O": "Screaming like a maniac.",
+    "L1": "Gritando como un maníaco.",
+    "L2": "Schreiend wie ein Wahnsinniger.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1210,
+    "O": "The moist, demanding chasm of his mouth.",
+    "L1": "El humedo y exigente abismo de su boca.",
+    "L2": "Der feuchte, anspruchsvolle Abgrund seines Mundes.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1211,
+    "O": "Filling every orifice with butterscotch pudding.",
+    "L1": "Llenar cada orificio con pudín de caramelo.",
+    "L2": "Füllen Sie jede Öffnung mit Buttertoffeepudding.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1212,
+    "O": "Unlimited soup, salad, and breadsticks.",
+    "L1": "Sopa ilimitada, ensalada y palitos de pan.",
+    "L2": "Unbegrenzte Suppe, Salat und Grissini.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1213,
+    "O": "Crying into the pages of Sylvia Plath.",
+    "L1": "Llorando en las páginas de sylvia plath.",
+    "L2": "Weint in die Seiten von Sylvia Plath.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1214,
+    "O": "Velcro.",
+    "L1": "Velcro",
+    "L2": "Klettverschluss.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1215,
+    "O": "A PowerPoint presentation.",
+    "L1": "Una presentación en powerpoint.",
+    "L2": "Eine Powerpoint-Präsentation.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1216,
+    "O": "A surprising amount of hair.",
+    "L1": "Una sorprendente cantidad de pelo.",
+    "L2": "Eine überraschende Menge an Haaren.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1217,
+    "O": "Eating Tom Selleck's mustache to gain his powers.",
+    "L1": "Comiendo el bigote de tom selleck para ganar sus poderes.",
+    "L2": "Tom Sellecks Schnurrbart essen, um seine Kräfte zu gewinnen.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1218,
+    "O": "Roland the Farter, flatulist to the king.",
+    "L1": "Roland el más lejano, flatulista para el rey.",
+    "L2": "Roland der farter, flatulist zum König.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1219,
+    "O": "That ass.",
+    "L1": "Ese culo",
+    "L2": "Dieser Esel.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1220,
+    "O": "A pile of squirming bodies.",
+    "L1": "Una pila de cuerpos retorcidos.",
+    "L2": "Ein Haufen sich windender Körper.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1221,
+    "O": "Buying the right pants to be cool.",
+    "L1": "Comprando los pantalones adecuados para estar cool.",
+    "L2": "Die richtige Hose kaufen, um cool zu sein.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1222,
+    "O": "Blood farts.",
+    "L1": "Pedos de sangre",
+    "L2": "Blutfurz.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1223,
+    "O": "Three months in the hole.",
+    "L1": "Tres meses en el hoyo.",
+    "L2": "Drei Monate im Loch.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1224,
+    "O": "A botched circumcision.",
+    "L1": "Una circuncisión fallida.",
+    "L2": "Eine verpfuschte Beschneidung.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1225,
+    "O": "The Land of Chocolate.",
+    "L1": "La tierra del chocolate.",
+    "L2": "Das Land der Schokolade.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1226,
+    "O": "Slapping a racist old lady.",
+    "L1": "Abofeteando a una anciana racista",
+    "L2": "Eine rassistische alte Dame schlagen.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1227,
+    "O": "A lamprey swimming up the toilet and latching onto your taint.",
+    "L1": "Una lamprea que sube por el inodoro y se engancha a tu mancha.",
+    "L2": "Ein Neunauge, wie er die Toilette hinaufschwimmt und sich an Ihrem Makel festhält.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1228,
+    "O": "Jumping out at people.",
+    "L1": "Saltando a la gente.",
+    "L2": "Bei Menschen rausspringen.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1229,
+    "O": "A black male in his early 20s, last seen wearing a hoodie.",
+    "L1": "Un hombre negro de unos 20 años, visto por última vez con una sudadera con capucha.",
+    "L2": "Ein schwarzer Mann in seinen frühen 20ern, zuletzt gesehen, trug einen Kapuzenpulli.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1230,
+    "O": "Mufasa's death scene.",
+    "L1": "La escena de la muerte de Mufasa.",
+    "L2": "Mufasas Todesszene.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1231,
+    "O": "Bill Clinton, naked on a bearskin rug with a saxophone.",
+    "L1": "Bill Clinton, desnudo sobre una alfombra de piel de oso con un saxofón.",
+    "L2": "Bill Clinton, nackt auf einem Bärenfell Teppich mit einem Saxophon.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1232,
+    "O": "Demonic possession.",
+    "L1": "Posesión demoníaca.",
+    "L2": "Dämonische Besessenheit.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1233,
+    "O": "The Harlem Globetrotters.",
+    "L1": "Los trotamundos del harlem.",
+    "L2": "Die Harlem Globetrotter.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1234,
+    "O": "Vomiting mid-blowjob.",
+    "L1": "Vómitos a media mamada.",
+    "L2": "Erbrechen Mitte-Blowjob.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1235,
+    "O": "My manservant, Claude.",
+    "L1": "Mi criado, claude",
+    "L2": "Mein Diener, Claude.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1236,
+    "O": "Having shotguns for legs.",
+    "L1": "Teniendo escopetas para las piernas.",
+    "L2": "Schrotflinten für Beine haben.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1237,
+    "O": "Letting everyone down.",
+    "L1": "Decepcionando a todos",
+    "L2": "Lassen Sie alle unten.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1238,
+    "O": "A spontaneous conga line.",
+    "L1": "Una linea de conga espontanea.",
+    "L2": "Eine spontane Conga-Linie.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1239,
+    "O": "A vagina that leads to another dimension.",
+    "L1": "Una vagina que conduce a otra dimensión.",
+    "L2": "Eine Vagina, die zu einer anderen Dimension führt.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1240,
+    "O": "Disco fever.",
+    "L1": "Fiebre disco.",
+    "L2": "Disco Fieber.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1241,
+    "O": "Getting your dick stuck in a Chinese finger trap with another dick.",
+    "L1": "Conseguir su polla atrapada en una trampa de dedo chino con otra polla.",
+    "L2": "Deinen Schwanz in einer chinesischen Fingerfalle mit einem anderen Schwanz stecken zu lassen.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1242,
+    "O": "Fisting.",
+    "L1": "Puño",
+    "L2": "Fisting.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1243,
+    "O": "The thin veneer of situational causality that underlies porn.",
+    "L1": "La delgada capa de causalidad situacional que subyace a la pornografía.",
+    "L2": "Das dünne Furnier der situativen Kausalität, die dem Porno zugrunde liegt.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1244,
+    "O": "Girls that always be textin'.",
+    "L1": "Chicas que siempre son de texto.",
+    "L2": "Mädchen, die immer texten.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1245,
+    "O": "Blowing some dudes in an alley.",
+    "L1": "Soplando algunos tipos en un callejón.",
+    "L2": "Einige Typen in einer Gasse blasen.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1246,
+    "O": "Drinking ten 5-hour ENERGYs to get fifty continuous hours of energy.",
+    "L1": "Beber diez energías de 5 horas para obtener cincuenta horas continuas de energía.",
+    "L2": "Trinke zehn 5-Stunden-Energie, um fünfzig Stunden lang Energie zu bekommen.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1247,
+    "O": "Sneezing, farting, and coming at the same time.",
+    "L1": "Estornudar, tirar pedos, y venir al mismo tiempo.",
+    "L2": "Niesen, pupsen und gleichzeitig kommen.",
+    "Exp": "CAHe3"
+  },
+  {
+    "I": 1273,
+    "O": "A freshly-filled diaper",
+    "L1": "Un pañal recién llenado",
+    "L2": "Eine frisch gefüllte Windel",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1274,
+    "O": "Glue",
+    "L1": "Pegamento",
+    "L2": "Kleben",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1275,
+    "O": "An unusually-attractive transvestite",
+    "L1": "Una travesti inusualmente atractiva",
+    "L2": "Ein ungewöhnlich attraktiver Transvestit",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1276,
+    "O": "Hand-me-down adult diapers",
+    "L1": "Pañales para adultos sin manos",
+    "L2": "Hand-unten-Erwachsenenwindeln",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1277,
+    "O": "A stillborn fetus",
+    "L1": "Un feto muerto",
+    "L2": "Ein totgeborener Fötus",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1278,
+    "O": "A disgraced pelican",
+    "L1": "Un pelícano deshonrado",
+    "L2": "Ein in Ungnade gefallener Pelikan",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1279,
+    "O": "Three buckets of urine, free for 2 nights, with no late fee",
+    "L1": "Tres cubos de orina, gratis por 2 noches, sin recargo.",
+    "L2": "Drei Eimer Urin, frei für 2 Nächte, ohne Nachzahlung",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1280,
+    "O": "My testicles",
+    "L1": "Mis testiculos",
+    "L2": "Meine Hoden",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1281,
+    "O": "A black woman's vagina",
+    "L1": "La vagina de una mujer negra",
+    "L2": "Die Vagina einer schwarzen Frau",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1282,
+    "O": "My asshole",
+    "L1": "Mi gilipollas",
+    "L2": "Mein Arschloch",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1283,
+    "O": "A whale's blowhole",
+    "L1": "El orificio de una ballena",
+    "L2": "Das Blasloch eines Wals",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1284,
+    "O": "2 Girls 1 Cup",
+    "L1": "2 niñas 1 taza",
+    "L2": "2 Mädchen 1 Tasse",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1285,
+    "O": "The Big Bang Theory (TV)",
+    "L1": "La teoría del big bang (tv)",
+    "L2": "Die Urknalltheorie (TV)",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1286,
+    "O": "Teen pregnancy",
+    "L1": "Embarazo adolescente",
+    "L2": "Teenager-Schwangerschaft",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1287,
+    "O": "Ass hair",
+    "L1": "Pelo de culo",
+    "L2": "Arsch Haare",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1288,
+    "O": "Vaginal warts",
+    "L1": "Verrugas vaginales",
+    "L2": "Vaginale Warzen",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1289,
+    "O": "Ellen Degeneres",
+    "L1": "Ellen DeGeneres",
+    "L2": "Ellen DeGeneres",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1290,
+    "O": "Jews Against Humanity",
+    "L1": "Judíos contra la humanidad",
+    "L2": "Juden gegen die Menschheit",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1291,
+    "O": "Indy wrestling",
+    "L1": "Lucha libre indy",
+    "L2": "Indy-Ringen",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1292,
+    "O": "Cunt",
+    "L1": "Coño",
+    "L2": "Fotze",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1293,
+    "O": "Beating a crowd of delightful parents to death with a steel dildo",
+    "L1": "Derrotar a una multitud de padres encantadores hasta la muerte con un consolador de acero",
+    "L2": "Mit einem Stahldildo eine Schar entzückender Eltern zu Tode prügeln",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1294,
+    "O": "Beating a crowd of delightful parents to death with a steel dildo while dressed as Ru Paul's brother, Ron.",
+    "L1": "Matando a una multitud de padres encantadores con un consolador de acero mientras estaba vestido como el hermano de ru paul, ron.",
+    "L2": "Eine Menge von entzückenden Eltern mit einem Stahldildo zu Tode prügeln, während er als Ru Pauls Bruder, Ron gekleidet ist.",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1295,
+    "O": "A roll in the hay",
+    "L1": "Un rollo en el heno",
+    "L2": "Eine Rolle im Heu",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1296,
+    "O": "Get 'em, Steve-Dave!",
+    "L1": "¡Consíguelos, Steve-Dave!",
+    "L2": "Hol sie, steve-dave!",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1297,
+    "O": "God Hates You",
+    "L1": "Dios te odia",
+    "L2": "Gott hasst dich",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1298,
+    "O": "Manboobs.",
+    "L1": "Manboobs",
+    "L2": "Manboobs.",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1299,
+    "O": "Daniel Benoit",
+    "L1": "Daniel Benoit",
+    "L2": "Daniel Benoit",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1300,
+    "O": "Vomiting in the shower",
+    "L1": "Vomitando en la ducha",
+    "L2": "Erbrechen in der Dusche",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1308,
+    "O": "An intellectually superior overlord",
+    "L1": "Un señor superior intelectualmente superior",
+    "L2": "Ein intellektuell überlegener Overlord",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1312,
+    "O": "Dwight Schrute",
+    "L1": "Dwight schrute",
+    "L2": "Dwight schrute",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1313,
+    "O": "Casey Anthony",
+    "L1": "Casey anthony",
+    "L2": "Casey Anthony",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1314,
+    "O": "Clubbin seals",
+    "L1": "Sellos de clubbin",
+    "L2": "Clubbin-Siegel",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1315,
+    "O": "Stunt cock",
+    "L1": "Truco",
+    "L2": "Stuntschwanz",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1317,
+    "O": "Anal lice",
+    "L1": "Piojos anales",
+    "L2": "Anal Läuse",
+    "Exp": "Image1"
+  },
+  {
+    "I": 1319,
+    "O": "Lightsaber Dildos",
+    "L1": "Consoladores sable de luz",
+    "L2": "Lichtschwert Dildos",
+    "Exp": "Image1"
+  }
+]

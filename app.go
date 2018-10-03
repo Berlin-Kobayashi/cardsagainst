@@ -1,11 +1,13 @@
 package main
 
 import (
+	"bytes"
 	"encoding/json"
 	"fmt"
 	"github.com/DanShu93/cardsagainst/translator"
 	"io/ioutil"
 	"os"
+	"strings"
 )
 
 const inputCardsFileName = "cards.json"
@@ -23,30 +25,50 @@ type Card struct {
 
 func (c Card) TranslateQuestion(l1, l2 string, t translator.Translator) TranslatedQuestion {
 	return TranslatedQuestion{
+		I:          c.Id,
 		Exp:        c.Expansion,
 		NumAnswers: c.NumAnswers,
 		O:          c.Text,
-		L1:         t.Translate(c.Text, "en", l1),
-		L2:         t.Translate(c.Text, "en", l2),
+		L1:         toUpper(t.Translate(c.Text, "en", l1)),
+		L2:         toUpper(t.Translate(c.Text, "en", l2)),
 	}
 }
 
 func (c Card) TranslateAnswer(l1, l2 string, t translator.Translator) TranslatedAnswer {
 	return TranslatedAnswer{
+		I:   c.Id,
 		Exp: c.Expansion,
 		O:   c.Text,
-		L1:  t.Translate(c.Text, "en", l1),
-		L2:  t.Translate(c.Text, "en", l2),
+		L1:  toUpper(t.Translate(c.Text, "en", l1)),
+		L2:  toUpper(t.Translate(c.Text, "en", l2)),
 	}
 }
 
 type TranslatedQuestion struct {
-	NumAnswers     int
+	NumAnswers, I  int
 	O, L1, L2, Exp string
 }
 
 type TranslatedAnswer struct {
+	I              int
 	O, L1, L2, Exp string
+}
+
+func toUpper(in string) string {
+	out := []byte(in)
+	if alphaOnly(out[0]) {
+		out[0] = bytes.ToUpper([]byte{out[0]})[0]
+	}
+
+	return string(out)
+}
+
+func alphaOnly(char byte) bool {
+	alpha := "abcdefghijklmnopqrstuvwxyz"
+	if !strings.Contains(alpha, strings.ToLower(string(char))) {
+		return false
+	}
+	return true
 }
 
 func main() {
