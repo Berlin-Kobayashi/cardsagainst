@@ -2107,15 +2107,6 @@
   },
   {
     "NumAnswers": 1,
-    "I": 1172,
-    "O": "My new favourite sexual position is _",
-    "L1": "Mi nueva posición sexual favorita es _",
-    "L2": "Meine neue Lieblingsstellung ist _",
-    "Exp": "NSFH",
-    "Pic": "https://media.musely.com/u/1f361d67-1407-423e-96df-8ffa66369f04.jpg"
-  },
-  {
-    "NumAnswers": 1,
     "I": 1248,
     "O": "A successful job interview begins with a firm handshake and ends with _.",
     "L1": "Una entrevista de trabajo exitosa comienza con un firme apretón de manos y termina con _.",

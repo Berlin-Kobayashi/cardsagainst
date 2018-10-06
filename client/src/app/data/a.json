@@ -1,5 +1,13 @@
 [
   {
+    "I": 2001,
+    "O": "Peace Game Jam.",
+    "L1": "Friedensspiel-Jam.",
+    "L2": "Juego de la Paz Jam.",
+    "Exp": "Custom",
+    "Pic": "https://scontent.fdtm2-1.fna.fbcdn.net/v/t1.0-9/40654322_2090455920999585_9153742091476533248_o.jpg?_nc_cat=102&oh=617dee8b3f7619a31dd2eda6a69080c1&oe=5C1A8BEF"
+  },
+  {
     "I": 1,
     "O": "Flying sex snakes.",
     "L1": "Volando serpientes sexuales.",
@@ -688,14 +696,6 @@
     "Pic": "https://images.theconversation.com/files/170684/original/file-20170524-5790-1ucy3v9.jpg?ixlib=rb-1.1.0\u0026q=45\u0026auto=format\u0026w=754\u0026fit=clip"
   },
   {
-    "I": 87,
-    "O": "Testicular torsion.",
-    "L1": "Torsión testicular.",
-    "L2": "Hodentorsion.",
-    "Exp": "Base",
-    "Pic": "http://www.tibbislami.org/wp-content/uploads/2014/04/Testicular-torsion.png"
-  },
-  {
     "I": 88,
     "O": "The folly of man.",
     "L1": "La locura del hombre",
@@ -921,9 +921,9 @@
   },
   {
     "I": 116,
-    "O": "\u003ci\u003eBees?\u003c/i\u003e",
-    "L1": "\u003ci\u003e abejas? \u003c/i\u003e",
-    "L2": "\u003ci\u003e Bienen? \u003c/ i\u003e",
+    "O": "Bees?",
+    "L1": "bejas?",
+    "L2": "Bienen?",
     "Exp": "Base",
     "Pic": "https://literallyhumor.files.wordpress.com/2012/09/bee1.jpg"
   },
@@ -8182,14 +8182,6 @@
     "L2": "Arsch Haare",
     "Exp": "Image1",
     "Pic": "http://hairstylecamp.com/wp-content/uploads/2016/01/50s-Mens-Hairstyles-Ducks-Ass-deakinandwhite-e1455694753690.jpg"
-  },
-  {
-    "I": 1288,
-    "O": "Vaginal warts",
-    "L1": "Verrugas vaginales",
-    "L2": "Vaginale Warzen",
-    "Exp": "Image1",
-    "Pic": "https://i2.wp.com/s3.amazonaws.com/f01.justanswer.com/JACUSTOMERkwselhhw/2013-07-01_093330_genital-warts-47.jpg"
   },
   {
     "I": 1289,

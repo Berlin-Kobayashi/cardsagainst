@@ -3,8 +3,6 @@ import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider';
 import {createMuiTheme} from '@material-ui/core/styles';
 import {blue, red} from '@material-ui/core/colors';
 import Typography from '@material-ui/core/Typography';
-import questions from '../data/q';
-import answers from '../data/a';
 import Card from '@material-ui/core/Card';
 import CardActions from '@material-ui/core/CardActions';
 import CardContent from '@material-ui/core/CardContent';
@@ -24,14 +22,28 @@ const cellWidth = 300;
 const fallback = "https://upload.wikimedia.org/wikipedia/commons/4/48/Inverted_question_mark_alternate.png";
 
 class Main extends Component {
+    componentDidMount() {
+        window.onkeyup = function (e) {
+            var key = e.keyCode ? e.keyCode : e.which;
+            console.log("Key pressed: " + key);
+            if (key == 82) {
+                this.props.random();
+            }
+
+            if (key == 80) {
+                this.props.prechosen();
+            }
+        }.bind(this);
+    }
+
     render() {
         return (
             <MuiThemeProvider theme={theme}>
                 <GridList cellHeight={cellHeight} cols={4} spacing={20}>
-                    {questions.map((row, i) =>
+                    {this.props.questions.map((row, i) =>
                         this.renderQuestion(row, i)
                     )}
-                    {answers.map((row, i) =>
+                    {this.props.answers.map((row, i) =>
                         this.renderAnswer(row, i)
                     )}
                 </GridList>
@@ -40,7 +52,7 @@ class Main extends Component {
     }
 
     renderQuestion(data, key) {
-        return <GridListTile cols={1}>
+        return <GridListTile key={key} cols={1}>
             <Card style={{
                 maxWidth: cellWidth, minHeight: cellHeight, backgroundColor: "black",
                 "WebkitPrintColorAdjust": "exact"
@@ -72,7 +84,7 @@ class Main extends Component {
     }
 
     renderAnswer(data, key) {
-        return <GridListTile cols={1}>
+        return <GridListTile key={key} cols={1}>
             <Card style={{
                 maxWidth: cellWidth, minHeight: cellHeight, backgroundColor: "white",
                 "WebkitPrintColorAdjust": "exact"
