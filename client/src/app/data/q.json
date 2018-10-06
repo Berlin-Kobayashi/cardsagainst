@@ -5,7 +5,8 @@
     "O": "_?  There's an app for that.",
     "L1": "_? Hay una aplicación para eso.",
     "L2": "_? Dafür gibt es eine App.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://www.simplus.com/wp-content/uploads/2015/12/App-01.png"
   },
   {
     "NumAnswers": 1,
@@ -13,7 +14,8 @@
     "O": "Why can't I sleep at night?",
     "L1": "¿Por qué no puedo dormir por la noche?",
     "L2": "Warum kann ich nachts nicht schlafen?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://cdn-webimages.wimages.net/051426099797147956044260875c70a675e39b-wm.jpg?v=3"
   },
   {
     "NumAnswers": 1,
@@ -21,7 +23,8 @@
     "O": "What's that smell?",
     "L1": "¿Qué es ese olor?",
     "L2": "Was ist das für ein Geruch?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://sd.keepcalm-o-matic.co.uk/i-w600/whats-that-smell.jpg"
   },
   {
     "NumAnswers": 1,
@@ -29,7 +32,8 @@
     "O": "I got 99 problems but _ ain't one.",
     "L1": "Tengo 99 problemas pero _ no es uno.",
     "L2": "Ich habe 99 Probleme, aber _ ist nicht eins.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://sd.keepcalm-o-matic.co.uk/i/i-got-99-problems-but-jemmu-ain-t-one.png"
   },
   {
     "NumAnswers": 1,
@@ -37,7 +41,8 @@
     "O": "Maybe she's born with it.  Maybe it's _.",
     "L1": "Tal vez ella ha nacido con eso. tal vez sea _.",
     "L2": "Vielleicht ist sie damit geboren. Vielleicht ist es _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://img0.etsystatic.com/049/0/9596844/il_570xN.676307240_4riq.jpg"
   },
   {
     "NumAnswers": 1,
@@ -45,7 +50,8 @@
     "O": "What's the next Happy Meal toy?",
     "L1": "¿Cuál es el próximo juguete de la comida feliz?",
     "L2": "Was ist das nächste glückliche Mahlzeit Spielzeug?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://1.bp.blogspot.com/-M569d9RL1mA/Uezi70KORkI/AAAAAAAACr0/UihZ7LknRdI/s1600/happy-meal-toys-hello-kitty-voov.jpg"
   },
   {
     "NumAnswers": 1,
@@ -53,7 +59,8 @@
     "O": "Anthropologists have recently discovered a primitive tribe that worships _.",
     "L1": "Los antropólogos han descubierto recientemente una tribu primitiva que adora _.",
     "L2": "Anthropologen haben kürzlich einen primitiven Stamm entdeckt, der anbetet.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://images.rapgenius.com/6854e96ff64834911e8b5b5fd702cbd8.500x364x60.gif"
   },
   {
     "NumAnswers": 1,
@@ -61,7 +68,8 @@
     "O": "It's a pity that kids these days are all getting involved with _.",
     "L1": "Es una lástima que los niños en estos días estén todos involucrados con _.",
     "L2": "Es ist schade, dass Kinder in diesen Tagen sind alle mit _ beteiligt.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://res.cloudinary.com/teepublic/image/private/s--tIcr_0CW--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1458606129/production/designs/454176_1.jpg"
   },
   {
     "NumAnswers": 1,
@@ -69,7 +77,8 @@
     "O": "During Picasso's often-overlooked Brown Period, he produced hundreds of paintings of _.",
     "L1": "Durante el período marrón a menudo pasado por alto de picasso, produjo cientos de pinturas de _.",
     "L2": "Während der oft übersehenen braunen Periode von Picasso produzierte er Hunderte von Gemälden von _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://images.rapgenius.com/6854e96ff64834911e8b5b5fd702cbd8.500x364x60.gif"
   },
   {
     "NumAnswers": 1,
@@ -77,7 +86,8 @@
     "O": "Alternative medicine is now embracing the curative powers of _.",
     "L1": "La medicina alternativa ahora está abrazando los poderes curativos de _.",
     "L2": "Alternative Medizin umfasst jetzt die heilenden Kräfte von _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.astrologymemes.com/alternative-medicine-is-now-embracing-the-curative-powers-of-natural-4693842.png"
   },
   {
     "NumAnswers": 2,
@@ -85,7 +95,8 @@
     "O": "And the Academy Award for _ goes to _.",
     "L1": "Y el premio de la academia para _ va a _.",
     "L2": "Und der Academy Award für _ geht an _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://recruitee.com/blog/wp-content/uploads/2016/02/AND-THE-AWARD-GOES-TO.jpg"
   },
   {
     "NumAnswers": 1,
@@ -93,7 +104,8 @@
     "O": "What's that sound?",
     "L1": "¿qué es ese sonido?",
     "L2": "Was ist das für ein Geräusch?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://www.meckosheating.com/wp-content/uploads/2016/07/Whats-that-sound.jpg"
   },
   {
     "NumAnswers": 1,
@@ -101,7 +113,8 @@
     "O": "What ended my last relationship?",
     "L1": "¿Qué terminó mi última relación?",
     "L2": "Was hat meine letzte Beziehung beendet?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/what-ended-my-last-relationship-listening-to-her-problems-without-28271549.png"
   },
   {
     "NumAnswers": 1,
@@ -109,7 +122,8 @@
     "O": "MTV's new reality show features eight washed-up celebrities living with _.",
     "L1": "El nuevo reality show de mtv presenta a ocho celebridades lavadas que viven con _.",
     "L2": "Die neue Reality-Show von mtv zeigt acht waschechte Prominente, die mit _ leben.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/bravos-new-reality-show-features-eight-washed-up-celebrities-living-with-29873321.png"
   },
   {
     "NumAnswers": 1,
@@ -117,7 +131,8 @@
     "O": "I drink to forget _.",
     "L1": "Bebo para olvidar _.",
     "L2": "Ich trinke, um zu vergessen _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://www.humoar.com/wp-content/uploads/2015/08/i-drink-to-forget.jpg"
   },
   {
     "NumAnswers": 1,
@@ -125,7 +140,8 @@
     "O": "I'm sorry professor, but I couldn't complete my homework because of _.",
     "L1": "Lo siento profesor, pero no pude completar mi tarea debido a _.",
     "L2": "Es tut mir leid Professor, aber ich konnte meine Hausaufgaben wegen _ nicht abschließen.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/im-sorry-professor-but-i-couldnt-complete-my-homework-because-29914399.png"
   },
   {
     "NumAnswers": 1,
@@ -133,7 +149,8 @@
     "O": "What is Batman's guilty pleasure?",
     "L1": "¿Cuál es el placer culpable de Batman?",
     "L2": "Was ist Batmans schuldiges Vergnügen?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://i.ytimg.com/vi/qzbl7B1v-1U/maxresdefault.jpg"
   },
   {
     "NumAnswers": 1,
@@ -141,7 +158,8 @@
     "O": "This is the way the world ends \u003cbr\u003e This is the way the world ends \u003cbr\u003e Not with a bang but with _.",
     "L1": "Esta es la forma en que el mundo termina, esta es la forma en que el mundo termina, no con una explosión sino con _.",
     "L2": "So endet die Welt - das ist der Weg, wie die Welt endet - nicht mit einem Knall, sondern mit _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://image.slidesharecdn.com/thehollowmen-100323214328-phpapp02/95/the-hollow-men-10-728.jpg?cb=1269380700"
   },
   {
     "NumAnswers": 1,
@@ -149,7 +167,8 @@
     "O": "What's a girl's best friend?",
     "L1": "¿Cuál es el mejor amigo de una chica?",
     "L2": "Was ist der beste Freund eines Mädchens?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/whats-a-soulmate-its-like-a-best-friend-but-more-5727901.png"
   },
   {
     "NumAnswers": 1,
@@ -157,7 +176,8 @@
     "O": "TSA guidelines now prohibit _ on airplanes.",
     "L1": "Las pautas tsa ahora prohíben _ en los aviones.",
     "L2": "Tsa Richtlinien verbieten jetzt _ auf Flugzeugen.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/tsa-guidelines-now-joseph-joestar-prohibit-on-airplanes-pretend-youre-5098166.png"
   },
   {
     "NumAnswers": 1,
@@ -165,7 +185,8 @@
     "O": "_.  That's how I want to die.",
     "L1": "_. Así es como quiero morir.",
     "L2": "_. so will ich sterben.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://e.lvme.me/l07ucm9.jpg"
   },
   {
     "NumAnswers": 2,
@@ -173,7 +194,8 @@
     "O": "For my next trick, I will pull _ out of _.",
     "L1": "Para mi próximo truco, sacaré a _ de _.",
     "L2": "Für meinen nächsten Trick werde ich _ aus _ herausziehen.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/for-my-next-trick-i-will-pull-out-of-mom-1268090.png"
   },
   {
     "NumAnswers": 1,
@@ -181,7 +203,8 @@
     "O": "In the new Disney Channel Original Movie, Hannah Montana struggles with _ for the first time.",
     "L1": "En la nueva película original de Disney Channel, Hannah Montana lucha con _ por primera vez.",
     "L2": "In dem neuen originalfilm von disney channel kämpft hannah montana zum ersten mal mit _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://40.media.tumblr.com/14891f42d64e02b68a97794c6cb4ab67/tumblr_nczpla3Ydu1tkxgv3o1_500.png"
   },
   {
     "NumAnswers": 2,
@@ -189,7 +212,8 @@
     "O": "_ is a slippery slope that leads to _.",
     "L1": "_ es una pendiente resbaladiza que conduce a _.",
     "L2": "_ ist ein rutschiger Abhang, der zu _ führt.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.me.me/is-a-slippery-slope-that-leads-to-my-ugly-face-29816262.png"
   },
   {
     "NumAnswers": 1,
@@ -197,7 +221,8 @@
     "O": "What does Dick Cheney prefer?",
     "L1": "¿Qué prefiere Dick Dickey?",
     "L2": "Was bevorzugt Dick Cheney?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://armedgamer.com/wp-content/uploads/2014/06/8289166618_e3cace5399_o.jpg"
   },
   {
     "NumAnswers": 1,
@@ -205,7 +230,8 @@
     "O": "Dear Abby, I'm having some trouble with _ and would like your advice.",
     "L1": "Querida Abby, estoy teniendo algunos problemas con _ y quisiera tu consejo.",
     "L2": "Lieber Abby, ich habe Probleme mit _ und möchte deinen Ratschlag.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/dear-abby-im-having-some-trouble-with-and-would-like-2691926.png"
   },
   {
     "NumAnswers": 1,
@@ -213,7 +239,8 @@
     "O": "Instead of coal, Santa now gives the bad children _.",
     "L1": "En lugar de carbón, santa ahora da a los niños malos _.",
     "L2": "Statt Kohle gibt der Weihnachtsmann jetzt den bösen Kindern _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/instead-of-coal-santa-now-gives-the-bad-children-suicidal-2674099.png"
   },
   {
     "NumAnswers": 1,
@@ -221,7 +248,8 @@
     "O": "What's the most emo?",
     "L1": "Que es lo mas emo",
     "L2": "Was ist das emo?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://s3-ak.buzzfeed.com/static/2015-08/5/10/enhanced/webdr11/anigif_enhanced-17627-1438785149-5.gif"
   },
   {
     "NumAnswers": 1,
@@ -229,7 +257,8 @@
     "O": "In 1,000 years when paper money is but a distant memory, _ will be our currency.",
     "L1": "En 1,000 años, cuando el papel moneda no sea más que un recuerdo lejano, _ será nuestra moneda.",
     "L2": "In 1000 Jahren, wenn das Papiergeld nur eine ferne Erinnerung ist, wird es unsere Währung sein.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/dead-babies-cards-against-humanity-in-1-000-years-when-paper-3278736.png"
   },
   {
     "NumAnswers": 2,
@@ -237,7 +266,8 @@
     "O": "What's the next superhero/sidekick duo?",
     "L1": "¿Cuál es el próximo dúo de superhéroes / compañeros?",
     "L2": "Was ist das nächste Superhelden- / Sidekick-Duo?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://www.gamekb.com/thumbs_v2/02503/2503349-nick-whats-your-superhero-sidekick-name.jpg"
   },
   {
     "NumAnswers": 2,
@@ -245,7 +275,8 @@
     "O": "In M. Night Shyamalan's new movie, Bruce Willis discovers that _ had really been _ all along.",
     "L1": "En m. La nueva película de la noche de shyamalan, Bruce Willis descubre que _ realmente había sido _ todo el tiempo.",
     "L2": "In m. Der neue Film von Night Shyamalan, Bruce Willis, entdeckt, dass _ _ _ _ _ wirklich _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://juliaroseknows.files.wordpress.com/2013/04/photo-3.jpg?w=500\u0026h=377"
   },
   {
     "NumAnswers": 1,
@@ -253,7 +284,8 @@
     "O": "A romantic, candlelit dinner would be incomplete without _.",
     "L1": "Una cena romántica a la luz de las velas estaría incompleta sin _.",
     "L2": "Ein romantisches Candlelight-Dinner wäre ohne _ unvollständig.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://68.media.tumblr.com/eb51282f085ac08433dd3d3f7e6c0060/tumblr_mto5dlBIMc1scg81go1_1280.png"
   },
   {
     "NumAnswers": 1,
@@ -261,7 +293,8 @@
     "O": "_.  Becha can't have just one!",
     "L1": "_. becha no puede tener solo uno!",
     "L2": "_. Becha kann nicht nur einen haben!",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/lays-betcha-cant-eat-just-one-brand-bernie-would-have-9943350.png"
   },
   {
     "NumAnswers": 1,
@@ -269,7 +302,8 @@
     "O": "White people like _.",
     "L1": "A los blancos les gusta _.",
     "L2": "Weiße Leute wie _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://cdn.quotesgram.com/small/30/47/1727186311-damn-meme-generator-white-people-be-like-jalapeno-dd8018.jpg"
   },
   {
     "NumAnswers": 1,
@@ -277,7 +311,8 @@
     "O": "_.  High five, bro.",
     "L1": "_. alta cinco, hermano.",
     "L2": "_. fünf, bro.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://pl.memgenerator.pl/mem-image/high-five-bro-pl-ffffff"
   },
   {
     "NumAnswers": 1,
@@ -285,7 +320,8 @@
     "O": "Next from J.K. Rowling: Harry Potter and the Chamber of _.",
     "L1": "Al lado de j.k. Rowling: harry potter y la cámara de _.",
     "L2": "Weiter von j.k. rowling: Harry Potter und die Kammer von _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://onestopfiction.com/-res/fls/j.k.rowling-harry-potter-and-the-chamber-of-secrets.jpg"
   },
   {
     "NumAnswers": 1,
@@ -293,7 +329,8 @@
     "O": "BILLY MAYS HERE FOR _.",
     "L1": "Billy Mays aquí por _.",
     "L2": "Billy Mays hier für _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://cdn.ebaumsworld.com/mediaFiles/picture/524700/80679537.png"
   },
   {
     "NumAnswers": 2,
@@ -301,7 +338,8 @@
     "O": "In a world ravaged by _, our only solace is _.",
     "L1": "En un mundo devastado por _, nuestro único consuelo es _.",
     "L2": "In einer Welt, die von _ verwüstet ist, ist unser einziger Trost _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://therealsasha.files.wordpress.com/2013/01/cards-against-humanity-black-2-pick-card.jpg?w=600"
   },
   {
     "NumAnswers": 1,
@@ -309,7 +347,8 @@
     "O": "War!  What is it good for?",
     "L1": "¡guerra! ¿Para que sirve?",
     "L2": "Krieg! wozu ist es gut?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://www.kameronhurley.com/wp-content/uploads/2014/11/war-what-is-it-good-for-absolutely-nothing-1.png"
   },
   {
     "NumAnswers": 1,
@@ -317,7 +356,8 @@
     "O": "During sex, I like to think about _.",
     "L1": "Durante el sexo, me gusta pensar en _.",
     "L2": "Beim Sex denke ich gerne an _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://i.ytimg.com/vi/M1KliUhUWcw/hqdefault.jpg"
   },
   {
     "NumAnswers": 1,
@@ -325,7 +365,8 @@
     "O": "What are my parents hiding from me?",
     "L1": "¿Qué me esconden mis padres?",
     "L2": "Was verbergen meine Eltern vor mir?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://lh5.googleusercontent.com/-qJS-pDaDJbU/UOtVJAoJTyI/AAAAAAAAA9k/NJ3U858zfB8/w1200-h630-p-k-nu/blogger-image-908909176.jpg"
   },
   {
     "NumAnswers": 1,
@@ -333,7 +374,8 @@
     "O": "What will always get you laid?",
     "L1": "¿Qué te va a echar siempre?",
     "L2": "Was wird dich immer fertig machen?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.me.me/what-will-always-get-you-laid-overpowering-your-father-cards-2750912.png"
   },
   {
     "NumAnswers": 1,
@@ -341,7 +383,8 @@
     "O": "In L.A. County Jail, word is you can trade 200 cigarettes for _.",
     "L1": "En los angeles. condado de la cárcel, la palabra es que puede intercambiar 200 cigarrillos por _.",
     "L2": "In l.a. Grafschaftgefängnis, Wort ist, dass Sie 200 Zigaretten für _ handeln können.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/in-l-a-county-jail-word-is-you-can-trade-200-2586029.png"
   },
   {
     "NumAnswers": 1,
@@ -349,7 +392,8 @@
     "O": "What did I bring back from Mexico?",
     "L1": "Que traigo de mexico",
     "L2": "Was habe ich aus mexiko mitgebracht?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/what-did-i-bring-back-from-mexico-texas-happy-4th-25264430.png"
   },
   {
     "NumAnswers": 1,
@@ -357,7 +401,8 @@
     "O": "What don't you want to find in your Chinese food?",
     "L1": "¿Qué no quieres encontrar en tu comida china?",
     "L2": "Was möchtest du nicht in deinem chinesischen Essen finden?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/what-dont-you-want-to-find-in-your-kung-pao-2571860.png"
   },
   {
     "NumAnswers": 1,
@@ -365,7 +410,8 @@
     "O": "What will I bring back in time to convince people that I am a powerful wizard?",
     "L1": "¿Qué devolveré a tiempo para convencer a la gente de que soy un mago poderoso?",
     "L2": "Was werde ich in der Zeit zurückbringen, um die Leute davon zu überzeugen, dass ich ein mächtiger Zauberer bin?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/what-will-i-bring-back-in-time-to-convince-people-30244942.png"
   },
   {
     "NumAnswers": 1,
@@ -373,7 +419,8 @@
     "O": "How am I maintaining my relationship status?",
     "L1": "¿Cómo estoy manteniendo mi estado de relación?",
     "L2": "Wie behalte ich meinen Beziehungsstatus?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.me.me/how-am-i-maintaining-my-relationship-status-copping-a-feel-22544791.png"
   },
   {
     "NumAnswers": 1,
@@ -381,7 +428,8 @@
     "O": "_.  It's a trap!",
     "L1": "_. ¡es una trampa!",
     "L2": "_. Es ist eine Falle!",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://www.dohiy.com/wp-content/uploads/2014/06/itsatrap.jpg"
   },
   {
     "NumAnswers": 1,
@@ -389,7 +437,8 @@
     "O": "Coming to Broadway this season, _: The Musical.",
     "L1": "Llegando a Broadway esta temporada, _: el musical.",
     "L2": "In dieser Saison nach Broadway kommen, _: das Musical.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/Facebook-Sent-by-Bec-King-a35743.png"
   },
   {
     "NumAnswers": 1,
@@ -397,7 +446,8 @@
     "O": "While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on _.",
     "L1": "Mientras que los estados unidos llevaron la unión soviética a la luna, el gobierno mexicano canalizó millones de pesos en investigación sobre _.",
     "L2": "Während die vereinigten staaten die sowjetunion mit dem mond ritten, schleuderte die mexikanische regierung millionen von pesos in forschung über _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.me.me/jobs-while-the-united-states-raced-the-soviet-union-to-27982413.png"
   },
   {
     "NumAnswers": 1,
@@ -405,7 +455,8 @@
     "O": "After the earthquake, Sean Penn brought _ to the people of Haiti.",
     "L1": "Después del terremoto, Sean Penn trajo a la gente de Haití.",
     "L2": "Nach dem erdbeben brachte sean penn _ zu den menschen von haiti.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://choosingfigs.com/wp-content/uploads/2015/01/cards-against-humanity.jpg"
   },
   {
     "NumAnswers": 1,
@@ -413,7 +464,8 @@
     "O": "Next on ESPN2, the World Series of _.",
     "L1": "A continuación en espn2, la serie mundial de _.",
     "L2": "Als nächstes auf espn2, die World Series of _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://cdn2.sportngin.com/attachments/photo/5276/1665/scenes-from-the-first-day-of-the-2015-little-league-world-series-in-williamsport-99ca3c36ca51f8c0_large.jpg"
   },
   {
     "NumAnswers": 2,
@@ -421,7 +473,8 @@
     "O": "Step 1: _.  Step 2: _.  Step 3: Profit.",
     "L1": "Paso 1: _. paso 2: _. Paso 3: Beneficio.",
     "L2": "Schritt 1: _. Schritt 2: _. Schritt 3: Profit.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://sd.keepcalm-o-matic.co.uk/i/step-one-collect-underpants-step-two-step-three-profit.png"
   },
   {
     "NumAnswers": 2,
@@ -429,7 +482,8 @@
     "O": "Rumor has it that Vladimir Putin's favorite dish is _ stuffed with _.",
     "L1": "Se rumorea que el plato favorito de vladimir putin está _ relleno de _.",
     "L2": "Gerüchten zufolge ist das Lieblingsgericht von Vladimir Putin _ mit _ gefüllt.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.me.me/arnold-schwarzenegger-rumor-has-it-that-vladimir-putins-favorite-delicacy-29256592.png"
   },
   {
     "NumAnswers": 1,
@@ -437,7 +491,8 @@
     "O": "But before I kill you, Mr. Bond, I must show you _.",
     "L1": "Pero antes de que te mate, mr. bond, debo mostrarte _.",
     "L2": "Aber bevor ich dich töte, Herr. Bindung, ich muss dir zeigen _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/but-before-i-kill-you-mr-bond-i-must-show-17642699.png"
   },
   {
     "NumAnswers": 1,
@@ -445,7 +500,8 @@
     "O": "What gives me uncontrollable gas?",
     "L1": "¿Qué me da el gas incontrolable?",
     "L2": "Was gibt mir unkontrollierbares Gas?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://1.bp.blogspot.com/-ZVYThMOvjAk/Uqy0CVxyM_I/AAAAAAAAbko/5Sjy0az51EA/w1200-h630-p-k-nu/holocaust+jokes+give+me+uncontrollable+gas+dr+heckle+funny+wtf+pictures.jpg"
   },
   {
     "NumAnswers": 1,
@@ -453,7 +509,8 @@
     "O": "What do old people smell like?",
     "L1": "¿A qué huele la gente vieja?",
     "L2": "Wie riechen alte Menschen?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://www.kappit.com/img/pics/96230111abdcf.jpg"
   },
   {
     "NumAnswers": 1,
@@ -461,7 +518,8 @@
     "O": "The class field trip was completely ruined by _.",
     "L1": "El viaje de clase fue completamente arruinado por _.",
     "L2": "Die Klassenfahrt wurde komplett durch _ zerstört.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://68.media.tumblr.com/a61dacf17d005163ba9198398ba04964/tumblr_nkvc24bCQJ1scg81go1_1280.png"
   },
   {
     "NumAnswers": 1,
@@ -469,7 +527,8 @@
     "O": "When Pharaoh remained unmoved, Moses called down a Plague of _.",
     "L1": "Cuando el faraón no se conmovió, Moses llamó a una plaga de _.",
     "L2": "Als der Pharao unbewegt blieb, rief Moses eine Plage von.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://graceforlife.com/wp-content/uploads/2005/02/joseph_reunited_with_his_brothers.jpg"
   },
   {
     "NumAnswers": 1,
@@ -477,7 +536,8 @@
     "O": "What's my secret power?",
     "L1": "Cual es mi poder secreto",
     "L2": "Was ist meine geheime Macht?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/whats-my-secret-power-farting-and-walking-away-pure-evil-19720497.png"
   },
   {
     "NumAnswers": 1,
@@ -485,7 +545,8 @@
     "O": "What's there a ton of in heaven?",
     "L1": "¿Qué hay una tonelada en el cielo?",
     "L2": "Was gibt es eine Menge im Himmel?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://quotefancy.com/media/wallpaper/3840x2160/1720729-William-Shakespeare-Quote-There-are-more-things-in-Heaven-and.jpg"
   },
   {
     "NumAnswers": 1,
@@ -493,7 +554,8 @@
     "O": "What would grandma find disturbing, yet oddly charming?",
     "L1": "¿Qué le parecería perturbadora a la abuela, aunque extrañamente encantadora?",
     "L2": "Was würde Oma störend finden, aber seltsam charmant?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/Facebook-04bef6.png"
   },
   {
     "NumAnswers": 2,
@@ -501,7 +563,8 @@
     "O": "I never truly understood _ until I encountered _.",
     "L1": "Nunca entendí realmente _ hasta que me encontré con _.",
     "L2": "Ich habe nie wirklich verstanden _ bis ich _ begegnete.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/i-never-truly-understood-until-i-encountered-pick-2-cards-22373391.png"
   },
   {
     "NumAnswers": 1,
@@ -509,7 +572,8 @@
     "O": "What did the U.S. airdrop to the children of Afghanistan?",
     "L1": "Que hicieron los u.s. ¿Airdrop a los niños de afganistán?",
     "L2": "Was hat die u.s. Abwurf zu den Kindern von Afghanistan?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/what-did-the-u-s-airdrop-to-the-children-of-afghanistan-28644942.png"
   },
   {
     "NumAnswers": 1,
@@ -517,7 +581,8 @@
     "O": "What helps Obama unwind?",
     "L1": "¿Qué ayuda a obama a relajarse?",
     "L2": "Was hilft Obama beim Entspannen?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/what-helps-obama-unwind-michelle-obamas-arms-cards-against-humanity-2663064.png"
   },
   {
     "NumAnswers": 1,
@@ -525,7 +590,8 @@
     "O": "What did Vin Diesel eat for dinner?",
     "L1": "¿Qué comió vin diesel diesel para la cena?",
     "L2": "Was hat Vin Diesel zum Abendessen gegessen?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/what-did-vin-diesel-eat-for-dinner-queen-elizabeths-immaculate-29951711.png"
   },
   {
     "NumAnswers": 1,
@@ -533,7 +599,8 @@
     "O": "_: good to the last drop.",
     "L1": "_: bueno hasta la ultima gota.",
     "L2": "_: gut bis zum letzten Tropfen.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://www.quertime.com/wp-content/uploads/2011/08/maxwell_house_good_to_the_last_drop.jpg"
   },
   {
     "NumAnswers": 1,
@@ -541,7 +608,8 @@
     "O": "Why am I sticky?",
     "L1": "Porque estoy pegajoso",
     "L2": "Warum bin ich klebrig?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/why-am-i-sticky-jizz-jizz-4-cards-against-9865546.png"
   },
   {
     "NumAnswers": 1,
@@ -549,7 +617,8 @@
     "O": "What gets better with age?",
     "L1": "¿Qué mejora con la edad?",
     "L2": "Was wird mit dem Alter besser?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://quotes526.files.wordpress.com/2016/09/age-gets-better-with-wine.jpg"
   },
   {
     "NumAnswers": 1,
@@ -557,7 +626,8 @@
     "O": "_: kid-tested, mother-approved.",
     "L1": "_: probado para niños, aprobado por la madre.",
     "L2": "_: vom Kind getestet, von der Mutter genehmigt.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://www.teamten.com/lawrence/writings/kix.jpg"
   },
   {
     "NumAnswers": 1,
@@ -565,7 +635,8 @@
     "O": "What's the crustiest?",
     "L1": "Que es lo mas crust?",
     "L2": "Was ist das Krustigste?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2016/whatisthetem.png"
   },
   {
     "NumAnswers": 1,
@@ -573,7 +644,8 @@
     "O": "What's Teach for America using to inspire inner city students to succeed?",
     "L1": "¿Qué es el uso de Teach for America para inspirar a los estudiantes del interior de la ciudad a tener éxito?",
     "L2": "Was lehrt Amerika, um die Studenten der Innenstadt zum Erfolg zu inspirieren?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/whats-teach-for-america-using-to-inspire-inner-city-students-22298052.png"
   },
   {
     "NumAnswers": 1,
@@ -581,7 +653,8 @@
     "O": "Studies show that lab rats navigate mazes 50% faster after being exposed to _.",
     "L1": "Los estudios muestran que las ratas de laboratorio navegan por laberintos 50% más rápido después de haber estado expuestas a _.",
     "L2": "Studien zeigen, dass Laborratten Labore 50% schneller navigieren, nachdem sie _ ausgesetzt waren.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": ""
   },
   {
     "NumAnswers": 1,
@@ -589,7 +662,8 @@
     "O": "Life for American Indians was forever changed when the White Man introduced them to _.",
     "L1": "La vida de los indios americanos cambió para siempre cuando el hombre blanco les presentó a _.",
     "L2": "Leben für Indianer wurde für immer geändert, als der weiße Mann sie in _ einführte.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/life-for-american-indians-was-forever-changed-when-the-white-2745686.png"
   },
   {
     "NumAnswers": 3,
@@ -597,7 +671,8 @@
     "O": "Make a haiku.",
     "L1": "Hacer un haiku.",
     "L2": "Mach ein Haiku.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://positivityblogger.files.wordpress.com/2016/07/wp-1469186661592.jpg"
   },
   {
     "NumAnswers": 1,
@@ -605,7 +680,8 @@
     "O": "I do not know with what weapons World War III will be fought, but World War IV will be fought with _.",
     "L1": "No sé con qué armas se peleará la guerra mundial, pero la guerra mundial se peleará con _.",
     "L2": "Ich weiß nicht, mit welchen Waffen der Weltkrieg III gekämpft wird, aber der Weltkrieg IV wird bekämpft werden.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://www.askideas.com/media/83/I-know-not-with-what-weapons-World-War-III-will-be-fought-but-World-War-IV-will-be-fought-with-sticks-and-stones-Albert-Einstein.jpg"
   },
   {
     "NumAnswers": 1,
@@ -613,7 +689,8 @@
     "O": "Why do I hurt all over?",
     "L1": "¿Por qué me duele todo?",
     "L2": "Warum verletze ich alles?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://www.shaidsshop.com/assets/images/139_1.jpg"
   },
   {
     "NumAnswers": 1,
@@ -621,7 +698,8 @@
     "O": "What am I giving up for Lent?",
     "L1": "¿A qué estoy renunciando por prestado?",
     "L2": "Was gebe ich für eine Leihgabe auf?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://philressler.com/wp-content/uploads/2015/02/40-Things-for-Lent-List.jpg"
   },
   {
     "NumAnswers": 1,
@@ -629,7 +707,8 @@
     "O": "In Michael Jackson's final moments, he thought about _.",
     "L1": "En los últimos momentos de Michael Jackson, pensó en _.",
     "L2": "In Michael Jacksons letzten Augenblicken dachte er an _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/Facebook-8548ac.png"
   },
   {
     "NumAnswers": 1,
@@ -637,7 +716,8 @@
     "O": "In an attempt to reach a wider audience, the Smithsonian Museum of Natural History has opened an interactive exhibit on _.",
     "L1": "En un intento por llegar a un público más amplio, el museo herrería de historia natural ha abierto una exposición interactiva en _.",
     "L2": "Um ein breiteres Publikum zu erreichen, hat das Smithsonian Museum of Natural History eine interaktive Ausstellung über _ eröffnet.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://static.giantbomb.com/uploads/original/2/22306/2320704-ralay.jpg"
   },
   {
     "NumAnswers": 1,
@@ -645,7 +725,8 @@
     "O": "When I am President of the United States, I will create the Department of _.",
     "L1": "Cuando sea presidente de los Estados Unidos, crearé el departamento de _.",
     "L2": "Wenn ich Präsident der Vereinigten Staaten bin, werde ich die Abteilung von _ schaffen.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/Facebook-ecf65d.png"
   },
   {
     "NumAnswers": 2,
@@ -653,7 +734,8 @@
     "O": "Lifetime presents _, the story of _.",
     "L1": "Presenta la vida _, la historia de _.",
     "L2": "Lebenszeit präsentiert _, ​​die Geschichte von _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/lifetime-presents-the-story-of-the-white-half-of-barack-10327292.png"
   },
   {
     "NumAnswers": 1,
@@ -661,7 +743,8 @@
     "O": "When I am a billionaire, I shall erect a 50-foot statue to commemorate _.",
     "L1": "Cuando sea multimillonario, erigiré una estatua de 50 pies para conmemorar a _.",
     "L2": "Wenn ich ein Milliardär bin, werde ich eine 50-Fuß-Statue errichten, um _ zu gedenken.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://68.media.tumblr.com/bde61144bb338ae97e19e82ab87f0a51/tumblr_nm1wdcJpme1uqhdgto1_1280.jpg"
   },
   {
     "NumAnswers": 2,
@@ -669,7 +752,8 @@
     "O": "When I was tripping on acid, _ turned into _.",
     "L1": "Cuando me estaba tropezando con ácido, _ se convirtió en _.",
     "L2": "Wenn ich auf Säure stolperte, _ verwandelte sich in _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://cdn-webimages.wimages.net/0511d38e1d79a9621289ce4636c3aa9ec72798.jpg?v=3"
   },
   {
     "NumAnswers": 2,
@@ -677,7 +761,8 @@
     "O": "That's right, I killed _.  How, you ask?  _.",
     "L1": "Así es, yo maté a _. como te preguntas _.",
     "L2": "Das ist richtig, ich habe getötet. wie, fragst du? _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/thats-right-i-killed-how-you-ask-amputees-explosions-cards-30376633.png"
   },
   {
     "NumAnswers": 1,
@@ -685,7 +770,8 @@
     "O": "What's my anti-drug?",
     "L1": "¿Cuál es mi antidroga?",
     "L2": "Was ist meine Anti-Droge?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://s-media-cache-ak0.pinimg.com/originals/60/d7/34/60d734952431ee0786efaf7d46b2cdea.jpg"
   },
   {
     "NumAnswers": 3,
@@ -693,7 +779,8 @@
     "O": "_ + _ = _.",
     "L1": "_ + _ = _.",
     "L2": "_ + _ = _.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": ""
   },
   {
     "NumAnswers": 1,
@@ -701,7 +788,8 @@
     "O": "What never fails to liven up the party?",
     "L1": "¿Qué es lo que nunca deja de amenizar la fiesta?",
     "L2": "Was versäumt es nie, die Party zu beleben?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://pics.onsizzle.com/what-never-fails-to-liven-up-the-party-some-god-10155115.png"
   },
   {
     "NumAnswers": 1,
@@ -709,7 +797,8 @@
     "O": "What's the new fad diet?",
     "L1": "¿Cuál es la nueva dieta de moda?",
     "L2": "Was ist die neue Modediät?",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "http://68.media.tumblr.com/4b6d2507fc9b2d0e7c4058761e45cb71/tumblr_mrhe2gvy1e1scg81go1_1280.png"
   },
   {
     "NumAnswers": 1,
@@ -717,7 +806,8 @@
     "O": "Major League Baseball has banned _ for giving players an unfair advantage.",
     "L1": "El béisbol de las grandes ligas ha prohibido _ por dar a los jugadores una ventaja injusta.",
     "L2": "Major League Baseball hat _ für Spieler einen unfairen Vorteil verboten.",
-    "Exp": "Base"
+    "Exp": "Base",
+    "Pic": "https://i1.wp.com/alexandania.files.wordpress.com/2014/08/3b720-cah7.png?resize=640%2C103"
   },
   {
     "NumAnswers": 1,
@@ -725,7 +815,8 @@
     "O": "My plan for world domination begins with _.",
     "L1": "Mi plan para dominar el mundo comienza con _.",
     "L2": "Mein Plan für die Weltherrschaft beginnt mit _.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "http://fc00.deviantart.net/fs41/f/2009/025/3/8/My_plan_for_world_domination_by_ice_biker.jpg"
   },
   {
     "NumAnswers": 1,
@@ -733,7 +824,8 @@
     "O": "The CIA now interrogates enemy agents by repeatedly subjecting them to _.",
     "L1": "La cia ahora interroga a los agentes enemigos sometiéndolos repetidamente a _.",
     "L2": "Die cia befragt nun feindliche Agenten, indem sie sie wiederholt _ unterwirft.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "http://i1.tribune.com.pk/wp-content/uploads/2010/11/stop-corruption-logo21-640x480.jpg"
   },
   {
     "NumAnswers": 2,
@@ -741,7 +833,8 @@
     "O": "Dear Sir or Madam, We regret to inform you that the Office of _ has denied your request for _",
     "L1": "Estimado señor o señora, lamentamos informarle que la oficina de _ ha rechazado su solicitud de _",
     "L2": "Sehr geehrte Damen und Herren, wir bedauern, Ihnen mitteilen zu müssen, dass das Büro _ Ihre Anfrage abgelehnt hat.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "https://pics.onsizzle.com/dear-sir-or-madam-we-regret-to-inform-you-that-2700472.png"
   },
   {
     "NumAnswers": 1,
@@ -749,7 +842,8 @@
     "O": "In Rome, there are whisperings that the Vatican has a secret room devoted to _.",
     "L1": "En Roma, hay murmullos de que el Vaticano tiene una habitación secreta dedicada a _.",
     "L2": "In Rom gibt es Einflüsterungen, dass der Vatikan einen geheimen Raum gewidmet _ hat.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "https://pics.onsizzle.com/7-soldiers-of-the-wehrmacht-in-rome-salute-the-swiss-3477874.png"
   },
   {
     "NumAnswers": 1,
@@ -757,7 +851,8 @@
     "O": "Science will never explain _.",
     "L1": "La ciencia nunca explicará _.",
     "L2": "Die Wissenschaft wird niemals erklären.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "https://pics.onsizzle.com/Facebook-abdeaf.png"
   },
   {
     "NumAnswers": 1,
@@ -765,7 +860,8 @@
     "O": "When all else fails, I can always masturbate to _.",
     "L1": "Cuando todo lo demás falla, siempre puedo masturbarme con _.",
     "L2": "Wenn alles andere fehlschlägt, kann ich immer zu _ masturbieren.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "https://pics.onsizzle.com/the-trail-of-tears-cards-against-humanity-vietnam-flashbacks-3-2699380.png"
   },
   {
     "NumAnswers": 1,
@@ -773,7 +869,8 @@
     "O": "I learned the hard way that you can't cheer up a grieving friend with _.",
     "L1": "Aprendí de la manera difícil que no puedes animar a un amigo en duelo con _.",
     "L2": "Ich habe auf die harte Art gelernt, dass man einen trauernden Freund mit _ nicht aufheitern kann.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "https://pics.onsizzle.com/throwing-stones-at-a-man-until-he-dies-i-learned-10452421.png"
   },
   {
     "NumAnswers": 1,
@@ -781,7 +878,8 @@
     "O": "In its new tourism campaign, Detroit proudly proclaims that it has finally eliminated _.",
     "L1": "En su nueva campaña de turismo, Detroit proclama con orgullo que finalmente ha eliminado _.",
     "L2": "In seiner neuen tourismuskampagne proklamiert detroit stolz, dass es endlich beseitigt ist.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "https://pics.onsizzle.com/in-its-new-tourism-campaign-detroit-proudly-proclaims-that-it-29876570.png"
   },
   {
     "NumAnswers": 2,
@@ -789,7 +887,8 @@
     "O": "An international tribunal has found _ guilty of _.",
     "L1": "Un tribunal internacional ha declarado a _ culpable de _.",
     "L2": "Ein internationales Gericht hat _ für schuldig befunden.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "https://pics.onsizzle.com/an-international-tribunal-has-found-guilty-of-pick-pyx-confirm-9660499.png"
   },
   {
     "NumAnswers": 1,
@@ -797,7 +896,8 @@
     "O": "The socialist governments of Scandinavia have declared that access to _ is a basic human right.",
     "L1": "Los gobiernos socialistas de Escandinavia han declarado que el acceso a _ es un derecho humano básico.",
     "L2": "Die sozialistischen Regierungen von Skandinavien haben erklärt, dass der Zugang zu einem grundlegenden Menschenrecht ist.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "https://pics.me.me/the-socialist-governments-of-scandinavia-have-declared-that-access-to-8267169.png"
   },
   {
     "NumAnswers": 1,
@@ -805,7 +905,8 @@
     "O": "In his new self-produced album, Kanye West raps over the sounds of _.",
     "L1": "En su nuevo álbum de producción propia, Kanye West raps sobre los sonidos de _.",
     "L2": "In seinem neuen selbstproduzierten album rappt kanye west über die geräusche von _.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "https://pics.onsizzle.com/in-his-new-self-produced-album-kanye-west-raps-over-the-19768541.png"
   },
   {
     "NumAnswers": 1,
@@ -813,7 +914,8 @@
     "O": "What's the gift that keeps on giving?",
     "L1": "¿Cuál es el regalo que sigue dando?",
     "L2": "Was ist das Geschenk, das weitergibt?",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "http://img.picturequotes.com/2/165/164742/what-winning-is-to-me-is-not-giving-up-is-no-matter-whats-thrown-at-me-i-can-take-it-and-i-can-keep-quote-1.jpg"
   },
   {
     "NumAnswers": 1,
@@ -821,7 +923,8 @@
     "O": "Next season on Man vs. Wild, Bear Grylls must survive in the depths of the Amazon with only _ and his wits.",
     "L1": "La próxima temporada en hombre contra salvaje, oso grylls debe sobrevivir en las profundidades de la amazona con solo _ y su ingenio.",
     "L2": "Nächste Saison auf Mann gegen wild, müssen Bär Grylls in den Tiefen der Amazonas nur mit _ und seinem Verstand überleben.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "https://pics.me.me/he-calls-it-man-vs-wild-in-montana-we-call-783989.png"
   },
   {
     "NumAnswers": 1,
@@ -829,7 +932,8 @@
     "O": "When I pooped, what came out of my butt?",
     "L1": "Cuando me cagué, ¿qué salió de mi trasero?",
     "L2": "Als ich kackte, was kam aus meinem Hintern?",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "http://memecreator.org/static/images/memes/3652375.jpg"
   },
   {
     "NumAnswers": 1,
@@ -837,7 +941,8 @@
     "O": "In the distant future, historians will agree that _ marked the beginning of America's decline.",
     "L1": "En el futuro lejano, los historiadores estarán de acuerdo en que marcó el comienzo del declive de América.",
     "L2": "In der fernen Zukunft werden Historiker zustimmen, dass dies der Beginn des Niedergangs Amerikas war.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "https://pics.onsizzle.com/in-the-distant-future-historians-will-agree-that-marked-the-3398324.png"
   },
   {
     "NumAnswers": 2,
@@ -845,7 +950,8 @@
     "O": "In a pinch, _ can be a suitable substitute for _.",
     "L1": "En caso de necesidad, _ puede ser un sustituto adecuado para _.",
     "L2": "Zur Not kann _ ein geeigneter Ersatz für _ sein.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "https://pics.onsizzle.com/in-a-pinch-can-be-a-suitable-substitute-for-beep-13125572.png"
   },
   {
     "NumAnswers": 1,
@@ -853,7 +959,8 @@
     "O": "What has been making life difficult at the nudist colony?",
     "L1": "¿Qué ha estado haciendo la vida más difícil en la colonia nudista?",
     "L2": "Was hat das Leben in der FKK-Kolonie erschwert?",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "http://s.m.huffpost.com/assets/H-icon-72fd5782b36a1a42ab82a4af65cbc6dd6ddc4d4a71190a91c5cfaab7c66fd836.svg"
   },
   {
     "NumAnswers": 2,
@@ -861,7 +968,8 @@
     "O": "Michael Bay's new three-hour action epic pits _ against _.",
     "L1": "Los nuevos pozos épicos de acción de michael bay de tres horas _ contra _.",
     "L2": "Michael Bay's neues dreistündiges Action-Epos pittet _ gegen _.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "https://pics.onsizzle.com/michael-bays-new-three-hour-action-epic-pits-against-a-falcon-2698019.png"
   },
   {
     "NumAnswers": 1,
@@ -869,7 +977,8 @@
     "O": "And I would have gotten away with it, too, if it hadn't been for _.",
     "L1": "Y yo también me hubiera salido con la suya si no hubiera sido por _.",
     "L2": "Und ich wäre auch damit durchgekommen, wenn es nicht gewesen wäre.",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "https://pics.onsizzle.com/and-i-wouldve-gotten-away-with-it-too-if-it-13603698.png"
   },
   {
     "NumAnswers": 1,
@@ -877,7 +986,8 @@
     "O": "What brought the orgy to a grinding halt?",
     "L1": "¿Qué detuvo la orgía?",
     "L2": "Was hat die Orgie zum Erliegen gebracht?",
-    "Exp": "CAHe1"
+    "Exp": "CAHe1",
+    "Pic": "https://pics.onsizzle.com/Facebook-d8f62e.png"
   },
   {
     "NumAnswers": 1,
@@ -885,7 +995,8 @@
     "O": "During his midlife crisis, my dad got really into _.",
     "L1": "Durante su crisis de la mediana edad, mi papá se metió realmente en _.",
     "L2": "Während seiner Midlife-Crisis, mein Vater ist wirklich in _.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://media2.mensxp.com/media/content/2017/May/dad-deals-with-midlife-crisis-with-got-inspired-photoshoot-652x400-9-1494226743.jpg"
   },
   {
     "NumAnswers": 2,
@@ -893,7 +1004,8 @@
     "O": "_ would be woefully incomplete without _.",
     "L1": "Sería lamentablemente incompleto sin _.",
     "L2": "_ wäre ohne unvollständig unvollständig.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "http://www.saldanah.com/apple-magazines/images/MacworldLASTissueSM.jpg"
   },
   {
     "NumAnswers": 1,
@@ -901,7 +1013,8 @@
     "O": "My new favorite porn star is Joey _ McGee.",
     "L1": "Mi nueva estrella porno favorita es joey _ mcgee.",
     "L2": "Mein neuer lieblings Pornostar ist joey _ mcgee.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "http://24.media.tumblr.com/cdfb2563f97d6aa5bfa96b424905b6b7/tumblr_n3ugde8ceR1sbwptfo1_250.gif"
   },
   {
     "NumAnswers": 1,
@@ -909,7 +1022,8 @@
     "O": "Before I run for president, I must destroy all evidence of my involvement with _.",
     "L1": "Antes de postularme a la presidencia, debo destruir toda evidencia de mi participación con _.",
     "L2": "Bevor ich für den Präsidenten kandidiere, muss ich alle Beweise meiner Beteiligung mit _ zerstören.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://pics.onsizzle.com/Facebook-Sent-by-Jordan-Nicholson-958f14.png"
   },
   {
     "NumAnswers": 1,
@@ -917,7 +1031,8 @@
     "O": "This is your captain speaking. Fasten your seatbelts and prepare for _.",
     "L1": "Les habla su capitan. abróchate los cinturones de seguridad y prepárate para _.",
     "L2": "Das ist dein Kapitän, der spricht. Schnallen Sie sich an und bereiten Sie sich auf _ vor.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://pics.onsizzle.com/this-is-your-captain-speaking-fasten-your-seatbelts-and-prepare-24786470.png"
   },
   {
     "NumAnswers": 1,
@@ -925,7 +1040,8 @@
     "O": "In his newest and most difficult stunt, David Blaine must escape from _.",
     "L1": "En su truco más nuevo y difícil, David Blaine debe escapar de _.",
     "L2": "In seinem neuesten und schwierigsten Stunt muss David Blaine aus _ entkommen.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/12/18/1355850630844/Cards-Against-Humanity-008.jpg"
   },
   {
     "NumAnswers": 1,
@@ -933,7 +1049,8 @@
     "O": "The Five Stages of Grief: denial, anger, bargaining, _, and acceptance.",
     "L1": "Las cinco etapas del dolor: negación, enojo, negociación, y aceptación.",
     "L2": "Die fünf Stufen der Trauer: Verleugnung, Wut, Verhandeln, und Akzeptanz.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://pics.onsizzle.com/normal-people-the-5-stages-of-grief-denial-bargaining-anger-4786929.png"
   },
   {
     "NumAnswers": 2,
@@ -941,7 +1058,8 @@
     "O": "My mom freaked out when she looked at my browser history and found _.com/_.",
     "L1": "Mi madre se asustó cuando miró el historial de mi navegador y encontró _.com/_.",
     "L2": "Meine Mutter flippte aus, als sie meine Browser-Historie anschaute und _.com/_ fand.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://pics.onsizzle.com/my-mom-freaked-out-when-she-looked-at-my-browser-22738415.png"
   },
   {
     "NumAnswers": 3,
@@ -949,7 +1067,8 @@
     "O": "I went from _ to _, all thanks to _.",
     "L1": "Pasé de _ a _, todo gracias a _.",
     "L2": "Ich ging von _ nach _, alles dank _.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://pics.onsizzle.com/i-went-from-to-all-thanks-to-guilt-survivors-achieving-22457392.png"
   },
   {
     "NumAnswers": 1,
@@ -957,7 +1076,8 @@
     "O": "Members of New York's social elite are paying thousands of dollars just to experience _.",
     "L1": "Los miembros de la élite social de Nueva York están pagando miles de dólares solo por la experiencia _.",
     "L2": "Mitglieder der sozialen Elite New Yorks zahlen Tausende von Dollar, nur um zu erleben _.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://pics.onsizzle.com/members-of-new-yorks-social-elite-are-paying-thousands-of-10303792.png"
   },
   {
     "NumAnswers": 1,
@@ -965,7 +1085,8 @@
     "O": "This month's Cosmo: Spice up your sex life by bringing _ into the bedroom.",
     "L1": "El cosmo de este mes: condimenta tu vida sexual trayendo a _ al dormitorio.",
     "L2": "Cosmo dieses Monats: peppe dein Sexleben auf, indem du _ ins Schlafzimmer bringst.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://s-media-cache-ak0.pinimg.com/564x/95/b6/68/95b668f56b1983cf9eda67c6af8f322e.jpg"
   },
   {
     "NumAnswers": 1,
@@ -973,7 +1094,8 @@
     "O": "Little Miss Muffet Sat on a tuffet, Eating her curds and _.",
     "L1": "La pequeña señorita Muffet se sentó en un tuffet, comiendo sus cuajadas y _.",
     "L2": "Kleine Fräulein Muffet saß auf einem Tuffe und aß ihren Quark und _.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://image.slidesharecdn.com/littlemissmuffet-150219053929-conversion-gate01/95/little-miss-2-638.jpg?cb=1424324412"
   },
   {
     "NumAnswers": 2,
@@ -981,7 +1103,8 @@
     "O": "If God didn't want us to enjoy _, he wouldn't have given us _.",
     "L1": "Si Dios no quisiera que disfrutáramos, él no nos habría dado.",
     "L2": "Wenn Gott nicht wollte, dass wir uns erfreuen, hätte er uns nicht gegeben.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://pics.onsizzle.com/if-god-didnt-want-us-to-enjoy-he-wouldnt-have-2734411.png"
   },
   {
     "NumAnswers": 1,
@@ -989,7 +1112,8 @@
     "O": "My country, 'tis of thee, sweet land of _.",
     "L1": "Mi país, tis de ti, dulce tierra de _.",
     "L2": "Mein Land, 'von dir, süßes Land von _.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://img1.etsystatic.com/004/0/6470540/il_570xN.472642693_8c23.jpg"
   },
   {
     "NumAnswers": 1,
@@ -997,7 +1121,8 @@
     "O": "After months of debate, the Occupy Wall Street General Assembly could only agree on More _!",
     "L1": "Después de meses de debate, la asamblea general de Wall Street ocupó solo podría acordar más _!",
     "L2": "Nach monatelangen Debatten konnte sich die Hauptversammlung der Occupy Wall Street nur mehr einigen!",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "http://4.bp.blogspot.com/_mKgww2ohcsM/TEYFihHBguI/AAAAAAAAALk/VIpahhN3qNM/s1600/article-1261284-08DAC1A9000005DC-934_468x698.jpg"
   },
   {
     "NumAnswers": 2,
@@ -1005,7 +1130,8 @@
     "O": "I spent my whole life working toward _, only to have it ruined by _.",
     "L1": "Pasé toda mi vida trabajando para _, solo para arruinarla _.",
     "L2": "Ich habe mein ganzes Leben auf _ gearbeitet, nur um es durch _ ruiniert zu haben.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://pics.onsizzle.com/Facebook-bdc7a3.png"
   },
   {
     "NumAnswers": 1,
@@ -1013,7 +1139,8 @@
     "O": "Next time on Dr. Phil: How to talk to your child about _.",
     "L1": "La próxima vez en el dr. phil: cómo hablar con su hijo sobre _.",
     "L2": "Das nächste Mal auf dr. phil: wie man mit seinem Kind über _ spricht.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://pics.me.me/Facebook-Sent-by-Regan-Fitzsimon-1dcb74.png"
   },
   {
     "NumAnswers": 1,
@@ -1021,7 +1148,8 @@
     "O": "Only two things in life are certain: death and _.",
     "L1": "Sólo dos cosas en la vida son ciertas: la muerte y _.",
     "L2": "Nur zwei Dinge im Leben sind sicher: Tod und _.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://pics.onsizzle.com/there-are-only-two-things-certain-in-life-death-and-1541830.png"
   },
   {
     "NumAnswers": 1,
@@ -1029,7 +1157,8 @@
     "O": "Everyone down on the ground! We don't want to hurt anyone. We're just here for _.",
     "L1": "¡Todos abajo en el suelo! No queremos lastimar a nadie. solo estamos aquí para _.",
     "L2": "Alle unten auf dem Boden! Wir wollen niemanden verletzen. wir sind nur hier für _.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://pics.onsizzle.com/everyone-down-on-the-ground-we-dont-want-to-hurt-3480556.png"
   },
   {
     "NumAnswers": 1,
@@ -1037,7 +1166,8 @@
     "O": "The healing process began when I joined a support group for victims of _.",
     "L1": "El proceso de curación comenzó cuando me uní a un grupo de apoyo para víctimas de _.",
     "L2": "Der Heilungsprozess begann, als ich einer Unterstützungsgruppe für Opfer von _ beitrat.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://pics.onsizzle.com/Facebook-1f85e4.png"
   },
   {
     "NumAnswers": 1,
@@ -1045,7 +1175,8 @@
     "O": "The votes are in, and the new high school mascot is _.",
     "L1": "Los votos están en, y la nueva mascota de la escuela secundaria es _.",
     "L2": "Die Stimmen sind in, und das neue High-School-Maskottchen ist _.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "http://i95rocks.com/files/2016/02/best-mascot-4.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1053,7 +1184,8 @@
     "O": "Charades was ruined for me forever when my mom had to act out _.",
     "L1": "Las charadas se arruinaron para mí para siempre cuando mi madre tuvo que actuar _.",
     "L2": "Scharaden war für immer ruiniert, als meine Mutter spielen musste.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "http://68.media.tumblr.com/ac45e64f813c29adb9d13803d56baaeb/tumblr_nc7ytaOQZc1scg81go1_1280.png"
   },
   {
     "NumAnswers": 2,
@@ -1061,7 +1193,8 @@
     "O": "Before _, all we had was _.",
     "L1": "Antes _, todo lo que teníamos era _.",
     "L2": "Vor _, alles, was wir hatten, war _.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "http://www.quotehd.com/imagequotes/authors28/tmb/brent-walker-quote-before-the-game-we-had-all-these-complex-designs.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1069,7 +1202,8 @@
     "O": "Tonight on 20/20: What you don't know about _ could kill you.",
     "L1": "Esta noche, el 20/20: lo que no sabes _ podría matarte.",
     "L2": "Heute Abend am 20/20: was du nicht kennst _ könnte dich töten.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "https://i.ytimg.com/vi/gYwrSA5FlQM/maxresdefault.jpg"
   },
   {
     "NumAnswers": 2,
@@ -1077,7 +1211,8 @@
     "O": "You haven't truly lived until you've experienced _ and _ at the same time.",
     "L1": "No has vivido realmente hasta que hayas experimentado _ y _ al mismo tiempo.",
     "L2": "Du hast nicht wirklich gelebt, bis du _ und _ gleichzeitig erlebt hast.",
-    "Exp": "CAHe2"
+    "Exp": "CAHe2",
+    "Pic": "http://wearesecondunion.com/wp-content/uploads/2017/06/FLATLINERS-2-750X429.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1085,7 +1220,8 @@
     "O": "D and D 4.0 isn't real D and D because of the _.",
     "L1": "D y d 4.0 no es real d y d debido a la _.",
     "L2": "D und d 4.0 ist nicht real d und d wegen der _.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "http://adam4d.com/wp-content/uploads/2015/12/fb-og-santa.png"
   },
   {
     "NumAnswers": 1,
@@ -1093,7 +1229,8 @@
     "O": "It's a D and D retroclone with _ added.",
     "L1": "Es un retroclone de d y d con _ agregado.",
     "L2": "Es ist ein d und d retroclone mit _ hinzugefügt.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "https://qph.fs.quoracdn.net/main-qimg-b88470873a3df90eb0015f63f25e8d91-c"
   },
   {
     "NumAnswers": 1,
@@ -1101,7 +1238,8 @@
     "O": "Storygames aren't RPGs because of the _.",
     "L1": "Los juegos de historia no son juegos de rol debido a la _.",
     "L2": "Storygames sind keine RPGs wegen der _.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "https://i.amz.mshcdn.com/jNn_Boz7FToIlYiKBqE3Un6mrHY=/fit-in/850x850/http%3A//mashable.com/wp-content/gallery/mashable_best_rpgs/Doom2RPG.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1109,7 +1247,8 @@
     "O": "The Slayer's Guide to _.",
     "L1": "La guía del asesino a _.",
     "L2": "Der Leitfaden des Mörders zu _.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "https://region4geeks.files.wordpress.com/2014/03/slayers03_1280.jpg"
   },
   {
     "NumAnswers": 2,
@@ -1117,7 +1256,8 @@
     "O": "Worst character concept ever: _, but with _.",
     "L1": "El peor concepto de personaje: _, pero con _.",
     "L2": "Schlechtestes Charakterkonzept aller Zeiten: _, aber mit _.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "http://pre09.deviantart.net/efd7/th/pre/i/2013/035/3/f/kallian_cu_kyllach_character_concept_by_bad_dragon-d5tu75f.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1125,7 +1265,8 @@
     "O": "Alightment: Chaotic _",
     "L1": "Alightment: caótico _",
     "L2": "Alightment: chaotisch _",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "http://4.bp.blogspot.com/-KBjxn56ZIUA/TzOGUEjXU5I/AAAAAAAAA1U/gcrZ-CtwI6Q/s1600/lawful-neutral-chaotic.JPG"
   },
   {
     "NumAnswers": 1,
@@ -1133,7 +1274,8 @@
     "O": "It's a D and D retroclone with _ added.",
     "L1": "Es un retroclone de d y d con _ agregado.",
     "L2": "Es ist ein d und d retroclone mit _ hinzugefügt.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "https://qph.fs.quoracdn.net/main-qimg-b88470873a3df90eb0015f63f25e8d91-c"
   },
   {
     "NumAnswers": 1,
@@ -1141,7 +1283,8 @@
     "O": "What made the paladin fall? _",
     "L1": "¿Qué hizo caer al paladín? _",
     "L2": "Was hat den Paladin fallen lassen? _",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "https://s-media-cache-ak0.pinimg.com/736x/8e/f9/29/8ef929704c0c16cadf3a77cc2bd6c4c4.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1149,7 +1292,8 @@
     "O": "The portal leads to the quasi-elemental plane of _.",
     "L1": "El portal conduce al plano cuasi-elemental de _.",
     "L2": "Das Portal führt zur quasi-elementaren Ebene von _.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "http://cdn.obsidianportal.com/assets/42332/inner-planes-map.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1157,7 +1301,8 @@
     "O": "The Temple of Elemental _.",
     "L1": "El templo de los elementales.",
     "L2": "Der Tempel des elementaren _.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "https://upload.wikimedia.org/wikipedia/en/4/4a/T1-4ToEECover.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1165,7 +1310,8 @@
     "O": "Pathfinder is basically D and D _ Edition.",
     "L1": "Pathfinder es básicamente d y d _ edición.",
     "L2": "Pfadfinder ist grundsätzlich d und d _ edition.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "https://i.ytimg.com/vi/Q1fvslN2X5A/hqdefault.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1173,7 +1319,8 @@
     "O": "_ : The Storytelling Game.",
     "L1": "_: el juego de contar cuentos.",
     "L2": "_: das Storytelling-Spiel.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "http://streetfightermiscellany.com/sfmii/sfmiiimages/storytelling.png"
   },
   {
     "NumAnswers": 1,
@@ -1181,7 +1328,8 @@
     "O": "People are wondering why Steve Jackson published GURPS _.",
     "L1": "La gente se pregunta por qué steve jackson publicó gurps _.",
     "L2": "Leute fragen sich, warum Steve Jackson veröffentlicht Gurps _.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "http://www.sjgames.com/gurps/books/SpaceAtlas/img/cover_lg.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1189,7 +1337,8 @@
     "O": "Linear Fighter, Quadratic _.",
     "L1": "Luchador lineal, cuadrático.",
     "L2": "Linearer Kämpfer, quadratisch _.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "http://www.geekindustrialcomplex.com/articles/linear-fighters-vs-quadratic-wizards/PF%20Wizard%20Fighter%20Class%20Analysis%20Chart.jpg?attredirects=0"
   },
   {
     "NumAnswers": 1,
@@ -1197,7 +1346,8 @@
     "O": "You start with 1d4 _ points.",
     "L1": "Empiezas con 1d4 _ puntos.",
     "L2": "Du beginnst mit 1d4 _ Punkten.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "https://image.slidesharecdn.com/keypointsthatyoumustknowtostartabusinessinabudhabiuae-140201050401-phpapp01/95/key-points-that-you-must-know-to-start-a-business-in-abu-dhabi-uae-1-638.jpg?cb=1391231088"
   },
   {
     "NumAnswers": 1,
@@ -1205,7 +1355,8 @@
     "O": "Back when I was 12 and I was just starting playing D and D, the game had _.",
     "L1": "Cuando tenía 12 años y estaba empezando a jugar d y d, el juego tenía _.",
     "L2": "Zurück, als ich 12 war und ich gerade angefangen habe, d und d zu spielen, hatte das Spiel _.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "http://www.perivision.net/wordpress/wp-content/uploads/2010/02/DDsurface.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1213,7 +1364,8 @@
     "O": "Big Eyes, Small _.",
     "L1": "Ojos grandes, pequeños _.",
     "L2": "Große Augen, kleine _.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "http://cliqueimg.com/cache/posts/img/uploads/current/images/0/140/972/promo.original.640x0c.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1221,7 +1373,8 @@
     "O": "In the grim darkness of the future there is only _.",
     "L1": "En la sombría oscuridad del futuro solo hay _.",
     "L2": "In der grimmigen Dunkelheit der Zukunft gibt es nur _.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "http://img.memecdn.com/in-the-grim-darkness-of-the-far-future-there-is-only-friendship_o_6850667.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1229,7 +1382,8 @@
     "O": "My innovative new RPG has a stat for _.",
     "L1": "Mi nuevo juego de rol innovador tiene una estadística para _.",
     "L2": "Mein innovatives neues RPG hat eine Statistik für _.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "https://vignette1.wikia.nocookie.net/finalfantasy/images/5/53/FFXIV_Point_Distribution.jpg/revision/latest?cb=20110301174004"
   },
   {
     "NumAnswers": 1,
@@ -1237,7 +1391,8 @@
     "O": "A true gamer has no problem with _.",
     "L1": "Un verdadero jugador no tiene ningún problema con _.",
     "L2": "Ein echter Spieler hat kein Problem mit _.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "http://m.likesuccess.com/quotes/6/295703.png"
   },
   {
     "NumAnswers": 2,
@@ -1245,7 +1400,8 @@
     "O": "Elminster cast a potent _ spell and then had sex with _.",
     "L1": "Elminster lanzó un potente hechizo y luego tuvo relaciones sexuales con _.",
     "L2": "Elminster hat einen starken Zauberspruch gesprochen und dann Sex mit ihm gehabt.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "http://www.realvoodoos.com/NewImages/Voodoo-Spells-Cast.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1253,7 +1409,8 @@
     "O": "The Deck of Many _.",
     "L1": "La cubierta de muchos _.",
     "L2": "Das Deck von vielen.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "http://3.bp.blogspot.com/-a_NxyvD_jM4/Trvj2Ni9OVI/AAAAAAAAAqM/vQEGbVF6op4/s640/DOMT.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1261,7 +1418,8 @@
     "O": "You are all at a tavern when _ approach you.",
     "L1": "Todos ustedes están en una taberna cuando _ se acercan a usted.",
     "L2": "Sie sind alle in einer Taverne, wenn Sie sich nähern.",
-    "Exp": "CAHgrognards"
+    "Exp": "CAHgrognards",
+    "Pic": "http://cdn0.lostateminor.com/wp-content/uploads/2017/04/guys-you-are-not-allowed-to-approach-women-at-this-bar-in-canberra3.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1269,7 +1427,8 @@
     "O": "For the convention I cosplayed as Sailor Moon, except with _.",
     "L1": "Para la convención cosplayé como marinero luna, excepto con _.",
     "L2": "Für die Konvention cosplayte ich als Seemann, außer mit _.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "http://img15.deviantart.net/e729/i/2012/065/b/4/sailor_moon_and_tuxedo_mask_cosplay_by_sailormappy-d4rzcc8.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1277,7 +1436,8 @@
     "O": "The worst part of Grave of the Fireflies is all the _.",
     "L1": "La peor parte de la tumba de las luciérnagas es toda la _.",
     "L2": "Der schlimmste Teil des Grabes der Glühwürmchen ist das ganze.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "http://thefilmstage.com/wp-content/uploads/2016/01/Grave-of-the-Fireflies-e1452716531962-620x350.png"
   },
   {
     "NumAnswers": 1,
@@ -1285,7 +1445,8 @@
     "O": "In the Evangelion remake, Shinji has to deal with _.",
     "L1": "En el remake de evangelion, shinji tiene que lidiar con _.",
     "L2": "Im Missions-Remake muss sich Shinji mit _ auseinandersetzen.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "https://fpscinema.files.wordpress.com/2010/12/nme-shinji.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1293,7 +1454,8 @@
     "O": "Worst anime convention purchase ever? _.",
     "L1": "¿La peor compra de convenciones de anime? _.",
     "L2": "Schlimmster Anime Convention Kauf jemals? _.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "http://metrouk2.files.wordpress.com/2014/10/cosplay18.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1301,7 +1463,8 @@
     "O": "While powering up Vegeta screamed, _!",
     "L1": "Mientras encendía vegeta gritó, _!",
     "L2": "Beim Einschalten schrie Vegeta, _!",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "http://thedaoofdragonball.com/wp-content/uploads/2014/08/dragon-ball-z-battle-of-gods-super-saiyan-vegeta-power-up.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1309,7 +1472,8 @@
     "O": "You evaded my _ attack. Most impressive.",
     "L1": "Evadiste mi _ ataque más impresionante.",
     "L2": "Du bist meinem Angriff ausgewichen. am beeindruckendsten.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "http://img.techpowerup.org/160211/f4360c66-most-impressive-darth-vader.jpg"
   },
   {
     "NumAnswers": 2,
@@ -1317,7 +1481,8 @@
     "O": "I downloaded a doujin where _ got into _.",
     "L1": "Descargué un doujin donde _ entré en _.",
     "L2": "Ich habe einen Doujin heruntergeladen, wo _ in _ gekommen ist.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "https://www.wikihow.com/images/thumb/b/b6/Get-Into-Manga-Step-1.jpg/aid67713-v4-728px-Get-Into-Manga-Step-1.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1325,7 +1490,8 @@
     "O": "The magical girl found out that the Power of Love is useless against _.",
     "L1": "La niña mágica descubrió que el poder del amor es inútil contra _.",
     "L2": "Das magische Mädchen hat herausgefunden, dass die Macht der Liebe gegen _ nutzlos ist.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "https://s-media-cache-ak0.pinimg.com/236x/a5/eb/af/a5ebaf429f537aecf5ef5663ec64fdd7.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1333,7 +1499,8 @@
     "O": "The Japanese government has spent billions of yen researching _.",
     "L1": "El gobierno japonés ha gastado miles de millones de yenes investigando.",
     "L2": "Die japanische Regierung hat Milliarden von Yen erforscht _.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "https://cdn.shopify.com/s/files/1/2358/5863/articles/bigstock----Japanese-Yen--The-Curre-183306766_1024x1024.jpg?v=1517486502"
   },
   {
     "NumAnswers": 2,
@@ -1341,7 +1508,8 @@
     "O": "In the dubbed version they changed _ into _.",
     "L1": "En la versión doblada cambiaron a _.",
     "L2": "In der synchronisierten Version haben sie sich in _ verwandelt.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "http://vignette3.wikia.nocookie.net/looneytunes/images/f/fc/Bogus_wb_dubbed_1997_version_credit.png/revision/latest?cb=20160530033808"
   },
   {
     "NumAnswers": 1,
@@ -1349,7 +1517,8 @@
     "O": "_ is Best Pony.",
     "L1": "_ es el mejor pony.",
     "L2": "_ ist das beste Pony.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "http://th09.deviantart.net/fs71/PRE/i/2013/024/2/c/applebloom_is_best_pony_by_prettycupcakes-d5sg09q.png"
   },
   {
     "NumAnswers": 1,
@@ -1357,7 +1526,8 @@
     "O": "The _ of Haruhi Suzumiya.",
     "L1": "El _ de haruhi suzumiya.",
     "L2": "Das _ von haruhi suzumiya.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "http://images1.wikia.nocookie.net/__cb20090611055235/haruhi/images/d/d8/Haruhi.png"
   },
   {
     "NumAnswers": 1,
@@ -1365,7 +1535,8 @@
     "O": "The new thing in Akihabara is fetish cafes where you can see girls dressed up as _.",
     "L1": "Lo nuevo en akihabara son los cafés fetichistas donde puedes ver chicas disfrazadas de _.",
     "L2": "Das neue Ding in Akihabara ist Fetisch Cafes, wo man Mädchen als _ verkleidet sehen kann.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "http://blog.clickgratis.com.br/uploads/a/arnoeder/402253.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1373,7 +1544,8 @@
     "O": "Your drill can pierce _!",
     "L1": "Tu taladro puede perforar _!",
     "L2": "Ihr Bohrer kann durchbohren _!",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "https://img00.deviantart.net/6ca0/i/2014/279/7/f/drill_pierce_the_heavens_____by_limbonix-d81weq6.png"
   },
   {
     "NumAnswers": 1,
@@ -1381,7 +1553,8 @@
     "O": "Avatar: The Last _ bender.",
     "L1": "Avatar: la última _ dobladora.",
     "L2": "Avatar: der letzte _ bender.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "https://naneek94.files.wordpress.com/2014/09/avatar-avatar-the-last-airbender-11082817-2016-2560.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1389,7 +1562,8 @@
     "O": "In the name of _ Sailor Moon will punish you!",
     "L1": "En nombre de _Sailor Moon te castigará!",
     "L2": "Im Namen von Seemann Mond wird dich bestrafen!",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "http://shojopower.com/wp-content/uploads/The_Name_Of_The_Moon_colorfix_5744.png"
   },
   {
     "NumAnswers": 1,
@@ -1397,7 +1571,8 @@
     "O": "No harem anime is complete without _.",
     "L1": "Ningún anime harem esta completo sin _.",
     "L2": "Kein Harem Anime ist komplett ohne _.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "https://i0.wp.com/littleanimeblog.com/wp-content/uploads/2015/12/samurai-harem1.jpg?fit=758%2C480\u0026ssl=1"
   },
   {
     "NumAnswers": 1,
@@ -1405,7 +1580,8 @@
     "O": "My boyfriend's a _ now.",
     "L1": "Mi novio es un _ ahora",
     "L2": "Mein Freund ist jetzt ein.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "http://sd.keepcalm-o-matic.co.uk/i/stay-away-from-my-boyfriend.png"
   },
   {
     "NumAnswers": 2,
@@ -1413,7 +1589,8 @@
     "O": "The _ of _ has left me in despair!",
     "L1": "¡El _ de _ me ha dejado desesperado!",
     "L2": "Das _ _ hat mich in Verzweiflung verlassen!",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "http://tvtropes.org/pmwiki/pub/images/despaireventhorizon.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1421,7 +1598,8 @@
     "O": "_.tumblr.com",
     "L1": "_.tumblr.com",
     "L2": "_.tumblr.com",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "http://static.tumblr.com/5066261ee84c18eb0be1183417c57d13/jw3iw0c/WHynyj02s/tumblr_static_8c3kf1niv9k404g0ggkc88ggk.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1429,7 +1607,8 @@
     "O": "Somehow they made a cute mascot girl out of _.",
     "L1": "De alguna manera hicieron una linda mascota de _.",
     "L2": "Irgendwie haben sie ein nettes Maskottchen-Mädchen aus _ gemacht.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": "http://www.dhresource.com/albu_272847645_00-1.0x0/cute-girl-mascot-pink-skirt-costumes-halloween.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1437,7 +1616,8 @@
     "O": "Haruko hit Naoto in the head with her bass guitar and _ came out.",
     "L1": "Haruko golpeó a Naoto en la cabeza con su bajo y _ salió.",
     "L2": "Haruko traf Naoto mit ihrer Bassgitarre in den Kopf und kam heraus.",
-    "Exp": "CAHweeaboo"
+    "Exp": "CAHweeaboo",
+    "Pic": ""
   },
   {
     "NumAnswers": 1,
@@ -1445,7 +1625,8 @@
     "O": "After blacking out during New year's Eve, I was awoken by _.",
     "L1": "Después de desmayarme durante la víspera de año nuevo, me despertó _.",
     "L2": "Nachdem ich während Silvester ohnmächtig wurde, wurde ich von _ geweckt.",
-    "Exp": "CAHxmas"
+    "Exp": "CAHxmas",
+    "Pic": "http://s.newsweek.com/sites/www.newsweek.com/files/styles/embed-lg/public/2015/01/01/2015-01-01t073337z1858864862gm1eb11174p01rtrmadp3newyear-celebration.JPG"
   },
   {
     "NumAnswers": 1,
@@ -1453,7 +1634,8 @@
     "O": "This holiday season, Tim Allen must overcome his fear of _ to save Christmas.",
     "L1": "En esta temporada de vacaciones, Tim Allen debe superar su miedo a _ para salvar la Navidad.",
     "L2": "In dieser Ferienzeit muss Tim Allen seine Angst vor Weihnachten überwinden.",
-    "Exp": "CAHxmas"
+    "Exp": "CAHxmas",
+    "Pic": "http://www.personalized-playingcards.com/wordpress/wp-content/uploads/2013/02/cards-against-humanity-holiday-pack.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1461,7 +1643,8 @@
     "O": "Jesus is _.",
     "L1": "Jesús es _.",
     "L2": "Jesus ist _.",
-    "Exp": "CAHxmas"
+    "Exp": "CAHxmas",
+    "Pic": "https://fumcwomen.files.wordpress.com/2012/02/jesusis1.png"
   },
   {
     "NumAnswers": 1,
@@ -1469,7 +1652,8 @@
     "O": "Every Christmas, my uncle gets drunk and tells the story about _.",
     "L1": "Cada navidad, mi tío se emborracha y cuenta la historia de _.",
     "L2": "Zu Weihnachten wird mein Onkel betrunken und erzählt die Geschichte von _.",
-    "Exp": "CAHxmas"
+    "Exp": "CAHxmas",
+    "Pic": "http://attractmo.de/wp-content/uploads/2012/12/instagram147.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1477,7 +1661,8 @@
     "O": "What keeps me warm during the cold, cold, winter?",
     "L1": "¿Qué me mantiene caliente durante el frío, el frío, el invierno?",
     "L2": "Was hält mich warm in der kalten, kalten Winter?",
-    "Exp": "CAHxmas"
+    "Exp": "CAHxmas",
+    "Pic": "https://i.ytimg.com/vi/PSFknseKq5A/maxresdefault.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1485,7 +1670,8 @@
     "O": "On the third day of Christmas, my true love gave to me: three French hens, two turtle doves, and _.",
     "L1": "En el tercer día de Navidad, mi verdadero amor me dio: tres gallinas francesas, dos palomas tortuga y _.",
     "L2": "Am dritten Weihnachtstag gab mir meine wahre Liebe: drei französische Hühner, zwei Turteltauben und _.",
-    "Exp": "CAHxmas"
+    "Exp": "CAHxmas",
+    "Pic": "http://image3.slideserve.com/5502496/on-the-third-day-of-christmas-my-true-love-sent-to-me-n.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1493,7 +1679,8 @@
     "O": "Wake up, America. Christmas is under attack by secular liberals and their _.",
     "L1": "Despierta, america Navidad está bajo el ataque de los liberales seculares y sus _.",
     "L2": "Wach auf, Amerika. Weihnachten wird angegriffen von säkularen Liberalen und ihren.",
-    "Exp": "CAHxmas"
+    "Exp": "CAHxmas",
+    "Pic": "https://pics.onsizzle.com/Facebook-594a85.png"
   },
   {
     "NumAnswers": 1,
@@ -1501,7 +1688,8 @@
     "O": "We got the third rope, now where's the fourth?",
     "L1": "Tenemos la tercera cuerda, ahora donde esta la cuarta?",
     "L2": "Wir haben das dritte Seil, wo ist jetzt das vierte?",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "http://4.bp.blogspot.com/_Q4S9fM1j7d8/Sk_dBqigZVI/AAAAAAAAAK4/apKKIm-ZMlg/s320/July+4+weekend+186.jpg"
   },
   {
     "NumAnswers": 2,
@@ -1509,7 +1697,8 @@
     "O": "Tonights main event, _ vs. _.",
     "L1": "Evento principal de esta noche, _ vs. _.",
     "L2": "Tonights main event, _ vs. _.",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "https://notaurious.files.wordpress.com/2010/07/saturday-night-main-event-front1.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1517,7 +1706,8 @@
     "O": "Tackle, Dropdown, _.",
     "L1": "Tackle, desplegable, _.",
     "L2": "Angehen, Dropdown, _.",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "http://lghttp.47954.nexcesscdn.net/801F3A5/plano_v2/media/catalog/product/cache/1/image/1800x/6b9ffbf72458f4fd2d3cb995d92e8889/7/2/723700.png"
   },
   {
     "NumAnswers": 1,
@@ -1525,7 +1715,8 @@
     "O": "Christopher Daniels is late on his _.",
     "L1": "Christopher daniels llega tarde a su _.",
     "L2": "Christopher Daniels ist spät auf seinem _.",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "https://i.pinimg.com/originals/2f/95/d1/2f95d16e823a74cc4c71edee0eaf3963.jpg"
   },
   {
     "NumAnswers": 2,
@@ -1533,7 +1724,8 @@
     "O": "Instead of booking _, they should have booked _.",
     "L1": "En lugar de reservar _, deberían haber reservado _.",
     "L2": "Anstatt zu buchen _, sollten sie _ gebucht haben.",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "https://img1.etsystatic.com/164/1/8071833/il_340x270.1112305407_k5mt.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1541,7 +1733,8 @@
     "O": "Genius is 10% inspiration, 90% _.",
     "L1": "El genio es 10% de inspiración, 90% _.",
     "L2": "Genie ist 10% Inspiration, 90% _.",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "https://s-media-cache-ak0.pinimg.com/736x/90/17/8d/90178d4df7079f9b967f2bc6c46993e8.jpg"
   },
   {
     "NumAnswers": 2,
@@ -1549,7 +1742,8 @@
     "O": "They found _ in the dumpster behind _.",
     "L1": "Encontraron a _ en el contenedor detrás _.",
     "L2": "Sie fanden _ im Müllcontainer hinter _.",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "http://i.dailymail.co.uk/i/pix/2013/08/13/article-2391111-1B44961E000005DC-153_1024x615_large.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1557,7 +1751,8 @@
     "O": "The best thing I ever got for Christmas was _.",
     "L1": "Lo mejor que me dieron para Navidad fue _.",
     "L2": "Das beste, was ich je zu Weihnachten bekam, war _.",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "https://pics.esmemes.com/tyl3r-thktylr-my-housemates-got-me-a-life-size-danny-29729664.png"
   },
   {
     "NumAnswers": 1,
@@ -1565,7 +1760,8 @@
     "O": "There's no crying in _.",
     "L1": "No hay llanto en _.",
     "L2": "Es gibt kein Weinen in _.",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "https://s-media-cache-ak0.pinimg.com/736x/b5/28/d8/b528d88f7a80bd0670f2d91f5d6aba3c.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1573,7 +1769,8 @@
     "O": "Mastodon! Pterodactyl! Triceratops! Sabretooth Tiger! _!",
     "L1": "¡mastodonte! ¡pterodáctilo! triceratops! tigre sabretooth! _!",
     "L2": "Mastodon! Pterodaktylus! Triceratops! Sabretooth Tiger! _!",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "https://i.ytimg.com/vi/0bK8IksDwS4/maxresdefault.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1581,7 +1778,8 @@
     "O": "Don't eat the _.",
     "L1": "No comas el _.",
     "L2": "Iss nicht das _.",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "https://upload.wikimedia.org/wikipedia/en/3/34/Don%27t_Eat_the_Pictures_VHS.jpg"
   },
   {
     "NumAnswers": 2,
@@ -1589,7 +1787,8 @@
     "O": "He did _ with the _!?!",
     "L1": "Lo hizo _ con el _!?!",
     "L2": "Er hat _ mit dem _!?!",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "http://memecrunch.com/meme/2025/oh-yes-he-did/image.png"
   },
   {
     "NumAnswers": 1,
@@ -1597,7 +1796,8 @@
     "O": "SOOOOO hot, want to touch the _.",
     "L1": "Muuuy caliente, quiero tocar el _.",
     "L2": "Soooo heiß, will das _ berühren.",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "https://i.pinimg.com/236x/4b/8a/a1/4b8aa19b16bcfe80ad81e70d83ca68f3--aiden-turner-kili.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1605,7 +1805,8 @@
     "O": "Stop looking at me _!",
     "L1": "Deja de mirarme _!",
     "L2": "Hör auf mich anzuschauen _!",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "http://fc07.deviantart.net/fs71/i/2011/018/9/4/stop_looking_at_me_wallpaper_by_zamaya-d37hjpf.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1613,7 +1814,8 @@
     "O": "I'm cuckoo for _ puffs.",
     "L1": "Soy cuco para _ puffs.",
     "L2": "Ich bin Kuckuck für _ Züge.",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "http://www.alan.com/wp-content/uploads/2009/09/Cuckoo_for_Cocoa_Puffs.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1621,7 +1823,8 @@
     "O": "Silly rabbit, _ are for kids.",
     "L1": "Conejo tonto, _ son para niños.",
     "L2": "Dummer Hase, _ sind für Kinder.",
-    "Exp": "NEIndy"
+    "Exp": "NEIndy",
+    "Pic": "http://godmorningtoyou.com/wp-content/uploads/2013/01/silly-rabbit-tricks-are-for-kids.png"
   },
   {
     "NumAnswers": 1,
@@ -1629,7 +1832,8 @@
     "O": "Between love and madness lies _.",
     "L1": "Entre el amor y la locura radica _.",
     "L2": "Zwischen Liebe und Wahnsinn liegt _.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "https://behapy.s3.amazonaws.com/03/48/330348/preview.png"
   },
   {
     "NumAnswers": 1,
@@ -1637,7 +1841,8 @@
     "O": "Instead of chess, the Grim Reaper now gambles for your soul with a game of _.",
     "L1": "En lugar de ajedrez, el sombrío jugador ahora juega para tu alma con un juego de _.",
     "L2": "Anstelle von Schach, spielt der Sensenmann jetzt mit einem Spiel von _ für Ihre Seele.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": ""
   },
   {
     "NumAnswers": 2,
@@ -1645,7 +1850,8 @@
     "O": "My father gave his life fighting to protect _ from _.",
     "L1": "Mi padre dio su vida luchando para proteger _ de _.",
     "L2": "Mein Vater hat sein Leben gekämpft, um _ vor _ zu schützen.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://img.picturequotes.com/3/1028/1027091/i-hated-chris-my-brother-i-would-pull-his-hair-and-kick-him-until-one-day-my-father-gave-him-quote-1.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1653,7 +1859,8 @@
     "O": "Why is my throat sore?",
     "L1": "¿Por qué me duele la garganta?",
     "L2": "Warum ist mein Hals wund?",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "https://www.cdc.gov/antibiotic-use/community/images/sore-throat-lg.jpg"
   },
   {
     "NumAnswers": 2,
@@ -1661,7 +1868,8 @@
     "O": "_ sparked a city-wide riot that only ended with _.",
     "L1": "_ provocó una revuelta en toda la ciudad que solo terminó con _.",
     "L2": "_ löste einen stadtweiten Aufstand aus, der nur mit _ endete.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://cdn.inquisitr.com/wp-content/uploads/2015/11/Baltimore_Riots.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1669,7 +1877,8 @@
     "O": "I’m very sorry Mrs. Smith, but Little Billy has tested positive for _.",
     "L1": "Lo siento mucho señora Smith, pero el pequeño Billy ha dado positivo para _.",
     "L2": "Es tut mir sehr leid, Frau. Smith, aber Little Billy hat positiv auf _ getestet.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://images-thumbs.thefullwiki.org/S/a/w/Saw_V.png"
   },
   {
     "NumAnswers": 1,
@@ -1677,7 +1886,8 @@
     "O": "Instead of beating them, Chris Brown now does _ to women.",
     "L1": "En lugar de golpearlos, Chris Brown ahora lo hace con las mujeres.",
     "L2": "Anstatt sie zu schlagen, macht Chris Brown jetzt Frauen.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://www.mixfmradio.com/assets/images/news/2013%20p3/Ass-Kicking-Brown(1).jpg"
   },
   {
     "NumAnswers": 1,
@@ -1685,7 +1895,8 @@
     "O": "Instead of cutting, trendy young emo girls now engage in _.",
     "L1": "En lugar de cortar, las jóvenes emo de moda ahora participan en _.",
     "L2": "Anstatt zu schneiden, engagieren sich trendy junge emo Mädchen jetzt _.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://hairzstyle.com/wp-content/uploads/2015/06/2-Short-Emo-Hairstyle-for-Girls-14.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1693,7 +1904,8 @@
     "O": "The definition of rock bottom is gambling away _.",
     "L1": "La definición de fondo de roca es apostar lejos _.",
     "L2": "Die Definition von Rock Bottom ist Glücksspiel _.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "https://image.slidesharecdn.com/l2iceerosion2013ap-140516085023-phpapp02/95/l2-ice-erosion-2013-ap1ppt-7-638.jpg?cb=1400230298"
   },
   {
     "NumAnswers": 1,
@@ -1701,7 +1913,8 @@
     "O": "The Mayan prophecies really heralded the coming of _ in 2012.",
     "L1": "Las profecías mayas realmente anunciaron la venida de _ en 2012.",
     "L2": "Die Maya-Prophezeiungen läuteten das Kommen von 2012 tatsächlich ein.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://www.scene-stealers.com/wp-content/uploads/2012/07/mayan-prophecy.jpg"
   },
   {
     "NumAnswers": 2,
@@ -1709,7 +1922,8 @@
     "O": "The next US election will be fought on the key issues of _ against _.",
     "L1": "La próxima elección de nosotros se peleará en los temas clave de _ contra _.",
     "L2": "Die nächste US-Wahl wird um die Schlüsselfragen von _ gegen _ geführt.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/POLL/oeru1m5cteu4p6nyszr29g.gif"
   },
   {
     "NumAnswers": 1,
@@ -1717,7 +1931,8 @@
     "O": "When I was 10 I wrote to Santa wishing for _.",
     "L1": "Cuando tenía 10 años le escribí a santa deseando _.",
     "L2": "Als ich 10 war, schrieb ich an santa, der sich für _ wünschte.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://www.ten23designs.com/media/catalog/product/cache/1/image/650x/d16881e3849a62bd163cb1769d6e5042/d/e/dear_santa.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1725,7 +1940,8 @@
     "O": "Where or How I met my last signifigant other: _.",
     "L1": "¿Dónde o cómo me encontré con mi último significante otro: _.",
     "L2": "Wo oder wie ich mein letztes wichtiges anderes getroffen habe: _.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://www.hellonatureblog.com/wp-content/uploads/2015/01/Met-My-Significant-Other-Online.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1733,7 +1949,8 @@
     "O": "_, Never leave home without it.",
     "L1": "_, nunca salgas de casa sin ella.",
     "L2": "_, verlasse nie Zuhause ohne es.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://img02.deviantart.net/c8f6/i/2012/301/6/6/never_leave_home_without_it_by_queensarwa-d5ja5t7.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1741,7 +1958,8 @@
     "O": "_. This is my fetish.",
     "L1": "_. este es mi fetiche",
     "L2": "_. das ist mein Fetisch.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "https://images.genius.com/6df707eacf0c0a43217bfc728957ee42.1000x1000x1.jpg"
   },
   {
     "NumAnswers": 2,
@@ -1749,7 +1967,8 @@
     "O": "David Icke's newest conspiracy theory states that _ caused _.",
     "L1": "La teoría de conspiración más reciente de david icke afirma que _ causó _.",
     "L2": "David Ickes neueste Verschwörungstheorie besagt, dass _ verursacht _.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "https://i.ytimg.com/vi/GlAjeTunopo/hqdefault.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1757,7 +1976,8 @@
     "O": "I did _ so you don't have to!",
     "L1": "Lo hice, ¡así que no tienes que hacerlo!",
     "L2": "Ich habe _ also musst du nicht!",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://rlv.zcache.com/i_work_hard_so_you_dont_have_to_car_bumper_sticker-r4c4e46c2216e4cbf83c95a484c1c375f_v9wht_8byvr_512.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1765,7 +1985,8 @@
     "O": "I need your clothes, your bike, and _.",
     "L1": "Necesito tu ropa, tu bicicleta y _.",
     "L2": "Ich brauche deine Kleidung, dein Fahrrad und _.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://images3.wikia.nocookie.net/__cb20130610073811/gtawiki/images/thumb/9/9e/GTA_4_-_Mission_53_-_I_Need_Your_Clothes,_Your_Boots,_and_Your_Motorcycle_(1080p)/640px-GTA_4_-_Mission_53_-_I_Need_Your_Clothes,_Your_Boots,_and_Your_Motorcycle_(1080p).jpg"
   },
   {
     "NumAnswers": 1,
@@ -1773,7 +1994,8 @@
     "O": "In a new Cold War retro movie, the red menace tries to conquer the world through the cunning use of _.",
     "L1": "En una nueva película retro de la guerra fría, la amenaza roja trata de conquistar el mundo a través del uso astuto de _.",
     "L2": "In einem neuen Retro-Film des Kalten Krieges versucht die rote Bedrohung die Welt durch den schlauen Gebrauch von _ zu erobern.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "https://e-watchman.com/wp-content/uploads/2015/07/monkey-tablet.jpg"
   },
   {
     "NumAnswers": 2,
@@ -1781,7 +2003,8 @@
     "O": "In college, our lecturer made us write a report comparing _ to _.",
     "L1": "En la universidad, nuestro profesor nos hizo escribir un informe comparando _ con _.",
     "L2": "In der Schule hat uns unser Dozent einen Bericht geschrieben, der _ mit _ vergleicht.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://termpaperwritingg.com/ionius/gaas.jpg"
   },
   {
     "NumAnswers": 3,
@@ -1789,7 +2012,8 @@
     "O": "In The Hangover part 3, those four guys have to deal with _, _, and _.",
     "L1": "En la parte 3 de la resaca, esos cuatro tipos tienen que lidiar con _, _, y _.",
     "L2": "Im Kater Teil 3 müssen sich diese vier Jungs mit _, _ und _ auseinandersetzen.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://cdn.collider.com/wp-content/uploads/the-hangover-part-iii-zach-galifianakis-image.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1797,7 +2021,8 @@
     "O": "My zombie survival kit includes food, water, and _.",
     "L1": "Mi kit de supervivencia zombie incluye comida, agua y _.",
     "L2": "Mein Zombie Survival Kit enthält Nahrung, Wasser und _.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "https://www.sosproducts.com/v/vspfiles/photos/180Z-2.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1805,7 +2030,8 @@
     "O": "The way to a man's heart is through _.",
     "L1": "El camino al corazón de un hombre es a través de _.",
     "L2": "Der Weg zum Herzen eines Mannes ist durch _.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "https://quotefancy.com/media/wallpaper/1600x900/1179886-Fanny-Fern-Quote-The-way-to-a-man-s-heart-is-through-his-stomach.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1813,15 +2039,17 @@
     "O": "What was the theme of my second wedding?",
     "L1": "¿Cuál fue el tema de mi segunda boda?",
     "L2": "Was war das Thema meiner zweiten Hochzeit?",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://d3v11bbb5obkq8.cloudfront.net/wp-content/uploads/2012/02/Southern-weddings-second-line-inspiration.jpg"
   },
   {
     "NumAnswers": 1,
     "I": 1165,
     "O": "What's the newest Japanese craze to head West?",
-    "L1": "¿cuál es la nueva moda japonesa ir hacia el oeste?",
+    "L1": "¿Cuál es la nueva moda japonesa para ir al oeste?",
     "L2": "Was ist der neueste japanische Schrei nach Westen?",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://www.thailandtotaal.nl/wp-content/uploads/2012/09/thailand_bagelhead_tiener_injectie1.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1829,7 +2057,8 @@
     "O": "Everybody loves _.",
     "L1": "Todo el mundo ama _.",
     "L2": "Jeder liebt _.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "https://aileencooks.com/wp-content/uploads/2016/06/Everybody-Loves-Raymond.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1837,7 +2066,8 @@
     "O": "I can only express myself through _.",
     "L1": "Solo puedo expresarme a través de _.",
     "L2": "Ich kann mich nur durch _ ausdrücken.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://img.picturequotes.com/2/956/955101/i-cant-talk-about-my-style-it-us-kind-of-difficult-for-me-i-dont-like-styles-i-only-like-taking-quote-1.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1845,7 +2075,8 @@
     "O": "My new porn DVD was completely ruined by the inclusion of _",
     "L1": "Mi nuevo DVD porno fue completamente arruinado por la inclusión de _",
     "L2": "Meine neue Pornodvd wurde komplett ruiniert durch _",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://imgs.dvdempire.com/products/35/1085935bh.jpg"
   },
   {
     "NumAnswers": 3,
@@ -1853,7 +2084,8 @@
     "O": "My three wishes will be for _, _, and _.",
     "L1": "Mis tres deseos serán para _, _, y _.",
     "L2": "Meine drei Wünsche werden für _, _ und _ sein.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://2.bp.blogspot.com/-N6rbBT4ksDs/VONo7vbsbuI/AAAAAAAAKp4/TvPgJgikXnE/s1600/Playful%2BTherapist.my%2Bthree%2Bwishes.png"
   },
   {
     "NumAnswers": 1,
@@ -1861,7 +2093,8 @@
     "O": "The latest horrifying school shooting was inspired by _.",
     "L1": "El último tiroteo escolar horrible fue inspirado por _.",
     "L2": "Das neueste schreckliche Schulschießen wurde von _ inspiriert.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://media2.s-nbcnews.com/j/newscms/2017_05/1886171/170131-columbine-school-shooting-1999-1242p_e0384e3e76f8a0db152c122302fbd4a9.nbcnews-ux-2880-1000.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1869,7 +2102,8 @@
     "O": "I got fired because of my not-so-secret obsession over _.",
     "L1": "Me despidieron debido a mi obsesión no tan secreta por _.",
     "L2": "Ich wurde wegen meiner nicht so geheimen Besessenheit über _ gefeuert.",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "http://cdn.wallpapersafari.com/10/17/G7LsQr.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1877,7 +2111,8 @@
     "O": "My new favourite sexual position is _",
     "L1": "Mi nueva posición sexual favorita es _",
     "L2": "Meine neue Lieblingsstellung ist _",
-    "Exp": "NSFH"
+    "Exp": "NSFH",
+    "Pic": "https://media.musely.com/u/1f361d67-1407-423e-96df-8ffa66369f04.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1885,7 +2120,8 @@
     "O": "A successful job interview begins with a firm handshake and ends with _.",
     "L1": "Una entrevista de trabajo exitosa comienza con un firme apretón de manos y termina con _.",
     "L2": "Ein erfolgreiches Vorstellungsgespräch beginnt mit einem festen Händedruck und endet mit _.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://pics.onsizzle.com/cards-against-humanity-a-successful-job-interview-begins-with-a-2733222.png"
   },
   {
     "NumAnswers": 1,
@@ -1893,7 +2129,8 @@
     "O": "Lovin' you is easy 'cause you're _.",
     "L1": "Amarte es fácil porque eres _.",
     "L2": "Ich liebe dich, weil du bist.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "http://ih3.redbubble.net/image.8934424.5422/flat,550x550,075,f.u1.jpg"
   },
   {
     "NumAnswers": 2,
@@ -1901,7 +2138,8 @@
     "O": "My life is ruled by a vicious cycle of _ and _.",
     "L1": "Mi vida está regida por un círculo vicioso de _ y _.",
     "L2": "Mein Leben wird von einem Teufelskreis von _ und _ beherrscht.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://pics.onsizzle.com/my-life-is-ruled-by-a-vicious-cycle-of-and-13697957.png"
   },
   {
     "NumAnswers": 1,
@@ -1909,7 +2147,8 @@
     "O": "The blind date was going horribly until we discovered our shared interest in _.",
     "L1": "La cita a ciegas iba horriblemente hasta que descubrimos nuestro interés compartido en _.",
     "L2": "Das Blinddate verlief fürchterlich, bis wir unser gemeinsames Interesse an _ entdeckten.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "http://68.media.tumblr.com/9065d273f66f078b27894232619627ae/tumblr_nlwec7laa31uqhdgto1_1280.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1917,7 +2156,8 @@
     "O": "_. Awesome in theory, kind of a mess in practice.",
     "L1": "_. Impresionante en teoría, una especie de desorden en la práctica.",
     "L2": "_. genial in der Theorie, eine Art Chaos in der Praxis.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://i.pinimg.com/736x/3f/ef/5d/3fef5d78c5ac6a48999cd739a4349f81--people-quotes-albert-einstein.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1925,7 +2165,8 @@
     "O": "I'm not like the rest of you. I'm too rich and busy for _.",
     "L1": "No soy como el resto de ustedes. Soy demasiado rico y ocupado para _.",
     "L2": "Ich bin nicht wie der Rest von dir. Ich bin zu reich und beschäftigt für _.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://pics.onsizzle.com/im-not-like-the-rest-of-you-im-too-rich-30234798.png"
   },
   {
     "NumAnswers": 1,
@@ -1933,7 +2174,8 @@
     "O": "In the seventh circle of Hell, sinners must endure _ for all eternity.",
     "L1": "En el séptimo círculo del infierno, los pecadores deben soportar _ por toda la eternidad.",
     "L2": "Im siebten Kreis der Hölle müssen Sünder _ für alle Ewigkeit bestehen.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://pics.me.me/the-black-card-for-this-round-is-the-white-cards-22431464.png"
   },
   {
     "NumAnswers": 2,
@@ -1941,7 +2183,8 @@
     "O": "_: Hours of fun. Easy to use. Perfect for _!",
     "L1": "_: horas de diversión. fácil de usar. perfecto para _!",
     "L2": "_: Stunden Spaß. Einfach zu verwenden. perfekt für _!",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://pics.onsizzle.com/hours-of-fun-easy-to-use-perfect-for-pick-the-2658372.png"
   },
   {
     "NumAnswers": 1,
@@ -1949,7 +2192,8 @@
     "O": "What left this stain on my couch?",
     "L1": "¿Qué dejó esta mancha en mi sofá?",
     "L2": "Was hat diesen Fleck auf meiner Couch hinterlassen?",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://s-media-cache-ak0.pinimg.com/originals/9c/a4/0f/9ca40f74e1864e2150f04cf08aed6874.jpg"
   },
   {
     "NumAnswers": 1,
@@ -1957,7 +2201,8 @@
     "O": "Call the law offices of Goldstein and Goldstein, because no one should have to tolerate _ in the workplace.",
     "L1": "Llame a las oficinas legales de goldstein y goldstein, porque nadie debería tener que tolerar _ en el lugar de trabajo.",
     "L2": "Rufen Sie die Kanzleien von Goldstein und Goldstein an, weil niemand am Arbeitsplatz dulden sollte.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://pics.me.me/in-case-anyone-is-wondering-it-worked-2017-is-off-14812360.png"
   },
   {
     "NumAnswers": 2,
@@ -1965,7 +2210,8 @@
     "O": "When you get right down to it, _ is just _.",
     "L1": "Cuando llegas a eso, _ es solo _.",
     "L2": "Wenn du direkt darauf kommst, _ ist nur _.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://pics.me.me/when-you-get-right-down-to-it-is-just-an-24958057.png"
   },
   {
     "NumAnswers": 1,
@@ -1973,7 +2219,8 @@
     "O": "Turns out that _-Man was neither the hero we needed nor wanted.",
     "L1": "Resulta que _-man no era ni el héroe que necesitábamos ni queríamos.",
     "L2": "Es stellt sich heraus, dass _-man weder der Held war, den wir brauchten noch wollten.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://pics.me.me/mild-autism-2-cards-against-humanity-turns-out-that-man-22732324.png"
   },
   {
     "NumAnswers": 1,
@@ -1981,7 +2228,8 @@
     "O": "As part of his daily regimen, Anderson Cooper sets aside 15 minutes for _.",
     "L1": "Como parte de su régimen diario, anderson cooper reserva 15 minutos para _.",
     "L2": "Im rahmen seiner täglichen regime legt anderson cooper 15 minuten für _ beiseite.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://pics.onsizzle.com/existing-as-part-of-his-daily-regimen-anderson-cooper-sets-29126819.png"
   },
   {
     "NumAnswers": 1,
@@ -1989,7 +2237,8 @@
     "O": "Money can't buy me love, but it can buy me _.",
     "L1": "El dinero no puede comprarme amor, pero puede comprarme _.",
     "L2": "Geld kann mich nicht kaufen Liebe, aber es kann mich kaufen _.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "http://4.bp.blogspot.com/-02zDo6Yx2Ro/UTH8yRnhymI/AAAAAAAAA4E/cwZmEhC9s50/s1600/Money+NEW+2e+EBOOK.jpg"
   },
   {
     "NumAnswers": 2,
@@ -1997,7 +2246,8 @@
     "O": "With enough time and pressure, _ will turn into _.",
     "L1": "Con suficiente tiempo y presión, _ se convertirá en _.",
     "L2": "Mit genügend Zeit und Druck verwandelt sich _ in _.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://res.cloudinary.com/teepublic/image/private/s--Rs5sTse7--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1458606630/production/designs/454186_1.jpg"
   },
   {
     "NumAnswers": 1,
@@ -2005,7 +2255,8 @@
     "O": "And what did you bring for show and tell?",
     "L1": "¿Y qué trajiste para mostrar y contar?",
     "L2": "Und was hast du mitgebracht und erzählt?",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://pics.onsizzle.com/and-what-did-you-bring-for-show-and-tell-an-27868511.png"
   },
   {
     "NumAnswers": 1,
@@ -2013,7 +2264,8 @@
     "O": "During high school, I never really fit in until I found _ club.",
     "L1": "Durante la escuela secundaria, nunca encajé realmente hasta que encontré _ club.",
     "L2": "Während der Highschool passte ich nie wirklich hinein, bis ich den Club fand.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://www.gannett-cdn.com/-mm-/dfd18086b204d13ea814432e447bf496dfde5579/c=326-0-5433-3840/local/-/media/2018/02/12/WIGroup/Oshkosh/636540155354582698-OSH-Natalie-Jackson-020818-JS-0028.jpg?width=540\u0026height=405\u0026fit=crop"
   },
   {
     "NumAnswers": 1,
@@ -2021,7 +2273,8 @@
     "O": "Hey, baby, come back to my place and I'll show you _.",
     "L1": "Hola, bebé, vuelve a mi casa y te mostraré _.",
     "L2": "Hey, Baby, komm zurück zu mir und ich werde es dir zeigen.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "http://funnycardsagainsthumanity.weebly.com/uploads/8/1/0/8/8108580/8528518_orig.jpg"
   },
   {
     "NumAnswers": 2,
@@ -2029,7 +2282,8 @@
     "O": "After months of practice with _, I think I'm finally ready for _.",
     "L1": "Después de meses de práctica con _, creo que finalmente estoy listo para _.",
     "L2": "Nach Monaten des Übens mit _ denke ich, dass ich endlich bereit bin für _.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://pics.onsizzle.com/Facebook-6928b6.png"
   },
   {
     "NumAnswers": 1,
@@ -2037,7 +2291,8 @@
     "O": "To prepare for his upcoming role, Daniel Day-Lewis immersed himself in the world of _.",
     "L1": "Para prepararse para su próximo papel, daniel day-lewis se sumergió en el mundo de _.",
     "L2": "Um sich auf seine bevorstehende rolle vorzubereiten, tauchte daniel day-lewis in die welt von _ ein.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://www.gannett-cdn.com/media/2017/12/22/USATODAY/USATODAY/636495266927219450-UPTA-02798-R1510775984.jpg"
   },
   {
     "NumAnswers": 1,
@@ -2045,7 +2300,8 @@
     "O": "Finally! A service that delivers _ right to your door.",
     "L1": "¡finalmente! Un servicio que entrega _ directamente a su puerta.",
     "L2": "Endlich! ein Service, der bis direkt an Ihre Tür liefert.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://pics.me.me/finally-a-service-that-delivers-right-to-your-door-coat-9858765.png"
   },
   {
     "NumAnswers": 1,
@@ -2053,7 +2309,8 @@
     "O": "My gym teacher got fired for adding _ to the obstacle course.",
     "L1": "Mi profesor de gimnasia fue despedido por agregar _ a la carrera de obstáculos.",
     "L2": "Mein Sportlehrer wurde gefeuert, weil er dem Hindernisparcours hinzugefügt hatte.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "http://cdn.funnyisms.com/76d59e11-63b0-4cc7-b08f-6495fb985efd.jpg"
   },
   {
     "NumAnswers": 2,
@@ -2061,7 +2318,8 @@
     "O": "Having problems with _? Try _!",
     "L1": "Teniendo problemas con _? tratar _!",
     "L2": "Probleme mit _? Versuchen _!",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://pics.onsizzle.com/having-problems-with-try-existing-oncoming-traffic-26226453.png"
   },
   {
     "NumAnswers": 1,
@@ -2069,7 +2327,8 @@
     "O": "As part of his contract, Prince won't perform without _ in his dressing room.",
     "L1": "Como parte de su contrato, el príncipe no actuará sin _ en su camerino.",
     "L2": "Als Teil seines Vertrages wird Prinz nicht _ in seiner Garderobe durchführen.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://2.bp.blogspot.com/-7CGPaluYjak/Vx3IIf0M4qI/AAAAAAABw8o/9jju_mG9D_41GboDjZ8JDNAQE_-EOsR1QCLcB/s1600/Capture.PNG"
   },
   {
     "NumAnswers": 2,
@@ -2077,7 +2336,8 @@
     "O": "Listen, son. If you want to get involved with _, I won't stop you. Just steer clear of _.",
     "L1": "Escucha hijo Si quieres involucrarte con _, no te detendré. solo mantente alejado de _.",
     "L2": "Hör zu, mein Sohn. Wenn Sie sich mit _ engagieren wollen, werde ich Sie nicht aufhalten. einfach weg von _.",
-    "Exp": "CAHe3"
+    "Exp": "CAHe3",
+    "Pic": "https://pics.onsizzle.com/Facebook-The-design-pack-is-so-cool-fad457.png"
   },
   {
     "NumAnswers": 2,
@@ -2085,7 +2345,8 @@
     "O": "I just met you and this is crazy, but here's _, so _ maybe",
     "L1": "Acabo de conocerte y esto es una locura, pero aquí está _, entonces _ tal vez",
     "L2": "Ich habe dich gerade getroffen und das ist verrückt, aber hier ist _, also _ vielleicht",
-    "Exp": "Image1"
+    "Exp": "Image1",
+    "Pic": "https://sd.keepcalm-o-matic.co.uk/i/hey-i-just-met-you-and-this-is-crazy-but-heres-my-picture-so-vote-me-maybe.png"
   },
   {
     "NumAnswers": 1,
@@ -2093,7 +2354,8 @@
     "O": "It's only _ if you get caught!",
     "L1": "Es solo _ si te atrapan!",
     "L2": "Es ist nur _ wenn du erwischt wirst!",
-    "Exp": "Image1"
+    "Exp": "Image1",
+    "Pic": "http://i3.cpcache.com/product/195949512/its_only_illegal_if_you_get_caught_light_tshirt.jpg?color=Natural\u0026height=630\u0026width=630\u0026qv=90"
   },
   {
     "NumAnswers": 1,
@@ -2101,7 +2363,8 @@
     "O": "_: The Next Generation",
     "L1": "_: la próxima generación",
     "L2": "_: die nächste Generation",
-    "Exp": "Image1"
+    "Exp": "Image1",
+    "Pic": "https://cdn1.thr.com/sites/default/files/2017/09/star_trek-_the_next_generation.jpg"
   },
   {
     "NumAnswers": 1,
@@ -2109,7 +2372,8 @@
     "O": "Terminator 4: _",
     "L1": "Terminador 4: _",
     "L2": "Terminator 4: _",
-    "Exp": "Image1"
+    "Exp": "Image1",
+    "Pic": "http://www.ohmygore.com/movies/t4/poster_06.jpg"
   },
   {
     "NumAnswers": 1,
@@ -2117,7 +2381,8 @@
     "O": "Disney presents _ on ice!",
     "L1": "Disney presenta _ en el hielo!",
     "L2": "Disney präsentiert _ auf Eis!",
-    "Exp": "Image1"
+    "Exp": "Image1",
+    "Pic": "http://pixiedustsavings.com/wp-content/uploads/2016/07/Rapunzel-and-Flynn.png"
   },
   {
     "NumAnswers": 1,
@@ -2125,7 +2390,8 @@
     "O": "_. The other white meat.",
     "L1": "_. La otra carne blanca.",
     "L2": "_. das andere weiße Fleisch.",
-    "Exp": "Image1"
+    "Exp": "Image1",
+    "Pic": "http://theinspirationroom.com/daily/commercials/2005/3/the-other-white-meat.jpg"
   },
   {
     "NumAnswers": 2,
@@ -2133,7 +2399,8 @@
     "O": "A _ a day keeps the _ away.",
     "L1": "Un _ al día mantiene al _ lejos.",
     "L2": "Ein Tag hält das _ weg.",
-    "Exp": "Image1"
+    "Exp": "Image1",
+    "Pic": "https://sd.keepcalm-o-matic.co.uk/i-w600/5-a-day-keeps-the-doctor-away.jpg"
   },
   {
     "NumAnswers": 2,
@@ -2141,7 +2408,8 @@
     "O": "I'm sweating like a _ at a _.",
     "L1": "Estoy sudando como un _ en un _.",
     "L2": "Ich schwitze wie ein _ at a _.",
-    "Exp": "Image1"
+    "Exp": "Image1",
+    "Pic": "https://boardofwisdom.com/cachetogo/images/quotes/59664.png"
   },
   {
     "NumAnswers": 1,
@@ -2149,7 +2417,8 @@
     "O": "I love the smell of _ in the morning.",
     "L1": "Me encanta el olor de _ por la mañana.",
     "L2": "Ich liebe den Geruch von _ am Morgen.",
-    "Exp": "Image1"
+    "Exp": "Image1",
+    "Pic": "http://cache.lovethispic.com/uploaded_images/275165-I-Love-The-Smell-Of-Possibility-In-The-Morning.jpg"
   },
   {
     "NumAnswers": 1,
@@ -2157,7 +2426,8 @@
     "O": "You're not gonna believe this, but _.",
     "L1": "No vas a creer esto, pero _.",
     "L2": "Du wirst das nicht glauben, aber _.",
-    "Exp": "Image1"
+    "Exp": "Image1",
+    "Pic": "http://cdn.pidjin.net/wp-content/uploads/old/2030002.jpg"
   },
   {
     "NumAnswers": 1,
@@ -2165,7 +2435,8 @@
     "O": "_. All the cool kids are doing it.",
     "L1": "_. Todos los chicos geniales lo están haciendo.",
     "L2": "_. all die coolen Kinder machen es.",
-    "Exp": "Image1"
+    "Exp": "Image1",
+    "Pic": "http://cdn3.volusion.com/scppy.khmgq/v/vspfiles/photos/1-OhComeOn-2.jpg"
   },
   {
     "NumAnswers": 2,
@@ -2173,7 +2444,8 @@
     "O": "So I was _ in my cubicle at work, and suddenly _!",
     "L1": "Así que estaba _ en mi cubículo en el trabajo, y de repente _!",
     "L2": "So war ich in meiner Kabine bei der Arbeit, und plötzlich _!",
-    "Exp": "Image1"
+    "Exp": "Image1",
+    "Pic": "https://i.imgflip.com/mnzrz.jpg"
   },
   {
     "NumAnswers": 1,
@@ -2181,7 +2453,8 @@
     "O": "Baskin Robbins just added a 32nd flavor: _!",
     "L1": "Baskin robbins acaba de agregar un sabor 32: _!",
     "L2": "Baskin robbins haben gerade einen 32. Geschmack hinzugefügt: _!",
-    "Exp": "Image1"
+    "Exp": "Image1",
+    "Pic": "http://acimg.auctivacommerce.com/imgdata/0/2/4/6/4/0/webimg/6737979.jpg"
   },
   {
     "NumAnswers": 1,
@@ -2189,6 +2462,16 @@
     "O": "I can drive and ____ at the same time.",
     "L1": "Puedo conducir y ____ al mismo tiempo.",
     "L2": "Ich kann fahren und ____ gleichzeitig.",
-    "Exp": "Image1"
+    "Exp": "Image1",
+    "Pic": "http://img.picturequotes.com/2/652/651471/im-a-perfectionist-so-i-can-drive-myself-mad-and-other-people-too-at-the-same-time-i-think-thats-quote-1.jpg"
+  },
+  {
+    "NumAnswers": 1,
+    "I": 1322,
+    "O": "_ ain't nothin' to fuck wit'!",
+    "L1": "_ no es nada joder '!",
+    "L2": "_ ist nicht nichts, um Witz 'zu ficken!",
+    "Exp": "Image1",
+    "Pic": "https://s-media-cache-ak0.pinimg.com/736x/1e/54/d6/1e54d6df117a48e4abe5f166a6ae4296.jpg"
   }
 ]

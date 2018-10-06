@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
+	"github.com/DanShu93/cardsagainst/imagesearch"
 	"github.com/DanShu93/cardsagainst/translator"
 	"io/ioutil"
 	"os"
@@ -31,6 +32,7 @@ func (c Card) TranslateQuestion(l1, l2 string, t translator.Translator) Translat
 		O:          c.Text,
 		L1:         toUpper(t.Translate(c.Text, "en", l1)),
 		L2:         toUpper(t.Translate(c.Text, "en", l2)),
+		Pic:        imagesearch.SearchImage(c.Text),
 	}
 }
 
@@ -41,17 +43,18 @@ func (c Card) TranslateAnswer(l1, l2 string, t translator.Translator) Translated
 		O:   c.Text,
 		L1:  toUpper(t.Translate(c.Text, "en", l1)),
 		L2:  toUpper(t.Translate(c.Text, "en", l2)),
+		Pic: imagesearch.SearchImage(c.Text),
 	}
 }
 
 type TranslatedQuestion struct {
-	NumAnswers, I  int
-	O, L1, L2, Exp string
+	NumAnswers, I       int
+	O, L1, L2, Exp, Pic string
 }
 
 type TranslatedAnswer struct {
-	I              int
-	O, L1, L2, Exp string
+	I                   int
+	O, L1, L2, Exp, Pic string
 }
 
 func toUpper(in string) string {
@@ -89,13 +92,19 @@ func main() {
 	translatedQuestions := make([]TranslatedQuestion, 0)
 	translatedAnswers := make([]TranslatedAnswer, 0)
 
-	for _, c := range cs {
+	for i, c := range cs {
 		switch c.CardType {
 		case "Q":
-			translatedQuestions = append(translatedQuestions, c.TranslateQuestion(os.Getenv(lang1), os.Getenv(lang2), t))
+			q := c.TranslateQuestion(os.Getenv(lang1), os.Getenv(lang2), t)
+			translatedQuestions = append(translatedQuestions, q)
+			fmt.Printf("+%v\n", q)
 		default:
-			translatedAnswers = append(translatedAnswers, c.TranslateAnswer(os.Getenv(lang1), os.Getenv(lang2), t))
+			a := c.TranslateAnswer(os.Getenv(lang1), os.Getenv(lang2), t)
+			translatedAnswers = append(translatedAnswers, a)
+			fmt.Printf("+%v\n", a)
 		}
+
+		fmt.Println(i)
 	}
 
 	o, err := json.Marshal(translatedQuestions)
