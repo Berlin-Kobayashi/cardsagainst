@@ -17,8 +17,8 @@ const theme = createMuiTheme({
     },
 });
 
-const cellHeight = 437;
-const cellWidth = 300;
+const cellHeight = 440;
+const cellWidth = 316;
 const fallback = "https://upload.wikimedia.org/wikipedia/commons/4/48/Inverted_question_mark_alternate.png";
 
 class Main extends Component {

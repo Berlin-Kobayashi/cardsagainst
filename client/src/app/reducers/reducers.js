@@ -5,7 +5,7 @@ import _ from "lodash";
 
 let initialState = {counter: 0, questions: questions, answers: answers};
 
-let prechosen = [{questions: [493], answers: [2001, 12, 349]}, {questions: [872], answers: [116]}];
+let prechosen = [{questions: [493], answers: [2001, 12, 349]}, {questions: [], answers: [554]}];
 
 const reducer = (state = initialState, action) => {
     switch (action.type) {
