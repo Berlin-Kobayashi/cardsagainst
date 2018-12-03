@@ -39,7 +39,7 @@ func (s Translator) Translate(text, from, to string) string {
 
 	translations, err := s.Client.Translate(s.Ctx, []string{strings.ToLower(text)}, target, &opts)
 	if err != nil {
-		log.Fatalf("Failed to TranslateQuestion text: %v", err)
+		log.Fatalf("Failed to Translate text: %v", err)
 	}
 
 	return translations[0].Text

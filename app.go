@@ -4,57 +4,33 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/DanShu93/cardsagainst/imagesearch"
 	"github.com/DanShu93/cardsagainst/translator"
 	"io/ioutil"
 	"os"
 	"strings"
 )
 
-const inputCardsFileName = "cards.json"
-const outputQuestionsFileName = "q.json"
-const outputAnswersFileName = "a.json"
+const cardsFileName = "cards.json"
 const input = "INPUT"
 const output = "OUTPUT"
 const lang1 = "LANG1"
 const lang2 = "LANG2"
 
 type Card struct {
-	Id, NumAnswers            int
-	CardType, Text, Expansion string
+	Type, Content string
 }
 
-func (c Card) TranslateQuestion(l1, l2 string, t translator.Translator) TranslatedQuestion {
-	return TranslatedQuestion{
-		I:          c.Id,
-		Exp:        c.Expansion,
-		NumAnswers: c.NumAnswers,
-		O:          c.Text,
-		L1:         toUpper(t.Translate(c.Text, "en", l1)),
-		L2:         toUpper(t.Translate(c.Text, "en", l2)),
-		Pic:        imagesearch.SearchImage(c.Text),
+func (c Card) Translate(l1, l2 string, t translator.Translator) TranslatedCard {
+	return TranslatedCard{
+		Type: c.Type,
+		L1:   toUpper(t.Translate(c.Content, "en", l1)),
+		L2:   toUpper(t.Translate(c.Content, "en", l2)),
+		O:    c.Content,
 	}
 }
 
-func (c Card) TranslateAnswer(l1, l2 string, t translator.Translator) TranslatedAnswer {
-	return TranslatedAnswer{
-		I:   c.Id,
-		Exp: c.Expansion,
-		O:   c.Text,
-		L1:  toUpper(t.Translate(c.Text, "en", l1)),
-		L2:  toUpper(t.Translate(c.Text, "en", l2)),
-		Pic: imagesearch.SearchImage(c.Text),
-	}
-}
-
-type TranslatedQuestion struct {
-	NumAnswers, I       int
-	O, L1, L2, Exp, Pic string
-}
-
-type TranslatedAnswer struct {
-	I                   int
-	O, L1, L2, Exp, Pic string
+type TranslatedCard struct {
+	O, L1, L2, Type string
 }
 
 func toUpper(in string) string {
@@ -77,7 +53,7 @@ func alphaOnly(char byte) bool {
 func main() {
 	t := translator.New()
 
-	cards, err := ioutil.ReadFile(os.Getenv(input) + "/" + inputCardsFileName)
+	cards, err := ioutil.ReadFile(os.Getenv(input) + "/" + cardsFileName)
 	if err != nil {
 		panic(err)
 	}
@@ -89,40 +65,22 @@ func main() {
 		panic(err)
 	}
 
-	translatedQuestions := make([]TranslatedQuestion, 0)
-	translatedAnswers := make([]TranslatedAnswer, 0)
+	translatedCards := make([]TranslatedCard, 0)
 
 	for i, c := range cs {
-		switch c.CardType {
-		case "Q":
-			q := c.TranslateQuestion(os.Getenv(lang1), os.Getenv(lang2), t)
-			translatedQuestions = append(translatedQuestions, q)
-			fmt.Printf("+%v\n", q)
-		default:
-			a := c.TranslateAnswer(os.Getenv(lang1), os.Getenv(lang2), t)
-			translatedAnswers = append(translatedAnswers, a)
-			fmt.Printf("+%v\n", a)
-		}
+		translatedCard := c.Translate(os.Getenv(lang1), os.Getenv(lang2), t)
+		translatedCards = append(translatedCards, translatedCard)
+		fmt.Printf("+%v\n", translatedCard)
 
 		fmt.Println(i)
 	}
 
-	o, err := json.Marshal(translatedQuestions)
+	o, err := json.Marshal(translatedCards)
 	if err != nil {
 		panic(err)
 	}
 
-	err = ioutil.WriteFile(os.Getenv(output)+"/"+outputQuestionsFileName, o, 0777)
-	if err != nil {
-		panic(err)
-	}
-
-	o, err = json.Marshal(translatedAnswers)
-	if err != nil {
-		panic(err)
-	}
-
-	err = ioutil.WriteFile(os.Getenv(output)+"/"+outputAnswersFileName, o, 0777)
+	err = ioutil.WriteFile(os.Getenv(output)+"/"+cardsFileName, o, 0777)
 	if err != nil {
 		panic(err)
 	}
