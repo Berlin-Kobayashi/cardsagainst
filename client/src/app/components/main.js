@@ -17,8 +17,8 @@ const theme = createMuiTheme({
     },
 });
 
-const cellHeight = 440;
-const cellWidth = 316;
+const cellHeight = 380;
+const cellWidth = 272;
 const fallback = "https://upload.wikimedia.org/wikipedia/commons/4/48/Inverted_question_mark_alternate.png";
 
 class Main extends Component {
@@ -40,50 +40,27 @@ class Main extends Component {
         return (
             <MuiThemeProvider theme={theme}>
                 <GridList cellHeight={cellHeight} cols={4} spacing={20}>
-                    {this.props.questions.map((row, i) =>
-                        this.renderQuestion(row, i)
-                    )}
-                    {this.props.answers.map((row, i) =>
-                        this.renderAnswer(row, i)
+                    {this.props.cards.map((row, i) =>
+                        this.renderCard(row, i)
                     )}
                 </GridList>
             </MuiThemeProvider>
         );
     }
 
-    renderQuestion(data, key) {
-        return <GridListTile key={key} cols={1}>
-            <Card style={{
-                maxWidth: cellWidth, minHeight: cellHeight, backgroundColor: "black",
-                "WebkitPrintColorAdjust": "exact"
-            }}>
-                <CardMedia
-                    component="img"
-                    height="140"
-                    image={data.Pic ? data.Pic : fallback}
-                />
-                <CardContent style={{paddingTop: "2px"}}>
-                    <Typography style={{fontSize: 6, color: "white", marginBottom: 20, marginTop: 0}}>
-                        {data.I + " " + data.O}
-                    </Typography>
-                    <Typography component="p" style={{color: "white", marginBottom: 20}}>
-                        {data.L1}
-                    </Typography>
-                    <Typography component="p" style={{color: "white", marginBottom: 20}}>
-                        {data.L2}
-                    </Typography>
-                    <Typography style={{color: "white"}}>
-                        {"Toma / Nimm: " + data.NumAnswers}
-                    </Typography>
-                </CardContent>
-                <CardActions>
+    renderCard(data, key) {
+        let t = "green";
 
-                </CardActions>
-            </Card>
-        </GridListTile>
-    }
+        switch (data.Type) {
+            case "resource" :
+                t = "blue";
+                break;
+            case "trait" :
+                t = "yellow";
+                break;
 
-    renderAnswer(data, key) {
+        }
+
         return <GridListTile key={key} cols={1}>
             <Card style={{
                 maxWidth: cellWidth, minHeight: cellHeight, backgroundColor: "white",
@@ -91,18 +68,21 @@ class Main extends Component {
             }}>
                 <CardMedia
                     component="img"
-                    height="140"
+                    height="160"
                     image={data.Pic ? data.Pic : fallback}
                 />
                 <CardContent style={{paddingTop: "2px"}}>
-                    <Typography style={{fontSize: 6, color: "black", marginBottom: 20, marginTop: 0}}>
-                        {data.I + " " + data.O}
+                    <Typography component="p" style={{fontSize: 15, color: "black", marginBottom: 40}}>
+                        {data.O}
                     </Typography>
-                    <Typography component="p" style={{color: "black", marginBottom: 20}}>
+                    <Typography component="p" style={{fontSize: 15, color: "black", marginBottom: 40}}>
                         {data.L1}
                     </Typography>
-                    <Typography component="p" style={{color: "black", marginBottom: 20}}>
+                    <Typography component="p" style={{fontSize: 15, color: "black", marginBottom: 20}}>
                         {data.L2}
+                    </Typography>
+                    <Typography component="p" style={{fontSize: 25, color: t, backgroundColor: t}}>
+                        asdsd
                     </Typography>
                 </CardContent>
                 <CardActions>

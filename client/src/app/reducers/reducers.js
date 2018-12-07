@@ -1,23 +1,21 @@
-import questions from '../data/q';
-import answers from '../data/a';
+import cards from '../data/cards';
 import {Actions} from "../actions";
 import _ from "lodash";
 
-let initialState = {counter: 0, questions: questions, answers: answers};
+console.log(cards.length);
 
-let prechosen = [{questions: [493], answers: [2001, 12, 349]}, {questions: [], answers: [554]}];
+let initialState = {counter: 0, cards : cards};
+
+let prechosen = [];
 
 const reducer = (state = initialState, action) => {
     switch (action.type) {
         case Actions.RANDOM:
-            state.questions = getRandomSubarray(questions, 1);
-            state.answers = getRandomSubarray(answers, 10);
+            state.cards = getRandomSubarray(cards, 1);
 
             return _.cloneDeep(state);
         case Actions.PRECHOSEN:
-            state.questions = getForIds(questions, prechosen[state.counter].questions);
-            state.answers = getForIds(answers, prechosen[state.counter].answers);
-            state.counter = state.counter + 1;
+            state.cards = getForIds(cards, prechosen[state.counter].cards);
 
             console.log(state);
 

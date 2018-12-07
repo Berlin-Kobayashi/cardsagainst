@@ -4,8 +4,7 @@ import {connect} from 'react-redux'
 import {random, prechosen} from "../actions";
 
 const mapStateToProps = (state, ownProps) => ({
-    questions: state.questions,
-    answers: state.answers,
+    cards: state.cards,
 });
 
 const mapDispatchToProps = (dispatch, ownProps) => ({

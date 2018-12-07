@@ -522,5 +522,853 @@
   {
     "type": "value",
     "content": "self-determination"
+  },
+  {
+    "type": "recource",
+    "content": "macing plans"
+  },
+  {
+    "type": "recource",
+    "content": "gardening"
+  },
+  {
+    "type": "recource",
+    "content": "doing handycrafts"
+  },
+  {
+    "type": "recource",
+    "content": "constructing"
+  },
+  {
+    "type": "recource",
+    "content": "having a good conversation"
+  },
+  {
+    "type": "recource",
+    "content": "cleaning"
+  },
+  {
+    "type": "recource",
+    "content": "performing martial arts"
+  },
+  {
+    "type": "recource",
+    "content": "buying something nice"
+  },
+  {
+    "type": "recource",
+    "content": "composing music"
+  },
+  {
+    "type": "recource",
+    "content": "climbing"
+  },
+  {
+    "type": "recource",
+    "content": "being in nature"
+  },
+  {
+    "type": "recource",
+    "content": "doing gymnastics"
+  },
+  {
+    "type": "recource",
+    "content": "tidying"
+  },
+  {
+    "type": "recource",
+    "content": "running / jogging"
+  },
+  {
+    "type": "recource",
+    "content": "meeting friends"
+  },
+  {
+    "type": "recource",
+    "content": "cycling"
+  },
+  {
+    "type": "recource",
+    "content": "decorating"
+  },
+  {
+    "type": "recource",
+    "content": "reading"
+  },
+  {
+    "type": "recource",
+    "content": "lying in the sun"
+  },
+  {
+    "type": "recource",
+    "content": "listening to music"
+  },
+  {
+    "type": "recource",
+    "content": "sculpturing"
+  },
+  {
+    "type": "recource",
+    "content": "cooking / baking"
+  },
+  {
+    "type": "recource",
+    "content": "dancing"
+  },
+  {
+    "type": "recource",
+    "content": "writing poetry"
+  },
+  {
+    "type": "recource",
+    "content": "doing needlework"
+  },
+  {
+    "type": "recource",
+    "content": "doing needlework"
+  },
+  {
+    "type": "recource",
+    "content": "meditating"
+  },
+  {
+    "type": "recource",
+    "content": "being with animals"
+  },
+  {
+    "type": "recource",
+    "content": "playing ball"
+  },
+  {
+    "type": "recource",
+    "content": "taking a hot bath"
+  },
+  {
+    "type": "recource",
+    "content": "doing pottery"
+  },
+  {
+    "type": "recource",
+    "content": "doing woodwork"
+  },
+  {
+    "type": "recource",
+    "content": "enjoy a good meal"
+  },
+  {
+    "type": "recource",
+    "content": "wathing a movie"
+  },
+  {
+    "type": "recource",
+    "content": "tailoring"
+  },
+  {
+    "type": "recource",
+    "content": "acting"
+  },
+  {
+    "type": "recource",
+    "content": "making a journey"
+  },
+  {
+    "type": "recource",
+    "content": "canoeing / rowing"
+  },
+  {
+    "type": "recource",
+    "content": "painting / drawing"
+  },
+  {
+    "type": "recource",
+    "content": "cuddling"
+  },
+  {
+    "type": "recource",
+    "content": "having a sauna"
+  },
+  {
+    "type": "recource",
+    "content": "singing"
+  },
+  {
+    "type": "recource",
+    "content": "fencing"
+  },
+  {
+    "type": "recource",
+    "content": "taking a nap"
+  },
+  {
+    "type": "recource",
+    "content": "sitting by the fire"
+  },
+  {
+    "type": "recource",
+    "content": "contemplating / philosophizing"
+  },
+  {
+    "type": "recource",
+    "content": "sailing"
+  },
+  {
+    "type": "recource",
+    "content": "riding"
+  },
+  {
+    "type": "recource",
+    "content": "doing archery"
+  },
+  {
+    "type": "recource",
+    "content": "playing a game"
+  },
+  {
+    "type": "recource",
+    "content": "attending a concert"
+  },
+  {
+    "type": "recource",
+    "content": "praying"
+  },
+  {
+    "type": "recource",
+    "content": "skiing / skating"
+  },
+  {
+    "type": "recource",
+    "content": "doing body care"
+  },
+  {
+    "type": "recource",
+    "content": "swimming / diving"
+  },
+  {
+    "type": "recource",
+    "content": "taking a cold shower"
+  },
+  {
+    "type": "recource",
+    "content": "playing music"
+  },
+  {
+    "type": "recource",
+    "content": "training physical fitness"
+  },
+  {
+    "type": "recource",
+    "content": "writing"
+  },
+  {
+    "type": "recource",
+    "content": "enjoing a massage"
+  },
+  {
+    "type": "recource",
+    "content": "dreaming"
+  },
+  {
+    "type": "recource",
+    "content": "hiking / walking"
+  },
+  {
+    "type": "recource",
+    "content": "doing yoga"
+  },
+  {
+    "type": "recource",
+    "content": "flying"
+  },
+  {
+    "type": "recource",
+    "content": "taking pictures"
+  },
+  {
+    "type": "recource",
+    "content": "tussling"
+  },
+  {
+    "type": "recource",
+    "content": "juggling"
+  },
+  {
+    "type": "recource",
+    "content": "achievement"
+  },
+  {
+    "type": "trait",
+    "content": "exuberant"
+  },
+  {
+    "type": "trait",
+    "content": "spontaneous"
+  },
+  {
+    "type": "trait",
+    "content": "unifying"
+  },
+  {
+    "type": "trait",
+    "content": "secretive"
+  },
+  {
+    "type": "trait",
+    "content": "spiritual"
+  },
+  {
+    "type": "trait",
+    "content": "sensuous"
+  },
+  {
+    "type": "trait",
+    "content": "healing"
+  },
+  {
+    "type": "trait",
+    "content": "profound"
+  },
+  {
+    "type": "trait",
+    "content": "practical"
+  },
+  {
+    "type": "trait",
+    "content": "tolerant"
+  },
+  {
+    "type": "trait",
+    "content": "scientific"
+  },
+  {
+    "type": "trait",
+    "content": "strong-mindet"
+  },
+  {
+    "type": "trait",
+    "content": "subtle"
+  },
+  {
+    "type": "trait",
+    "content": "realistic"
+  },
+  {
+    "type": "trait",
+    "content": "robust"
+  },
+  {
+    "type": "trait",
+    "content": "sociable"
+  },
+  {
+    "type": "trait",
+    "content": "calm"
+  },
+  {
+    "type": "trait",
+    "content": "courteous"
+  },
+  {
+    "type": "trait",
+    "content": "sympathetic"
+  },
+  {
+    "type": "trait",
+    "content": "supportive"
+  },
+  {
+    "type": "trait",
+    "content": "disciplined"
+  },
+  {
+    "type": "trait",
+    "content": "receptive"
+  },
+  {
+    "type": "trait",
+    "content": "responsible"
+  },
+  {
+    "type": "trait",
+    "content": "ambitious"
+  },
+  {
+    "type": "trait",
+    "content": "matter-of-fact"
+  },
+  {
+    "type": "trait",
+    "content": "cordial"
+  },
+  {
+    "type": "trait",
+    "content": "changeable"
+  },
+  {
+    "type": "trait",
+    "content": "persistent"
+  },
+  {
+    "type": "trait",
+    "content": "considerate"
+  },
+  {
+    "type": "trait",
+    "content": "romantic"
+  },
+  {
+    "type": "trait",
+    "content": "respectful"
+  },
+  {
+    "type": "trait",
+    "content": "charming"
+  },
+  {
+    "type": "trait",
+    "content": "contolling"
+  },
+  {
+    "type": "trait",
+    "content": "steadfast"
+  },
+  {
+    "type": "trait",
+    "content": "cautious"
+  },
+  {
+    "type": "trait",
+    "content": "prudent"
+  },
+  {
+    "type": "trait",
+    "content": "protective"
+  },
+  {
+    "type": "trait",
+    "content": "commanding"
+  },
+  {
+    "type": "trait",
+    "content": "preserving"
+  },
+  {
+    "type": "trait",
+    "content": "fastidious"
+  },
+  {
+    "type": "trait",
+    "content": "frank"
+  },
+  {
+    "type": "trait",
+    "content": "descent"
+  },
+  {
+    "type": "trait",
+    "content": "comforting"
+  },
+  {
+    "type": "trait",
+    "content": "loyal"
+  },
+  {
+    "type": "trait",
+    "content": "reliable"
+  },
+  {
+    "type": "trait",
+    "content": "visionary"
+  },
+  {
+    "type": "trait",
+    "content": "versatile"
+  },
+  {
+    "type": "trait",
+    "content": "emotional"
+  },
+  {
+    "type": "trait",
+    "content": "diplomatic"
+  },
+  {
+    "type": "trait",
+    "content": "humble"
+  },
+  {
+    "type": "trait",
+    "content": "confident"
+  },
+  {
+    "type": "trait",
+    "content": "analytical"
+  },
+  {
+    "type": "trait",
+    "content": "clever"
+  },
+  {
+    "type": "trait",
+    "content": "provocative"
+  },
+  {
+    "type": "trait",
+    "content": "political"
+  },
+  {
+    "type": "trait",
+    "content": "active"
+  },
+  {
+    "type": "trait",
+    "content": "bold"
+  },
+  {
+    "type": "trait",
+    "content": "productive"
+  },
+  {
+    "type": "trait",
+    "content": "logical"
+  },
+  {
+    "type": "trait",
+    "content": "conservative"
+  },
+  {
+    "type": "trait",
+    "content": "constructive"
+  },
+  {
+    "type": "trait",
+    "content": "creative"
+  },
+  {
+    "type": "trait",
+    "content": "precise"
+  },
+  {
+    "type": "trait",
+    "content": "questioning"
+  },
+  {
+    "type": "trait",
+    "content": "philosophical"
+  },
+  {
+    "type": "trait",
+    "content": "imaginative"
+  },
+  {
+    "type": "trait",
+    "content": "original"
+  },
+  {
+    "type": "trait",
+    "content": "skilful"
+  },
+  {
+    "type": "trait",
+    "content": "conscientious"
+  },
+  {
+    "type": "trait",
+    "content": "optimistic"
+  },
+  {
+    "type": "trait",
+    "content": "indivitualistic"
+  },
+  {
+    "type": "trait",
+    "content": "aggressive"
+  },
+  {
+    "type": "trait",
+    "content": "generous"
+  },
+  {
+    "type": "trait",
+    "content": "patient"
+  },
+  {
+    "type": "trait",
+    "content": "intuitive"
+  },
+  {
+    "type": "trait",
+    "content": "helpful"
+  },
+  {
+    "type": "trait",
+    "content": "devoted"
+  },
+  {
+    "type": "trait",
+    "content": "hopeful"
+  },
+  {
+    "type": "trait",
+    "content": "humanitarian"
+  },
+  {
+    "type": "trait",
+    "content": "humorous"
+  },
+  {
+    "type": "trait",
+    "content": "self-serving"
+  },
+  {
+    "type": "trait",
+    "content": "idealistic"
+  },
+  {
+    "type": "trait",
+    "content": "exceptional"
+  },
+  {
+    "type": "trait",
+    "content": "passionate"
+  },
+  {
+    "type": "trait",
+    "content": "domestic"
+  },
+  {
+    "type": "trait",
+    "content": "thorough"
+  },
+  {
+    "type": "trait",
+    "content": "imposing"
+  },
+  {
+    "type": "trait",
+    "content": "liberal"
+  },
+  {
+    "type": "trait",
+    "content": "affable"
+  },
+  {
+    "type": "trait",
+    "content": "harmonious"
+  },
+  {
+    "type": "trait",
+    "content": "inventive"
+  },
+  {
+    "type": "trait",
+    "content": "serious"
+  },
+  {
+    "type": "trait",
+    "content": "flamboyant"
+  },
+  {
+    "type": "trait",
+    "content": "extreme"
+  },
+  {
+    "type": "trait",
+    "content": "sensitive"
+  },
+  {
+    "type": "trait",
+    "content": "diligent"
+  },
+  {
+    "type": "trait",
+    "content": "flexible"
+  },
+  {
+    "type": "trait",
+    "content": "exploring"
+  },
+  {
+    "type": "trait",
+    "content": "progressive"
+  },
+  {
+    "type": "trait",
+    "content": "inspirational"
+  },
+  {
+    "type": "trait",
+    "content": "caring"
+  },
+  {
+    "type": "trait",
+    "content": "holistic"
+  },
+  {
+    "type": "trait",
+    "content": "authoritarian"
+  },
+  {
+    "type": "trait",
+    "content": "elegant"
+  },
+  {
+    "type": "trait",
+    "content": "enthusiastic"
+  },
+  {
+    "type": "trait",
+    "content": "determined"
+  },
+  {
+    "type": "trait",
+    "content": "powerful"
+  },
+  {
+    "type": "trait",
+    "content": "playful"
+  },
+  {
+    "type": "trait",
+    "content": "sensual"
+  },
+  {
+    "type": "trait",
+    "content": "resolving"
+  },
+  {
+    "type": "trait",
+    "content": "compassionate"
+  },
+  {
+    "type": "trait",
+    "content": "moderate"
+  },
+  {
+    "type": "trait",
+    "content": "organized"
+  },
+  {
+    "type": "trait",
+    "content": "inquisitive"
+  },
+  {
+    "type": "trait",
+    "content": "informed"
+  },
+  {
+    "type": "trait",
+    "content": "innovative"
+  },
+  {
+    "type": "trait",
+    "content": "cooperative"
+  },
+  {
+    "type": "trait",
+    "content": "mysterious"
+  },
+  {
+    "type": "trait",
+    "content": "gentle"
+  },
+  {
+    "type": "trait",
+    "content": "proud"
+  },
+  {
+    "type": "trait",
+    "content": "energetic"
+  },
+  {
+    "type": "trait",
+    "content": "empathic"
+  },
+  {
+    "type": "trait",
+    "content": "rebellious"
+  },
+  {
+    "type": "trait",
+    "content": "cunning"
+  },
+  {
+    "type": "trait",
+    "content": "modest"
+  },
+  {
+    "type": "trait",
+    "content": "efficient"
+  },
+  {
+    "type": "trait",
+    "content": "pioneering"
+  },
+  {
+    "type": "trait",
+    "content": "direct"
+  },
+  {
+    "type": "trait",
+    "content": "open-minded"
+  },
+  {
+    "type": "trait",
+    "content": "wise"
+  },
+  {
+    "type": "trait",
+    "content": "benevolent"
+  },
+  {
+    "type": "trait",
+    "content": "aspiring"
+  },
+  {
+    "type": "trait",
+    "content": "aesthetical"
+  },
+  {
+    "type": "trait",
+    "content": "courageous"
+  },
+  {
+    "type": "trait",
+    "content": "systematic"
+  },
+  {
+    "type": "trait",
+    "content": "adventurous"
+  },
+  {
+    "type": "trait",
+    "content": "solidary"
+  },
+  {
+    "type": "trait",
+    "content": "just"
+  },
+  {
+    "type": "trait",
+    "content": "relaxt"
+  },
+  {
+    "type": "trait",
+    "content": "autonomous"
+  },
+  {
+    "type": "trait",
+    "content": "balanced"
+  },
+  {
+    "type": "trait",
+    "content": "aware"
+  },
+  {
+    "type": "trait",
+    "content": "communicative"
+  },
+  {
+    "type": "trait",
+    "content": "radical"
   }
 ]

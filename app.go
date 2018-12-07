@@ -4,6 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
+	"github.com/DanShu93/cardsagainst/imagesearch"
 	"github.com/DanShu93/cardsagainst/translator"
 	"io/ioutil"
 	"os"
@@ -26,11 +27,12 @@ func (c Card) Translate(l1, l2 string, t translator.Translator) TranslatedCard {
 		L1:   toUpper(t.Translate(c.Content, "en", l1)),
 		L2:   toUpper(t.Translate(c.Content, "en", l2)),
 		O:    c.Content,
+		Pic:  imagesearch.SearchImage(c.Content),
 	}
 }
 
 type TranslatedCard struct {
-	O, L1, L2, Type string
+	O, L1, L2, Type, Pic string
 }
 
 func toUpper(in string) string {

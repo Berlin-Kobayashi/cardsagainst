@@ -1,0 +1,2403 @@
+[
+  {
+    "O": "faith",
+    "L1": "Fe",
+    "L2": "Glauben",
+    "Type": "value",
+    "Pic": "http://graceuniversity.edu/iip/wp-content/uploads/2012/09/faith.jpeg"
+  },
+  {
+    "O": "consistancy",
+    "L1": "Consistencia",
+    "L2": "Konsistenz",
+    "Type": "value",
+    "Pic": "http://www.quotesforthemind.com/wp-content/uploads/2013/11/Famous-Consistency-Quotes-with-Images-Consistent-Photos-Pictures-Consistency-is-key.png"
+  },
+  {
+    "O": "esteem",
+    "L1": "Estima",
+    "L2": "Wertschätzung",
+    "Type": "value",
+    "Pic": "https://blogs.psychcentral.com/cultivating-contentment/files/2014/03/Self-Esteem.jpg"
+  },
+  {
+    "O": "sensitivity",
+    "L1": "Sensibilidad",
+    "L2": "Empfindlichkeit",
+    "Type": "value",
+    "Pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/HighSensitivity_LowSpecificity_1401x1050.png/1200px-HighSensitivity_LowSpecificity_1401x1050.png"
+  },
+  {
+    "O": "sexuality",
+    "L1": "Sexualidad",
+    "L2": "Sexualität",
+    "Type": "value",
+    "Pic": "https://png.pngtree.com/element_origin_min_pic/16/06/02/16574ff37102287.jpg"
+  },
+  {
+    "O": "safety",
+    "L1": "La seguridad",
+    "L2": "Sicherheit",
+    "Type": "value",
+    "Pic": "http://www.mayansmartguide.com/wp-content/uploads/2014/10/safety-sign.jpg"
+  },
+  {
+    "O": "modesty",
+    "L1": "Modestia",
+    "L2": "Bescheidenheit",
+    "Type": "value",
+    "Pic": "https://gutezitate.com/zitate-bilder/zitat-bescheiden-konnen-nur-die-menschen-sein-die-genug-selbstbewusstsein-haben-gabriel-laub-252991.jpg"
+  },
+  {
+    "O": "sensuality",
+    "L1": "Sensualidad",
+    "L2": "Sinnlichkeit",
+    "Type": "value",
+    "Pic": "http://savvyinspiredwomen.files.wordpress.com/2012/01/sensuality.jpg"
+  },
+  {
+    "O": "self-expression",
+    "L1": "Autoexpresión",
+    "L2": "Selbstausdruck",
+    "Type": "value",
+    "Pic": "http://images.fineartamerica.com/images-medium-large-5/self-expression-paulo-zerbato.jpg"
+  },
+  {
+    "O": "solidarity",
+    "L1": "Solidaridad",
+    "L2": "Solidarität",
+    "Type": "value",
+    "Pic": "http://www.indiaresists.com/wp-content/uploads/2016/09/solidarity-black-red-.jpg"
+  },
+  {
+    "O": "play",
+    "L1": "Jugar",
+    "L2": "Abspielen",
+    "Type": "value",
+    "Pic": "http://www.bakadesuyo.com/wp-content/uploads/2013/01/0305_WVadhd.jpg"
+  },
+  {
+    "O": "meaning",
+    "L1": "Sentido",
+    "L2": "Bedeutung",
+    "Type": "value",
+    "Pic": "http://2.bp.blogspot.com/-pviVCXHqzlY/TzhuIDR1NZI/AAAAAAAAALA/Qb7H30DenRw/s1600/13._Meaning_of_Number_of_Roses.png"
+  },
+  {
+    "O": "authority",
+    "L1": "Autoridad",
+    "L2": "Behörde",
+    "Type": "value",
+    "Pic": "https://deanlbailey.files.wordpress.com/2014/12/authority.jpg"
+  },
+  {
+    "O": "gratitude",
+    "L1": "Gratitud",
+    "L2": "Dankbarkeit",
+    "Type": "value",
+    "Pic": "https://cherieroedirksen.files.wordpress.com/2012/02/quotation-gratitude.jpg"
+  },
+  {
+    "O": "cordiality",
+    "L1": "Cordialidad",
+    "L2": "Herzlichkeit",
+    "Type": "value",
+    "Pic": "http://uploads.jovo.to/idea_attachments/479210/cordiality-5_bigger.jpg?1320329727"
+  },
+  {
+    "O": "education",
+    "L1": "Educación",
+    "L2": "Bildung",
+    "Type": "value",
+    "Pic": "http://www.friendshipcircle.org/blog/wp-content/uploads/2017/05/education-1959551_1920.jpg"
+  },
+  {
+    "O": "holism",
+    "L1": "Holismo",
+    "L2": "Holismus",
+    "Type": "value",
+    "Pic": "http://2.bp.blogspot.com/-EKB6vWbH_ZY/VBi7X63QubI/AAAAAAAABlw/07MtNvAIaRs/s1600/pixels-holism.png"
+  },
+  {
+    "O": "truth",
+    "L1": "Verdad",
+    "L2": "Wahrheit",
+    "Type": "value",
+    "Pic": "http://standrewscobourg.org/wp-content/uploads/2015/11/truth.jpg"
+  },
+  {
+    "O": "vitality",
+    "L1": "Vitalidad",
+    "L2": "Vitalität",
+    "Type": "value",
+    "Pic": "http://customerservicecontactnumbers.co.uk/wp-content/uploads/2016/12/Vitality-Logo.png"
+  },
+  {
+    "O": "hope",
+    "L1": "Esperanza",
+    "L2": "Hoffen",
+    "Type": "value",
+    "Pic": "http://carolaround.com/wp-content/uploads/2013/10/hope-in-focus.jpg"
+  },
+  {
+    "O": "ideals",
+    "L1": "Ideales",
+    "L2": "Ideale",
+    "Type": "value",
+    "Pic": "https://pbs.twimg.com/profile_images/662380320289718273/BBu7ptWR.png"
+  },
+  {
+    "O": "communication",
+    "L1": "Comunicación",
+    "L2": "Kommunikation",
+    "Type": "value",
+    "Pic": "http://ijobs.rutgers.edu/wordpress/wp-content/uploads/2017/01/communication.jpg"
+  },
+  {
+    "O": "flexibility",
+    "L1": "Flexibilidad",
+    "L2": "Flexibilität",
+    "Type": "value",
+    "Pic": "http://2.bp.blogspot.com/-XPf_wrpX40Y/UsZbFoLtqtI/AAAAAAAAXao/HTRf1jg3f2I/s1600/2014+Word+of+the+Year+Flexible.jpg"
+  },
+  {
+    "O": "appreciation",
+    "L1": "Apreciación",
+    "L2": "Anerkennung",
+    "Type": "value",
+    "Pic": "https://www.diarystore.com/sites/default/files/featureimage-inspire/appreciate_quotes.jpg"
+  },
+  {
+    "O": "awareness",
+    "L1": "Conciencia",
+    "L2": "Bewusstsein",
+    "Type": "value",
+    "Pic": "http://theaposition.com/robertfagan/wp-content/uploads/sites/33/2012/03/Awareness1.jpg"
+  },
+  {
+    "O": "relationships",
+    "L1": "Relaciones",
+    "L2": "Beziehungen",
+    "Type": "value",
+    "Pic": "http://www.barqar.com/wp-content/uploads/2016/01/Relationships.jpg"
+  },
+  {
+    "O": "honesty",
+    "L1": "Honestidad",
+    "L2": "Ehrlichkeit",
+    "Type": "value",
+    "Pic": "https://brokentoblended.files.wordpress.com/2014/09/honesty.jpg"
+  },
+  {
+    "O": "logic",
+    "L1": "Lógica",
+    "L2": "Logik",
+    "Type": "value",
+    "Pic": "https://upload.wikimedia.org/wikipedia/commons/7/78/Logic_backstage_in_Orlando_on_April_8_2014.jpg"
+  },
+  {
+    "O": "healing",
+    "L1": "Curación",
+    "L2": "Heilung",
+    "Type": "value",
+    "Pic": "http://www.adoptionbirthmothers.com/wp-content/uploads/2013/11/magic-fairy-dust-of-birthmother-healing.jpg"
+  },
+  {
+    "O": "ease",
+    "L1": "Facilitar",
+    "L2": "Leichtigkeit",
+    "Type": "value",
+    "Pic": "http://hubs4f6gjw47be8628xpls10.wpengine.netdna-cdn.com/aci/wp-content/uploads/sites/2/2015/11/EASE_logo.jpg"
+  },
+  {
+    "O": "humility",
+    "L1": "Humildad",
+    "L2": "Demut",
+    "Type": "value",
+    "Pic": "https://postjesusonline.files.wordpress.com/2015/02/humility.jpg"
+  },
+  {
+    "O": "level-headedness",
+    "L1": "Sensatez",
+    "L2": "Besonnenheit",
+    "Type": "value",
+    "Pic": "https://s3.amazonaws.com/lowres.cartoonstock.com/dating-level_headed-sensible-level_headedness-romance-romantic-mlyn2102_low.jpg"
+  },
+  {
+    "O": "spirituality",
+    "L1": "Espiritualidad",
+    "L2": "Spiritualität",
+    "Type": "value",
+    "Pic": "http://static.dnaindia.com/sites/default/files/styles/half/public/2016/12/06/525904-spirituality.jpg?itok=oSuhjGSz"
+  },
+  {
+    "O": "activity",
+    "L1": "Actividad",
+    "L2": "Aktivität",
+    "Type": "value",
+    "Pic": "https://pbs.twimg.com/profile_images/468591709639954433/MKRLoUv-.jpeg"
+  },
+  {
+    "O": "control",
+    "L1": "Controlar",
+    "L2": "Steuerung",
+    "Type": "value",
+    "Pic": "http://diabetesdad.org/files/2014/10/take-control.jpg"
+  },
+  {
+    "O": "strength",
+    "L1": "Fuerza",
+    "L2": "Stärke",
+    "Type": "value",
+    "Pic": "http://youmatter.suicidepreventionlifeline.org/wp-content/uploads/2015/07/strength_training.jpeg"
+  },
+  {
+    "O": "closeness",
+    "L1": "Cercanía",
+    "L2": "Nähe",
+    "Type": "value",
+    "Pic": "http://static4.quoteswave.com/wp-content/uploads/2011/12/Closeness-has-nothing-to-do-with-distance..jpg"
+  },
+  {
+    "O": "competence",
+    "L1": "Competencia",
+    "L2": "Kompetenz",
+    "Type": "value",
+    "Pic": "http://www.jphotostyle.com/handwriting/images/competence.jpg"
+  },
+  {
+    "O": "loyality",
+    "L1": "Lealtad",
+    "L2": "Loyalität",
+    "Type": "value",
+    "Pic": "http://sdvoice.info/wp-content/uploads/2015/11/loyalty.jpg"
+  },
+  {
+    "O": "humour",
+    "L1": "Humor",
+    "L2": "Humor",
+    "Type": "value",
+    "Pic": "http://upload.wikimedia.org/wikipedia/commons/a/ae/Humour_mouth.png"
+  },
+  {
+    "O": "support",
+    "L1": "Apoyo",
+    "L2": "Unterstützung",
+    "Type": "value",
+    "Pic": "http://theboardgamingway.com/wp-content/uploads/2014/03/support-on-sign-showing-customer-help-and-advice_G1iYTQP_.jpg"
+  },
+  {
+    "O": "relativity",
+    "L1": "Relatividad",
+    "L2": "Relativität",
+    "Type": "value",
+    "Pic": "http://discovermagazine.com/~/media/Images/Issues/2015/april/relativity.jpg"
+  },
+  {
+    "O": "love",
+    "L1": "Amor",
+    "L2": "Liebe",
+    "Type": "value",
+    "Pic": "http://www.loveimagesdownload.com/wp-content/uploads/2016/08/love-367a.jpg"
+  },
+  {
+    "O": "phantasy",
+    "L1": "Fantasía",
+    "L2": "Phantasie",
+    "Type": "value",
+    "Pic": "http://www.mmogames.com/wp-content/uploads/2015/08/phantasy-star-online-2-mag-photon.jpg"
+  },
+  {
+    "O": "profit",
+    "L1": "Lucro",
+    "L2": "Profitieren",
+    "Type": "value",
+    "Pic": "http://cdn.publishyourarticles.net/wp-content/uploads/2015/06/Profit.jpg"
+  },
+  {
+    "O": "joy",
+    "L1": "Alegría",
+    "L2": "Freude",
+    "Type": "value",
+    "Pic": "http://3llcxt21n9ab1ni9vkfg0q1fk0.wpengine.netdna-cdn.com/wp-content/uploads/2014/07/joy.jpg"
+  },
+  {
+    "O": "achievement",
+    "L1": "Logro",
+    "L2": "Leistung",
+    "Type": "value",
+    "Pic": "http://www.performanceinpeople.co.uk/media/uploads/achievement.jpg-1.jpg"
+  },
+  {
+    "O": "diligence",
+    "L1": "Diligencia",
+    "L2": "Sorgfalt",
+    "Type": "value",
+    "Pic": "http://2.bp.blogspot.com/-g85V0lIa2pg/Tz0w-L8FXtI/AAAAAAAADio/_NAqH-UbaUg/s1600/diligence+quote4x6.jpg"
+  },
+  {
+    "O": "self-fulfilment",
+    "L1": "Autocumplimiento",
+    "L2": "Selbstverwirklichung",
+    "Type": "value",
+    "Pic": "http://cdn.rosannadavisonnutrition.com/wp-content/uploads/2015/10/self-actualization-sunset-1200x804.jpg"
+  },
+  {
+    "O": "devotion",
+    "L1": "Devoción",
+    "L2": "Hingabe",
+    "Type": "value",
+    "Pic": "http://emergingindiebands.com/wp-content/uploads/2013/08/Devotion.jpg"
+  },
+  {
+    "O": "freedom",
+    "L1": "Libertad",
+    "L2": "Freiheit",
+    "Type": "value",
+    "Pic": "http://www.thesleuthjournal.com/wp-content/uploads/2013/03/Freedom2.jpg"
+  },
+  {
+    "O": "knowledge",
+    "L1": "Conocimiento",
+    "L2": "Wissen",
+    "Type": "value",
+    "Pic": "https://tobiasmastgrave.files.wordpress.com/2012/10/knowledge.jpg"
+  },
+  {
+    "O": "power",
+    "L1": "Poder",
+    "L2": "Leistung",
+    "Type": "value",
+    "Pic": "https://blogs-images.forbes.com/christinecomaford/files/2015/07/Power-Forbes.jpg"
+  },
+  {
+    "O": "beauty",
+    "L1": "Belleza",
+    "L2": "Schönheit",
+    "Type": "value",
+    "Pic": "http://colleenhouck.com/wp-content/uploads/2014/09/applying-lotion-on-face.jpg"
+  },
+  {
+    "O": "dignity",
+    "L1": "Dignidad",
+    "L2": "Würde",
+    "Type": "value",
+    "Pic": "https://i1.wp.com/aiihpc.org/wp-content/uploads/2015/02/Dignity_in_Care_Logo1.jpg"
+  },
+  {
+    "O": "challenge",
+    "L1": "Reto",
+    "L2": "Herausforderung",
+    "Type": "value",
+    "Pic": "https://www.c4dcafe.com/ipb/uploads/monthly_2015_09/challenge.png.2b3fd1b517990e70354ea8253c918ca0.png"
+  },
+  {
+    "O": "kindness",
+    "L1": "Amabilidad",
+    "L2": "Freundlichkeit",
+    "Type": "value",
+    "Pic": "https://anitashaven.files.wordpress.com/2015/05/wpid-acts-of-kindness-ripple-4-30-2015.png"
+  },
+  {
+    "O": "creativity",
+    "L1": "Creatividad",
+    "L2": "Kreativität",
+    "Type": "value",
+    "Pic": "https://img1.etsystatic.com/005/1/5170325/il_fullxfull.383207057_6q0z.jpg"
+  },
+  {
+    "O": "home",
+    "L1": "Casa",
+    "L2": "Zuhause",
+    "Type": "value",
+    "Pic": "http://mobilehomeideas.com/wp-content/uploads/2014/11/Photos-of-Modern-Green-Mobile-Homes.jpg"
+  },
+  {
+    "O": "purity",
+    "L1": "Pureza",
+    "L2": "Reinheit",
+    "Type": "value",
+    "Pic": "http://3.bp.blogspot.com/-H7YJL_-PYrg/VPh2a4PUSOI/AAAAAAAAIBo/qbRYHnUGYuk/s1600/hungrygeneration-pursuitofpurityprt2355.jpg"
+  },
+  {
+    "O": "groth",
+    "L1": "Groth",
+    "L2": "Groth",
+    "Type": "value",
+    "Pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Groth_WMQ14_%2815%29_%2814420421319%29.jpg/1200px-Groth_WMQ14_%2815%29_%2814420421319%29.jpg"
+  },
+  {
+    "O": "acceptance",
+    "L1": "Aceptación",
+    "L2": "Annahme",
+    "Type": "value",
+    "Pic": "http://adoubleshotofrecovery.com/wp-content/uploads/2014/10/Acceptance.jpg"
+  },
+  {
+    "O": "harmony",
+    "L1": "Armonía",
+    "L2": "Harmonie",
+    "Type": "value",
+    "Pic": "http://fabfempreneurship.com/wp-content/uploads/2016/04/work-harmony.jpg"
+  },
+  {
+    "O": "family",
+    "L1": "Familia",
+    "L2": "Familie",
+    "Type": "value",
+    "Pic": "https://www.designmom.com/wp-content/uploads/2017/08/blairfamily_oaklandcranes1.jpg"
+  },
+  {
+    "O": "ethics",
+    "L1": "ética",
+    "L2": "Ethik",
+    "Type": "value",
+    "Pic": "https://karrierebibel.de/wp-content/uploads/2014/10/Ethik-Definition-Moral.png"
+  },
+  {
+    "O": "simplicity",
+    "L1": "Sencillez",
+    "L2": "Einfachheit",
+    "Type": "value",
+    "Pic": "https://kissablezebralipsandotherthings.files.wordpress.com/2015/04/simplicity.jpg"
+  },
+  {
+    "O": "humaneness",
+    "L1": "Humanidad",
+    "L2": "Menschlichkeit",
+    "Type": "value",
+    "Pic": "http://bhoffert.faculty.noctrl.edu/HST330/Hanzi.Ren.png"
+  },
+  {
+    "O": "initiative",
+    "L1": "Iniciativa",
+    "L2": "Initiative",
+    "Type": "value",
+    "Pic": "https://teamchiptkd.files.wordpress.com/2011/08/initiativepic.jpg"
+  },
+  {
+    "O": "serenity",
+    "L1": "Serenidad",
+    "L2": "Gelassenheit",
+    "Type": "value",
+    "Pic": "http://www.tysto.com/articles06/pics/serenity.jpg"
+  },
+  {
+    "O": "community",
+    "L1": "Comunidad",
+    "L2": "Gemeinschaft",
+    "Type": "value",
+    "Pic": "https://www.carabinercomms.com/blog1/wp-content/uploads/2014/06/Brainstorm.jpg"
+  },
+  {
+    "O": "justice",
+    "L1": "Justicia",
+    "L2": "Gerechtigkeit",
+    "Type": "value",
+    "Pic": "http://adadfirst.com/wp-content/uploads/2015/02/justice.jpg"
+  },
+  {
+    "O": "unity",
+    "L1": "Unidad",
+    "L2": "Einheit",
+    "Type": "value",
+    "Pic": "http://allthingsd.com/files/2013/08/unity3d1.jpg"
+  },
+  {
+    "O": "empathy",
+    "L1": "Empatía",
+    "L2": "Empathie",
+    "Type": "value",
+    "Pic": "http://henryharveybooks.com/wp-content/uploads/2014/08/a-empathy-words.png"
+  },
+  {
+    "O": "fame",
+    "L1": "Fama",
+    "L2": "Ruhm",
+    "Type": "value",
+    "Pic": "https://www.caymancompass.com/core/wp-content/uploads/2016/05/Fame-the-Musical-Read-Only.jpg"
+  },
+  {
+    "O": "wisdom",
+    "L1": "Sabiduría",
+    "L2": "Weisheit",
+    "Type": "value",
+    "Pic": "http://www.markcole.ca/wp-content/uploads/2017/03/Wisdom.jpg"
+  },
+  {
+    "O": "discipline",
+    "L1": "Disciplina",
+    "L2": "Disziplin",
+    "Type": "value",
+    "Pic": "https://i.ytimg.com/vi/2rt9An2OaDs/maxresdefault.jpg"
+  },
+  {
+    "O": "honour",
+    "L1": "Honor",
+    "L2": "Ehre",
+    "Type": "value",
+    "Pic": "http://fc00.deviantart.net/fs70/f/2013/003/3/6/honour_by_dctb-d5qa9x9.jpg"
+  },
+  {
+    "O": "individuality",
+    "L1": "Individualidad",
+    "L2": "Individualität",
+    "Type": "value",
+    "Pic": "http://imgc.allpostersimages.com/images/P-473-488-90/21/2141/ZTPED00Z/posters/individuality.jpg"
+  },
+  {
+    "O": "information",
+    "L1": "Información",
+    "L2": "Information",
+    "Type": "value",
+    "Pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Circle-information.svg/1024px-Circle-information.svg.png"
+  },
+  {
+    "O": "intelligence",
+    "L1": "Inteligencia",
+    "L2": "Intelligenz",
+    "Type": "value",
+    "Pic": "http://img.picturequotes.com/1/802/intelligence-is-quickness-in-seeing-things-as-they-are-quote-1.jpg"
+  },
+  {
+    "O": "cognition",
+    "L1": "Cognición",
+    "L2": "Erkenntnis",
+    "Type": "value",
+    "Pic": "http://www.neuroservice.com/wp-content/uploads/2015/09/cognition.jpg"
+  },
+  {
+    "O": "seriousness",
+    "L1": "Gravedad",
+    "L2": "Schwere",
+    "Type": "value",
+    "Pic": "http://4.bp.blogspot.com/-XvSEkM-oFhY/UVyYQQdgo8I/AAAAAAAAAsw/l4x3X5VDyss/s1600/Seriousness.jpg"
+  },
+  {
+    "O": "will",
+    "L1": "Será",
+    "L2": "Werden",
+    "Type": "value",
+    "Pic": "http://www.rentcafe.com/blog/wp-content/uploads/2012/08/Will-Smith.jpg"
+  },
+  {
+    "O": "innovation",
+    "L1": "Innovación",
+    "L2": "Innovation",
+    "Type": "value",
+    "Pic": "http://www.goaugment.io/wp-content/uploads/2016/07/Innovation-is-an-Attitude.jpg"
+  },
+  {
+    "O": "friendship",
+    "L1": "Amistad",
+    "L2": "Freundschaft",
+    "Type": "value",
+    "Pic": "https://toptrendingtopics.files.wordpress.com/2012/08/friendship_by_rebela_wanted_download.jpg"
+  },
+  {
+    "O": "perfection",
+    "L1": "Perfección",
+    "L2": "Perfektion",
+    "Type": "value",
+    "Pic": "http://pipehacker.com/wp-content/uploads/perfection.jpg"
+  },
+  {
+    "O": "objectivity",
+    "L1": "Objetividad",
+    "L2": "Objektivität",
+    "Type": "value",
+    "Pic": "http://www.myquinstory.info/wp-content/uploads/2014/07/Objectivity.jpg"
+  },
+  {
+    "O": "openness",
+    "L1": "Franqueza",
+    "L2": "Offenheit",
+    "Type": "value",
+    "Pic": "http://blogs.scientificamerican.com/beautiful-minds/files/2013/11/openness.jpg"
+  },
+  {
+    "O": "optimism",
+    "L1": "Optimismo",
+    "L2": "Optimismus",
+    "Type": "value",
+    "Pic": "http://static.oprah.com/images/201203/omag/201203-omag-optimism-600x411.jpg"
+  },
+  {
+    "O": "order",
+    "L1": "Orden",
+    "L2": "Auftrag",
+    "Type": "value",
+    "Pic": "https://thumbs.dreamstime.com/z/order-red-stamp-text-white-44561786.jpg"
+  },
+  {
+    "O": "originality",
+    "L1": "Originalidad",
+    "L2": "Originalität",
+    "Type": "value",
+    "Pic": "http://img.ezinearticles.com/blog/originality.png"
+  },
+  {
+    "O": "sustainability",
+    "L1": "Sostenibilidad",
+    "L2": "Nachhaltigkeit",
+    "Type": "value",
+    "Pic": "https://science10sectionm.files.wordpress.com/2013/09/sustainable-design.jpg"
+  },
+  {
+    "O": "naturalness",
+    "L1": "Naturalidad",
+    "L2": "Natürlichkeit",
+    "Type": "value",
+    "Pic": "https://i.ytimg.com/vi/tqTKeLbjHdw/maxresdefault.jpg"
+  },
+  {
+    "O": "curiosity",
+    "L1": "Curiosidad",
+    "L2": "Neugierde",
+    "Type": "value",
+    "Pic": "https://lightsinthedark.files.wordpress.com/2015/01/msl_selfie_sol868_jan142015_hdr_lr.jpg"
+  },
+  {
+    "O": "benefit",
+    "L1": "Beneficio",
+    "L2": "Vorteil",
+    "Type": "value",
+    "Pic": "https://scstylecaster.files.wordpress.com/2016/06/benefit-brow-collection-2016-review.png"
+  },
+  {
+    "O": "influence",
+    "L1": "Influencia",
+    "L2": "Beeinflussen",
+    "Type": "value",
+    "Pic": "https://cdn.searchenginejournal.com/wp-content/uploads/2017/07/Influence.png"
+  },
+  {
+    "O": "quality",
+    "L1": "Calidad",
+    "L2": "Qualität",
+    "Type": "value",
+    "Pic": "https://workwiththebest.intraway.com/wp-content/uploads/sites/4/2016/11/asd64.png"
+  },
+  {
+    "O": "prosperity",
+    "L1": "Prosperidad",
+    "L2": "Der Wohlstand",
+    "Type": "value",
+    "Pic": "https://christopherbpearman.files.wordpress.com/2012/11/sten.jpg"
+  },
+  {
+    "O": "responcibility",
+    "L1": "Responsabilidad",
+    "L2": "Verantwortung",
+    "Type": "value",
+    "Pic": "http://d3n8a8pro7vhmx.cloudfront.net/modernwhig/pages/545/meta_images/original/responsibility.jpg?1485061948"
+  },
+  {
+    "O": "inspiration",
+    "L1": "Inspiración",
+    "L2": "Inspiration",
+    "Type": "value",
+    "Pic": "https://whatafinesituation.files.wordpress.com/2015/02/inspiration.jpg"
+  },
+  {
+    "O": "integration",
+    "L1": "Integración",
+    "L2": "Integration",
+    "Type": "value",
+    "Pic": "https://conceptodefinicion.de/wp-content/uploads/2016/09/Integraci%C3%B3n.jpg"
+  },
+  {
+    "O": "resoluteness",
+    "L1": "Resolución",
+    "L2": "Entschlossenheit",
+    "Type": "value",
+    "Pic": "http://www.karendivinephotography.com/wp-content/uploads/2014/07/43.-Resoluteness-1-1500x600_c.jpg"
+  },
+  {
+    "O": "experience",
+    "L1": "Experiencia",
+    "L2": "Erfahrung",
+    "Type": "value",
+    "Pic": "http://studentwire.co.uk/wp-content/uploads/2013/03/Work-Experience-alexwhite.jpg"
+  },
+  {
+    "O": "success",
+    "L1": "éxito",
+    "L2": "Erfolg",
+    "Type": "value",
+    "Pic": "http://onlineinternetmarketinghelp.com/wp-content/uploads/2012/12/success1.jpg"
+  },
+  {
+    "O": "effectiveness",
+    "L1": "Eficacia",
+    "L2": "Wirksamkeit",
+    "Type": "value",
+    "Pic": "https://s3-eu-central-1.amazonaws.com/centaur-wp/marketingweek/prod/content/uploads/2017/01/30093951/Effectiveness-e1485769263754.jpg"
+  },
+  {
+    "O": "clarity",
+    "L1": "Claridad",
+    "L2": "Klarheit",
+    "Type": "value",
+    "Pic": "http://www.salesproinsider.com/wp-content/uploads/2013/02/clarity.png"
+  },
+  {
+    "O": "moderateness",
+    "L1": "Moderación",
+    "L2": "Mäßigkeit",
+    "Type": "value",
+    "Pic": "https://www.islamforchristians.com/wp-content/uploads/2015/09/moderateness.jpg"
+  },
+  {
+    "O": "sympahty",
+    "L1": "Simpático",
+    "L2": "Sympahty",
+    "Type": "value",
+    "Pic": "https://www.sympathymessageideas.com/wp-content/uploads/2018/08/sympathy-image-with-sympathy-thinking-of-you.png"
+  },
+  {
+    "O": "courage",
+    "L1": "Valor",
+    "L2": "Mut",
+    "Type": "value",
+    "Pic": "http://media-cache-ak0.pinimg.com/736x/ac/33/a2/ac33a24367cc804fe3165e62ed2d05cc.jpg"
+  },
+  {
+    "O": "progress",
+    "L1": "Progreso",
+    "L2": "Fortschritt",
+    "Type": "value",
+    "Pic": "http://www.emerce.nl/content/uploads/2014/06/progress_GooglePlus_2120x1192.jpg"
+  },
+  {
+    "O": "self-reliance",
+    "L1": "Confianza en sí mismo",
+    "L2": "Eigenständigkeit",
+    "Type": "value",
+    "Pic": "http://farm4.static.flickr.com/3068/2938427647_3afa9e4e55_o.jpg"
+  },
+  {
+    "O": "vision",
+    "L1": "Visión",
+    "L2": "Vision",
+    "Type": "value",
+    "Pic": "http://www.fmed.bu.edu.eg/fmed/en/images/news/vision00.jpg"
+  },
+  {
+    "O": "health",
+    "L1": "Salud",
+    "L2": "Gesundheit",
+    "Type": "value",
+    "Pic": "https://lifeinthegym.files.wordpress.com/2014/08/health_hand.jpg"
+  },
+  {
+    "O": "intuition",
+    "L1": "Intuición",
+    "L2": "Intuition",
+    "Type": "value",
+    "Pic": "https://cauldronsandcupcakes.files.wordpress.com/2012/04/intuition.jpg"
+  },
+  {
+    "O": "adventure",
+    "L1": "Aventuras",
+    "L2": "Abenteuer",
+    "Type": "value",
+    "Pic": "http://quotespictures.com/wp-content/uploads/2014/06/adventure-awaits-go-find-it.jpg"
+  },
+  {
+    "O": "authenticity",
+    "L1": "Autenticidad",
+    "L2": "Authentizität",
+    "Type": "value",
+    "Pic": "http://www.thesimplyluxuriouslife.com/wp-content/uploads/2014/09/authenticity.jpg"
+  },
+  {
+    "O": "peace",
+    "L1": "Paz",
+    "L2": "Frieden",
+    "Type": "value",
+    "Pic": "http://3.bp.blogspot.com/-ffHBsMDdY_8/UPGeGjaDVJI/AAAAAAAAB9A/5eBputAqrLE/s1600/peace.jpg"
+  },
+  {
+    "O": "change",
+    "L1": "Cambio",
+    "L2": "Veränderung",
+    "Type": "value",
+    "Pic": "http://corporatecomplianceinsights.com/wp-content/uploads/2015/10/change.jpg"
+  },
+  {
+    "O": "geligiosity",
+    "L1": "Geligiosidad",
+    "L2": "Geliosität",
+    "Type": "value",
+    "Pic": "https://1.bp.blogspot.com/-rUuyTdPb3T8/WJGNwYxkWbI/AAAAAAAA_O0/xfLxZZRCJY4fZRVgpTPN2HURUBVgUXA2gCLcB/s1600/Religiosity.png"
+  },
+  {
+    "O": "variety",
+    "L1": "Variedad",
+    "L2": "Vielfalt",
+    "Type": "value",
+    "Pic": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Variety_(magazine)_logo.svg/1280px-Variety_(magazine)_logo.svg.png"
+  },
+  {
+    "O": "respect",
+    "L1": "El respeto",
+    "L2": "Respekt",
+    "Type": "value",
+    "Pic": "http://www.bodywelltherapy.com/wp-content/uploads/2016/07/respect-graphic-1024x767.jpg"
+  },
+  {
+    "O": "pleasure",
+    "L1": "Placer",
+    "L2": "Vergnügen",
+    "Type": "value",
+    "Pic": "http://www.paranormalyte.com/wp-content/uploads/2014/01/pleasure.jpg"
+  },
+  {
+    "O": "understanding",
+    "L1": "Comprensión",
+    "L2": "Verstehen",
+    "Type": "value",
+    "Pic": "https://dailydependence.files.wordpress.com/2014/09/42-daily-dependence-undersatnding2.png"
+  },
+  {
+    "O": "trust",
+    "L1": "Confianza",
+    "L2": "Vertrauen",
+    "Type": "value",
+    "Pic": "http://blogs-images.forbes.com/rodgerdeanduncan/files/2014/07/Trust.jpg"
+  },
+  {
+    "O": "care",
+    "L1": "Cuidado",
+    "L2": "Pflege",
+    "Type": "value",
+    "Pic": "http://www.rochester.edu/news/photos/hi_res/hi4082.png"
+  },
+  {
+    "O": "comfort",
+    "L1": "Comodidad",
+    "L2": "Komfort",
+    "Type": "value",
+    "Pic": "http://d2td6mzj4f4e1e.cloudfront.net/wp-content/uploads/sites/8/2014/05/Comfort_Creations_Fabric_Conditioner_1.16L_Range.jpg"
+  },
+  {
+    "O": "patiance",
+    "L1": "Patiance",
+    "L2": "Patiance",
+    "Type": "value",
+    "Pic": "http://www.mlayne.com/wp-content/uploads/2013/06/patience.jpg"
+  },
+  {
+    "O": "cooperation",
+    "L1": "Cooperación",
+    "L2": "Zusammenarbeit",
+    "Type": "value",
+    "Pic": "http://nierocks.areavoices.com/files/2012/03/COOPERATION-GRAPHIC.jpg"
+  },
+  {
+    "O": "abundance",
+    "L1": "Abundancia",
+    "L2": "Fülle",
+    "Type": "value",
+    "Pic": "https://philosophyforchange.files.wordpress.com/2013/07/abundance.jpg"
+  },
+  {
+    "O": "balance",
+    "L1": "Equilibrar",
+    "L2": "Balance",
+    "Type": "value",
+    "Pic": "http://www.scalpacupuncture.org/wp-content/uploads/2015/05/balance2.jpg"
+  },
+  {
+    "O": "self-determination",
+    "L1": "Autodeterminación",
+    "L2": "Selbstbestimmung",
+    "Type": "value",
+    "Pic": "http://siblingleadership.org/wp-content/uploads/2013/07/self_determination.jpg"
+  },
+  {
+    "O": "macing plans",
+    "L1": "Planes de macing",
+    "L2": "Macing-Pläne",
+    "Type": "resource",
+    "Pic": "http://kcwriter.com/wp-content/uploads/2013/12/Woman-drawing-idea-plan-action-diagram.jpg"
+  },
+  {
+    "O": "gardening",
+    "L1": "Jardinería",
+    "L2": "Gartenarbeit",
+    "Type": "resource",
+    "Pic": "http://www.albertsons.com/wp-content/uploads/2013/04/Garden1.jpg"
+  },
+  {
+    "O": "doing handycrafts",
+    "L1": "Haciendo artesanías",
+    "L2": "Handarbeiten machen",
+    "Type": "resource",
+    "Pic": "http://cdn.marksdailyapple.com/wordpress/wp-content/uploads/2013/06/handicraft.jpg"
+  },
+  {
+    "O": "constructing",
+    "L1": "Construyendo",
+    "L2": "Konstruieren",
+    "Type": "resource",
+    "Pic": "http://www.triumf.ca/sites/default/files/images/cyclotron-building-frame.jpg"
+  },
+  {
+    "O": "having a good conversation",
+    "L1": "Tener una buena conversación",
+    "L2": "Ein gutes Gespräch führen",
+    "Type": "resource",
+    "Pic": "https://www.quotemaster.org/images/a8/a8a56a8aabb37ac7eacc4248b673cb3a.jpg"
+  },
+  {
+    "O": "cleaning",
+    "L1": "Limpieza",
+    "L2": "Reinigung",
+    "Type": "resource",
+    "Pic": "https://static1.squarespace.com/static/53698155e4b09cc1fdb1fc41/t/53a4c600e4b0c5f36ab2f31f/1403307548652/"
+  },
+  {
+    "O": "performing martial arts",
+    "L1": "Artes marciales",
+    "L2": "Kampfkunst",
+    "Type": "resource",
+    "Pic": "http://media.gettyimages.com/photos/man-performing-martial-arts-kick-picture-id78362579?s=612x612"
+  },
+  {
+    "O": "buying something nice",
+    "L1": "Comprando algo bueno",
+    "L2": "Etwas Schönes kaufen",
+    "Type": "resource",
+    "Pic": "http://fc01.deviantart.net/fs70/f/2012/261/f/a/khj_go_buy_yourself_something_nice_orangev_by_rozrea14-d5f3nkl.png"
+  },
+  {
+    "O": "composing music",
+    "L1": "Componiendo musica",
+    "L2": "Musik komponieren",
+    "Type": "resource",
+    "Pic": "https://www.artofcomposing.com/wp-content/uploads/2011/09/How-to-Compose-Music.jpg"
+  },
+  {
+    "O": "climbing",
+    "L1": "Alpinismo",
+    "L2": "Klettern",
+    "Type": "resource",
+    "Pic": "https://upload.wikimedia.org/wikipedia/commons/1/16/Coyne_Crack_5.11%2B_-_Supercrack_Buttress_-_Indian_Creek.jpg"
+  },
+  {
+    "O": "being in nature",
+    "L1": "Estar en la naturaleza",
+    "L2": "In der Natur sein",
+    "Type": "resource",
+    "Pic": "http://youngandraw.wpengine.netdna-cdn.com/wp-content/uploads/shutterstock_282962471.jpg"
+  },
+  {
+    "O": "doing gymnastics",
+    "L1": "Haciendo gimnasia",
+    "L2": "Turnen",
+    "Type": "resource",
+    "Pic": "https://valleyleisurelifestyle.files.wordpress.com/2013/10/gymnastics-boy-3.jpg"
+  },
+  {
+    "O": "tidying",
+    "L1": "Ordenando",
+    "L2": "Aufräumen",
+    "Type": "resource",
+    "Pic": "http://budget-maids.com/blog/wp-content/uploads/2013/05/sweeping.jpg"
+  },
+  {
+    "O": "running / jogging",
+    "L1": "Correr / trotar",
+    "L2": "Laufen / Joggen",
+    "Type": "resource",
+    "Pic": "http://www.justrunlah.com/wp-content/uploads/2016/12/woman-running-outdoors-training-at-park-asian-jogging-fitness.jpg"
+  },
+  {
+    "O": "meeting friends",
+    "L1": "Conociendo amigos",
+    "L2": "Freunde treffen",
+    "Type": "resource",
+    "Pic": "https://www.stevenaitchison.co.uk/wp-content/uploads/Group-of-Friends-e1424261865962.jpg"
+  },
+  {
+    "O": "cycling",
+    "L1": "Ciclismo",
+    "L2": "Radfahren",
+    "Type": "resource",
+    "Pic": "http://www.catalanadventures.com/wp-content/uploads/2014/12/P1000509.jpg"
+  },
+  {
+    "O": "decorating",
+    "L1": "Decorar",
+    "L2": "Dekorieren",
+    "Type": "resource",
+    "Pic": "http://www.vintageamericanhome.com/wp-content/uploads/2015/06/Coastal-Bedroom-.jpg"
+  },
+  {
+    "O": "reading",
+    "L1": "Leyendo",
+    "L2": "Lesen",
+    "Type": "resource",
+    "Pic": "http://i.huffpost.com/gen/1789484/thumbs/o-CHILD-READING-facebook.jpg"
+  },
+  {
+    "O": "lying in the sun",
+    "L1": "Tomando el sol",
+    "L2": "In der Sonne liegen",
+    "Type": "resource",
+    "Pic": "http://images.bigcartel.com/product_images/142106293/LeraLynn-LITS_DL.jpg?auto=format\u0026fit=max\u0026h=1000\u0026w=1000"
+  },
+  {
+    "O": "listening to music",
+    "L1": "Escuchando música",
+    "L2": "Musik hören",
+    "Type": "resource",
+    "Pic": "https://frontiersinblog.files.wordpress.com/2017/05/frontiers-in-psychology-group-music-depression.jpg?w=940"
+  },
+  {
+    "O": "sculpturing",
+    "L1": "Esculpiendo",
+    "L2": "Bildhauerei",
+    "Type": "resource",
+    "Pic": "http://static.dudeiwantthat.com/img/entertainment/games/super-sculpey-sculpturing-10818.jpg"
+  },
+  {
+    "O": "cooking / baking",
+    "L1": "Cocinar / hornear",
+    "L2": "Kochen / Backen",
+    "Type": "resource",
+    "Pic": "http://images.gawker.com/gkimycc7nkmx0i8skp6b/c_scale,fl_progressive,q_80,w_800.jpg"
+  },
+  {
+    "O": "dancing",
+    "L1": "Bailando",
+    "L2": "Tanzen",
+    "Type": "resource",
+    "Pic": "http://actinginlondon.co.uk/wp-content/uploads/2016/07/How-Dancing-Helps-an-Actor-Mental-Health-Big-Time.jpg"
+  },
+  {
+    "O": "writing poetry",
+    "L1": "Escribiendo poesia",
+    "L2": "Gedichte schreiben",
+    "Type": "resource",
+    "Pic": "http://www.wikihow.com/images/1/11/Write-a-Quatrain-Poem-Step-7.jpg"
+  },
+  {
+    "O": "doing needlework",
+    "L1": "Haciendo costura",
+    "L2": "Handarbeit machen",
+    "Type": "resource",
+    "Pic": "http://www.paintingstar.com/static/gallery/2014/04/24/jozef-israels-a-woman-doing-needlework.jpg?A+Woman+Doing+Needlework+Artwork+by+Jozef+Israels"
+  },
+  {
+    "O": "doing needlework",
+    "L1": "Haciendo costura",
+    "L2": "Handarbeit machen",
+    "Type": "resource",
+    "Pic": "http://www.paintingstar.com/static/gallery/2014/04/24/jozef-israels-a-woman-doing-needlework.jpg?A+Woman+Doing+Needlework+Artwork+by+Jozef+Israels"
+  },
+  {
+    "O": "meditating",
+    "L1": "Meditando",
+    "L2": "Meditieren",
+    "Type": "resource",
+    "Pic": "http://images.huffingtonpost.com/2015-12-10-1449791906-7155876-meditating.jpg"
+  },
+  {
+    "O": "being with animals",
+    "L1": "Estar con animales",
+    "L2": "Mit den Tieren sein",
+    "Type": "resource",
+    "Pic": "http://servingjoy.com/wp-content/uploads/2015/03/How-Being-Kind-to-Animals-Can-Lead-to-More-Happiness.jpg"
+  },
+  {
+    "O": "playing ball",
+    "L1": "Jugando pelota",
+    "L2": "Ball spielen",
+    "Type": "resource",
+    "Pic": "https://st2.depositphotos.com/1028367/11572/v/950/depositphotos_115721384-stock-illustration-happy-children-playing-with-ball.jpg"
+  },
+  {
+    "O": "taking a hot bath",
+    "L1": "Tomando un baño caliente",
+    "L2": "Ein heißes Bad nehmen",
+    "Type": "resource",
+    "Pic": "http://i.huffpost.com/gen/5206764/thumbs/o-BATH-570.jpg"
+  },
+  {
+    "O": "doing pottery",
+    "L1": "Haciendo cerámica",
+    "L2": "Keramik machen",
+    "Type": "resource",
+    "Pic": "http://thumbs.dreamstime.com/z/learning-pottery-hands-child-adult-doing-32577778.jpg"
+  },
+  {
+    "O": "doing woodwork",
+    "L1": "Haciendo carpinteria",
+    "L2": "Holzarbeiten machen",
+    "Type": "resource",
+    "Pic": "http://www.popentertainment.com/tommymac02.jpg"
+  },
+  {
+    "O": "enjoy a good meal",
+    "L1": "Disfruta de una buena comida",
+    "L2": "Ein gutes Essen genießen",
+    "Type": "resource",
+    "Pic": "http://zenbarbell.com/wp-content/uploads/2013/05/I-love-eating-good-food.jpg"
+  },
+  {
+    "O": "wathing a movie",
+    "L1": "Wathing una película",
+    "L2": "Einen Film drehen",
+    "Type": "resource",
+    "Pic": "https://billsmovieemporium.files.wordpress.com/2012/05/watching-movies-home.jpg"
+  },
+  {
+    "O": "tailoring",
+    "L1": "Sastrería",
+    "L2": "Schneiderei",
+    "Type": "resource",
+    "Pic": "http://www.sin-wah.com/media/catalog/category/tailoring.jpg"
+  },
+  {
+    "O": "acting",
+    "L1": "Interino",
+    "L2": "Schauspielkunst",
+    "Type": "resource",
+    "Pic": "http://educationcareerarticles.com/wp-content/uploads/2013/02/maryland-acting-classes.jpg"
+  },
+  {
+    "O": "making a journey",
+    "L1": "Haciendo un viaje",
+    "L2": "Eine Reise machen",
+    "Type": "resource",
+    "Pic": "https://sg-dae.kxcdn.com/blog/wp-content/uploads/2017/02/to-make-a-journey-dont-change-directions.jpg"
+  },
+  {
+    "O": "canoeing / rowing",
+    "L1": "Piragüismo / remo",
+    "L2": "Kanufahren / Rudern",
+    "Type": "resource",
+    "Pic": "http://3.bp.blogspot.com/-KPCvLHC73VU/Vo7oT0NGcCI/AAAAAAAAKZU/GFBenxB2upc/w1200-h630-p-k-no-nu/01_OT%2BHunter%2BCanoe%2B%2526%2BEssex%2BRowing%2BRig.jpg"
+  },
+  {
+    "O": "painting / drawing",
+    "L1": "Pintando dibujando",
+    "L2": "Malen zeichnen",
+    "Type": "resource",
+    "Pic": "http://4.bp.blogspot.com/-erbS_nSikuo/VCMrB3HvFLI/AAAAAAAAAQA/-o_IyxzLAQk/s1600/IMG_1761.JPG"
+  },
+  {
+    "O": "cuddling",
+    "L1": "Caricias",
+    "L2": "Kuscheln",
+    "Type": "resource",
+    "Pic": "http://www.lovethispic.com/uploaded_images/8989-Cuddling-Puppies.jpg"
+  },
+  {
+    "O": "having a sauna",
+    "L1": "Tener una sauna",
+    "L2": "Eine Sauna haben",
+    "Type": "resource",
+    "Pic": "https://thumb7.shutterstock.com/display_pic_with_logo/362860/362860,1241426860,1/stock-photo-two-beautiful-women-have-a-sauna-session-29621371.jpg"
+  },
+  {
+    "O": "singing",
+    "L1": "Canto",
+    "L2": "Singen",
+    "Type": "resource",
+    "Pic": "http://i.huffpost.com/gen/1228690/images/o-SINGING-facebook.jpg"
+  },
+  {
+    "O": "fencing",
+    "L1": "Esgrima",
+    "L2": "Fechten",
+    "Type": "resource",
+    "Pic": "http://picturesoffences.com/wp-content/uploads/2013/08/white-vinyl-picket-fence.jpg"
+  },
+  {
+    "O": "taking a nap",
+    "L1": "Tomando una siesta",
+    "L2": "Ein Nickerchen machen",
+    "Type": "resource",
+    "Pic": "https://docakilah.files.wordpress.com/2012/03/takinganap.jpg"
+  },
+  {
+    "O": "sitting by the fire",
+    "L1": "Sentado junto al fuego",
+    "L2": "Am Feuer sitzen",
+    "Type": "resource",
+    "Pic": "http://media-cdn.tripadvisor.com/media/photo-s/05/05/76/dd/ballyduff-house.jpg"
+  },
+  {
+    "O": "contemplating / philosophizing",
+    "L1": "Contemplando / filosofando",
+    "L2": "Nachdenken / Philosophieren",
+    "Type": "resource",
+    "Pic": "https://www.artble.com/imgs/e/1/3/734432/two_men_contemplating_the_moon.jpg"
+  },
+  {
+    "O": "sailing",
+    "L1": "Navegación",
+    "L2": "Segeln",
+    "Type": "resource",
+    "Pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2013_Ahmanson_Cup_Regatta_yacht_Zapata_II_b_photo_D_Ramey_Logan.jpg/1920px-2013_Ahmanson_Cup_Regatta_yacht_Zapata_II_b_photo_D_Ramey_Logan.jpg"
+  },
+  {
+    "O": "riding",
+    "L1": "Equitación",
+    "L2": "Reiten",
+    "Type": "resource",
+    "Pic": "https://hoovesblog.files.wordpress.com/2015/01/topline42.jpg"
+  },
+  {
+    "O": "doing archery",
+    "L1": "Haciendo tiro con arco",
+    "L2": "Bogenschießen",
+    "Type": "resource",
+    "Pic": "http://www.mommyniri.com/wp-content/uploads/2012/05/niri-doing-archery.jpg"
+  },
+  {
+    "O": "playing a game",
+    "L1": "Jugando un juego",
+    "L2": "Ein Spiel spielen",
+    "Type": "resource",
+    "Pic": "http://www.kcparent.com/library/GAMES.jpg"
+  },
+  {
+    "O": "attending a concert",
+    "L1": "Asistir a un concierto",
+    "L2": "Ein Konzert besuchen",
+    "Type": "resource",
+    "Pic": "http://www.digitalmusicnews.com/wp-content/uploads/2018/03/audience_concert.jpg"
+  },
+  {
+    "O": "praying",
+    "L1": "Rezando",
+    "L2": "Beten",
+    "Type": "resource",
+    "Pic": "https://biblicalconnection.files.wordpress.com/2013/03/man-praying.jpg"
+  },
+  {
+    "O": "skiing / skating",
+    "L1": "Esquiar / patinar",
+    "L2": "Skifahren / Skaten",
+    "Type": "resource",
+    "Pic": "http://www.sceniccaves.com/wp-content/uploads/2013/11/DSC_9247.jpg"
+  },
+  {
+    "O": "doing body care",
+    "L1": "Haciendo cuidado del cuerpo",
+    "L2": "Körperpflege tun",
+    "Type": "resource",
+    "Pic": "http://thumbs.dreamstime.com/x/beautiful-african-woman-studio-doing-body-care-young-taking-bath-young-skin-relaxation-49330332.jpg"
+  },
+  {
+    "O": "swimming / diving",
+    "L1": "Nadar / bucear",
+    "L2": "Schwimmen / Tauchen",
+    "Type": "resource",
+    "Pic": "http://dailybruin.com/images/2016/03/web.sp_.swimdive.wrap_.file_.jpg"
+  },
+  {
+    "O": "taking a cold shower",
+    "L1": "Tomando una ducha fria",
+    "L2": "Kalt duschen",
+    "Type": "resource",
+    "Pic": "http://333oee3bik6e1t8q4y139009mcg.wpengine.netdna-cdn.com/wp-content/uploads/2013/03/ColdShowerCover-1024x629.png"
+  },
+  {
+    "O": "playing music",
+    "L1": "Tocando musica",
+    "L2": "Musik spielen",
+    "Type": "resource",
+    "Pic": "http://d279m997dpfwgl.cloudfront.net/wp/2014/07/0717_brains-music07.jpg"
+  },
+  {
+    "O": "training physical fitness",
+    "L1": "Entrenamiento físico",
+    "L2": "Körperliche Fitness trainieren",
+    "Type": "resource",
+    "Pic": "https://s3.amazonaws.com/drupal-s3bucket-7j533in9sows/AD_physicalfitness.jpg"
+  },
+  {
+    "O": "writing",
+    "L1": "Escritura",
+    "L2": "Schreiben",
+    "Type": "resource",
+    "Pic": "http://i.huffpost.com/gen/1273836/images/o-WRITING-BUSINESS-PLAN-facebook.jpg"
+  },
+  {
+    "O": "enjoing a massage",
+    "L1": "Disfrutando un masaje",
+    "L2": "Eine massage genießen",
+    "Type": "resource",
+    "Pic": "https://thumb9.shutterstock.com/display_pic_with_logo/76219/300593516/stock-photo-pretty-woman-enjoying-a-massage-at-the-health-spa-300593516.jpg"
+  },
+  {
+    "O": "dreaming",
+    "L1": "Soñando",
+    "L2": "Träumen",
+    "Type": "resource",
+    "Pic": "http://i.huffpost.com/gen/1074262/images/o-DREAMING-facebook.jpg"
+  },
+  {
+    "O": "hiking / walking",
+    "L1": "Caminar / caminar",
+    "L2": "Wandern / Wandern",
+    "Type": "resource",
+    "Pic": "http://cd.visitmelbourne.com/-/media/images/gippsland/things-to-do/outdoor-activities/walking-and-hiking/great-walhalla-alpine-trail_gip_r_supplied-a2f1150_1150x863.jpg?ts=20150730061026\u0026w=480\u0026h=360\u0026crop=1%7Chttp://cd.visitmelbourne.com/-/media/images/gippsland/things-to-do/outdoor-activities/walking-and-hiking/great-walhalla-alpine-trail_gip_r_supplied-a2f1150_1150x863.jpg?ts=20150730061026\u0026w=720\u0026h=540\u0026crop=1"
+  },
+  {
+    "O": "doing yoga",
+    "L1": "Haciendo yoga",
+    "L2": "Yoga machen",
+    "Type": "resource",
+    "Pic": "http://www.fitnpilates.com/wp-content/uploads/2014/09/Yoga.jpeg"
+  },
+  {
+    "O": "flying",
+    "L1": "Volador",
+    "L2": "Fliegend",
+    "Type": "resource",
+    "Pic": "http://harnitzlaw.com/wp-content/uploads/2016/07/plane.jpg"
+  },
+  {
+    "O": "taking pictures",
+    "L1": "Tomando fotos",
+    "L2": "Fotografieren",
+    "Type": "resource",
+    "Pic": "http://smashingtops.com/wp-content/uploads/2013/10/Taking-Pictures.jpg"
+  },
+  {
+    "O": "tussling",
+    "L1": "Pelea",
+    "L2": "Prickelnd",
+    "Type": "resource",
+    "Pic": "http://www.china-tour.cn/images/Urumqi/Sheep-Tussling.jpg"
+  },
+  {
+    "O": "juggling",
+    "L1": "Malabares",
+    "L2": "Jonglieren",
+    "Type": "resource",
+    "Pic": "http://saleemsufi.com/wp-content/uploads/2014/12/Juggling.jpg"
+  },
+  {
+    "O": "achievement",
+    "L1": "Logro",
+    "L2": "Leistung",
+    "Type": "resource",
+    "Pic": "http://www.performanceinpeople.co.uk/media/uploads/achievement.jpg-1.jpg"
+  },
+  {
+    "O": "exuberant",
+    "L1": "Exuberante",
+    "L2": "üppig",
+    "Type": "trait",
+    "Pic": "http://www.dailygood.org/images/home/350/upload/5721.jpg"
+  },
+  {
+    "O": "spontaneous",
+    "L1": "Espontáneo",
+    "L2": "Spontan",
+    "Type": "trait",
+    "Pic": "https://farahzulkifly.files.wordpress.com/2012/07/being-spontaneous.png"
+  },
+  {
+    "O": "unifying",
+    "L1": "Unificando",
+    "L2": "Einigierend",
+    "Type": "trait",
+    "Pic": "https://iseaclear.files.wordpress.com/2013/11/logitech-unifying-receiver-plus-wireless-extender-3.jpg"
+  },
+  {
+    "O": "secretive",
+    "L1": "Reservado",
+    "L2": "Geheimnisvoll",
+    "Type": "trait",
+    "Pic": "http://www.modernservantleader.com/wp-content/uploads/2010/09/secretive-learning-425x282.jpg"
+  },
+  {
+    "O": "spiritual",
+    "L1": "Espiritual",
+    "L2": "Geistig",
+    "Type": "trait",
+    "Pic": "https://90daystospiritualenlightenment.files.wordpress.com/2015/01/spiritualawaking1.jpg"
+  },
+  {
+    "O": "sensuous",
+    "L1": "Sensual",
+    "L2": "Sinnlich",
+    "Type": "trait",
+    "Pic": "http://www.faboverforty.com/wp-content/uploads/2009/08/sensuous-gold.jpg"
+  },
+  {
+    "O": "healing",
+    "L1": "Curación",
+    "L2": "Heilung",
+    "Type": "trait",
+    "Pic": "http://www.adoptionbirthmothers.com/wp-content/uploads/2013/11/magic-fairy-dust-of-birthmother-healing.jpg"
+  },
+  {
+    "O": "profound",
+    "L1": "Profundo",
+    "L2": "Tiefgründig",
+    "Type": "trait",
+    "Pic": "http://i.huffpost.com/gen/1327427/images/o-UNINTENTIONALLY-PROFOUND-facebook.jpg"
+  },
+  {
+    "O": "practical",
+    "L1": "Práctico",
+    "L2": "Praktisch",
+    "Type": "trait",
+    "Pic": "https://uptukhabar.net/wp-content/uploads/2016/03/magnifying-word-practical-10529470.jpg"
+  },
+  {
+    "O": "tolerant",
+    "L1": "Tolerante",
+    "L2": "Tolerant",
+    "Type": "trait",
+    "Pic": "https://www.powerinthegroup.com/wp-content/uploads/2017/08/tolerant_logo_-Prediabetes_and_-Pasta.png"
+  },
+  {
+    "O": "scientific",
+    "L1": "Científico",
+    "L2": "Wissenschaftlich",
+    "Type": "trait",
+    "Pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_Scientific_Method_as_an_Ongoing_Process.svg/1200px-The_Scientific_Method_as_an_Ongoing_Process.svg.png"
+  },
+  {
+    "O": "strong-mindet",
+    "L1": "Mentalidad fuerte",
+    "L2": "Stark denkend",
+    "Type": "trait",
+    "Pic": "http://www.embracethechaos.com/wp-content/uploads/2014/04/strong-mind-istock-photo-291x300.jpg"
+  },
+  {
+    "O": "subtle",
+    "L1": "Sutil",
+    "L2": "Subtil",
+    "Type": "trait",
+    "Pic": "http://pre03.deviantart.net/f751/th/pre/i/2013/235/8/9/be_subtle_by_tylercreatesworlds-d6jerm2.jpg"
+  },
+  {
+    "O": "realistic",
+    "L1": "Realista",
+    "L2": "Realistisch",
+    "Type": "trait",
+    "Pic": "http://imgs.tuts.dragoart.com/how-to-draw-a-realistic-eagle-golden-eagle_1_000000009930_5.jpg"
+  },
+  {
+    "O": "robust",
+    "L1": "Robusto",
+    "L2": "Robust",
+    "Type": "trait",
+    "Pic": "https://cdn.bettertraderacademy.com/wp-content/uploads/2018/09/cs2-FI-min.jpg"
+  },
+  {
+    "O": "sociable",
+    "L1": "Sociable",
+    "L2": "Gesellig",
+    "Type": "trait",
+    "Pic": "https://pbs.twimg.com/profile_images/1823063870/logo_400x400.png"
+  },
+  {
+    "O": "calm",
+    "L1": "Calma",
+    "L2": "Ruhe",
+    "Type": "trait",
+    "Pic": "http://a5.mzstatic.com/us/r30/Purple/v4/dc/91/d9/dc91d9b8-d93c-7b13-c716-93eb679c31a2/mzl.ouueotog.png"
+  },
+  {
+    "O": "courteous",
+    "L1": "Cortés",
+    "L2": "Höflich",
+    "Type": "trait",
+    "Pic": "http://tcelectricalservices.co.uk/wp-content/uploads/2014/11/COURTEOUS.jpg"
+  },
+  {
+    "O": "sympathetic",
+    "L1": "Simpático",
+    "L2": "Sympathisch",
+    "Type": "trait",
+    "Pic": "http://blog.shadygrovefertility.com/wp-content/uploads/2013/08/sympatheticvsparasympatheticeffects.jpg"
+  },
+  {
+    "O": "supportive",
+    "L1": "Apoyo",
+    "L2": "Unterstützend",
+    "Type": "trait",
+    "Pic": "https://librarylostfoundblog.files.wordpress.com/2013/03/supportive.jpg"
+  },
+  {
+    "O": "disciplined",
+    "L1": "Disciplinado",
+    "L2": "Diszipliniert",
+    "Type": "trait",
+    "Pic": "http://myjourney.tv/wp-content/uploads/2017/05/Disciplined-square-400x400.jpg"
+  },
+  {
+    "O": "receptive",
+    "L1": "Receptivo",
+    "L2": "Empfänglich",
+    "Type": "trait",
+    "Pic": "http://www.speechtherapytalk.com/images/receptive-language.png"
+  },
+  {
+    "O": "responsible",
+    "L1": "Responsable",
+    "L2": "Verantwortlich",
+    "Type": "trait",
+    "Pic": "http://blog.zerodean.com/wp-content/uploads/2012/12/you-are-always-responsible-for-how-you-act.gif"
+  },
+  {
+    "O": "ambitious",
+    "L1": "Ambicioso",
+    "L2": "Ehrgeizig",
+    "Type": "trait",
+    "Pic": "http://www.picserver.org/images/highway/phrases/ambitious.jpg"
+  },
+  {
+    "O": "matter-of-fact",
+    "L1": "Cuestión de hecho",
+    "L2": "Sachlich",
+    "Type": "trait",
+    "Pic": "http://www.matteroffact.fr/wp-content/uploads/2016/02/Home_Light.jpg"
+  },
+  {
+    "O": "cordial",
+    "L1": "Cordial",
+    "L2": "Herzlich",
+    "Type": "trait",
+    "Pic": "https://www.stayathomemum.com.au/wp-content/uploads/2016/04/Asprey-Creative-Cottees-Cordial-3-650px.jpg"
+  },
+  {
+    "O": "changeable",
+    "L1": "Cambiable",
+    "L2": "Veränderbar",
+    "Type": "trait",
+    "Pic": "http://captaingrooviss.co.uk/news/wp-content/uploads/2014/09/changeable-H.png"
+  },
+  {
+    "O": "persistent",
+    "L1": "Persistente",
+    "L2": "Hartnäckig",
+    "Type": "trait",
+    "Pic": "http://photos.prnewswire.com/prnfull/20141106/714346"
+  },
+  {
+    "O": "considerate",
+    "L1": "Considerado",
+    "L2": "Rücksichtsvoll",
+    "Type": "trait",
+    "Pic": "http://www.signspecialist.com/journal/wp-photos/obey.gif"
+  },
+  {
+    "O": "romantic",
+    "L1": "Romántico",
+    "L2": "Romantisch",
+    "Type": "trait",
+    "Pic": "https://mageewp.com/wp-content/uploads/2015/09/romantic.jpg"
+  },
+  {
+    "O": "respectful",
+    "L1": "Respetuoso",
+    "L2": "Respektvoll",
+    "Type": "trait",
+    "Pic": "https://static.woxikon.com/images/sprueche/2806.gif"
+  },
+  {
+    "O": "charming",
+    "L1": "Encantador",
+    "L2": "Charmant",
+    "Type": "trait",
+    "Pic": "https://fishofgold.files.wordpress.com/2014/03/prince-charming-disney-prince.jpg"
+  },
+  {
+    "O": "contolling",
+    "L1": "Controlando",
+    "L2": "Kontollieren",
+    "Type": "trait",
+    "Pic": "http://www.preventabusiverelationships.com/images/controlling_relationship_sp_sm.jpg"
+  },
+  {
+    "O": "steadfast",
+    "L1": "Firme",
+    "L2": "Standhaft",
+    "Type": "trait",
+    "Pic": "http://www.missionofmeaning.com/wp-content/uploads/2012/05/Steadfast-title1.png"
+  },
+  {
+    "O": "cautious",
+    "L1": "Cauteloso",
+    "L2": "Vorsichtig",
+    "Type": "trait",
+    "Pic": "http://mcdworkshop.com/2014/wp-content/uploads/2014/11/amplify_03.jpg"
+  },
+  {
+    "O": "prudent",
+    "L1": "Prudente",
+    "L2": "Umsichtig",
+    "Type": "trait",
+    "Pic": "https://davidmathiraj.files.wordpress.com/2013/12/prudent1.jpg"
+  },
+  {
+    "O": "protective",
+    "L1": "Protector",
+    "L2": "Schützend",
+    "Type": "trait",
+    "Pic": "http://2.bp.blogspot.com/_0n55wl3Ex7U/TA5AXs9bK9I/AAAAAAAAC4g/iqePg140iFU/s1600/protective-mother-1024x768-1.jpg"
+  },
+  {
+    "O": "commanding",
+    "L1": "Dominante",
+    "L2": "Befehlend",
+    "Type": "trait",
+    "Pic": "https://upload.wikimedia.org/wikipedia/commons/8/82/US_Navy_060911-N-0576H-001_Commanding_Officer%2C_Provincial_Reconstruction_Team_%28PRT%29_Khost%2C_Cmdr._John_Wade%2C_addresses_Sailors_and_Soldiers_assigned_to_PRT_Khost_during_a_9-11_remembrance_ceremony.jpg"
+  },
+  {
+    "O": "preserving",
+    "L1": "Conservación",
+    "L2": "Konservieren",
+    "Type": "trait",
+    "Pic": "http://www.basicknowledge101.com/photos/2016/foodpreservingjars.jpg"
+  },
+  {
+    "O": "fastidious",
+    "L1": "Fastidioso",
+    "L2": "Anspruchsvoll",
+    "Type": "trait",
+    "Pic": "http://media.tumblr.com/tumblr_l960ewJBPK1qbolbn.jpg"
+  },
+  {
+    "O": "frank",
+    "L1": "Franco",
+    "L2": "Frank",
+    "Type": "trait",
+    "Pic": "https://thegratitudelife.files.wordpress.com/2014/12/frank-sinatra-recording.jpg"
+  },
+  {
+    "O": "descent",
+    "L1": "Descendencia",
+    "L2": "Abstammung",
+    "Type": "trait",
+    "Pic": "https://www.juedische-allgemeine.de/wp-content/uploads/2018/10/2515-1160x580-c-default.jpg"
+  },
+  {
+    "O": "comforting",
+    "L1": "Consolador",
+    "L2": "Tröstlich",
+    "Type": "trait",
+    "Pic": "https://ideas.hallmark.com/wp-content/uploads/2016/09/ComfortingWords.600x600.jpg"
+  },
+  {
+    "O": "loyal",
+    "L1": "Leal",
+    "L2": "Treu",
+    "Type": "trait",
+    "Pic": "http://www.lookupquotes.com/quote_imgs/thumb/being-loyal-quotes.jpg"
+  },
+  {
+    "O": "reliable",
+    "L1": "De confianza",
+    "L2": "Zuverlässig",
+    "Type": "trait",
+    "Pic": "https://marcellusdrilling.com/wp-content/uploads/2018/02/reliable.png"
+  },
+  {
+    "O": "visionary",
+    "L1": "Visionario",
+    "L2": "Visionär",
+    "Type": "trait",
+    "Pic": "http://sourcesofinsight.com/wp-content/uploads/2015/06/image1.png"
+  },
+  {
+    "O": "versatile",
+    "L1": "Versátil",
+    "L2": "Vielseitig",
+    "Type": "trait",
+    "Pic": "http://assets.fwi.co.uk/Versatile-260.jpg"
+  },
+  {
+    "O": "emotional",
+    "L1": "Emocional",
+    "L2": "Emotional",
+    "Type": "trait",
+    "Pic": "http://cdn.quotesgram.com/img/57/70/182219782-606E0DD5-49A6-4313-A923-CE84585DCBB5.jpg"
+  },
+  {
+    "O": "diplomatic",
+    "L1": "Diplomático",
+    "L2": "Diplomatisch",
+    "Type": "trait",
+    "Pic": "http://www.immsolutionsllc.com/sites/default/files/images/intro/diplomat-800.jpg"
+  },
+  {
+    "O": "humble",
+    "L1": "Humilde",
+    "L2": "Demütigen",
+    "Type": "trait",
+    "Pic": "http://www.mentoringleaders.com/wp-content/uploads/2011/10/NHO-ml-front5.jpg"
+  },
+  {
+    "O": "confident",
+    "L1": "Confidente",
+    "L2": "Zuversichtlich",
+    "Type": "trait",
+    "Pic": "http://cdn.tinybuddha.com/wp-content/uploads/2015/01/Confident-Pose.jpg"
+  },
+  {
+    "O": "analytical",
+    "L1": "Analítico",
+    "L2": "Analytisch",
+    "Type": "trait",
+    "Pic": "https://smuggbugg.com/wp-content/uploads/2016/09/analytical-skills.jpg"
+  },
+  {
+    "O": "clever",
+    "L1": "Inteligente",
+    "L2": "Klug",
+    "Type": "trait",
+    "Pic": "https://signalfx.com/wp-content/uploads/2016/02/Clever-Logo-1010x580.png"
+  },
+  {
+    "O": "provocative",
+    "L1": "Provocativo",
+    "L2": "Provokativ",
+    "Type": "trait",
+    "Pic": "https://source44.net/v2017/wp-content/uploads/2018/07/pro-vs-react-1280x640.jpg"
+  },
+  {
+    "O": "political",
+    "L1": "Político",
+    "L2": "Politisch",
+    "Type": "trait",
+    "Pic": "https://collegian.tccd.edu/wp-content/uploads/2013/10/political-incivility-color.jpg"
+  },
+  {
+    "O": "active",
+    "L1": "Activo",
+    "L2": "Aktiv",
+    "Type": "trait",
+    "Pic": "http://mtbrostrevor.com/wp/wp-content/uploads/2013/11/active.png"
+  },
+  {
+    "O": "bold",
+    "L1": "Negrita",
+    "L2": "Fett gedruckt",
+    "Type": "trait",
+    "Pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Blackberry-Bold-9650-Verizon.jpg/1200px-Blackberry-Bold-9650-Verizon.jpg"
+  },
+  {
+    "O": "productive",
+    "L1": "Productivo",
+    "L2": "Produktiv",
+    "Type": "trait",
+    "Pic": "http://mumturnedmom.com/wp-content/uploads/2014/06/productive.jpg"
+  },
+  {
+    "O": "logical",
+    "L1": "Lógico",
+    "L2": "Logisch",
+    "Type": "trait",
+    "Pic": "https://www.brightoncollege.edu/wp-content/uploads/2015/12/bigstock-Great-mind-99125546.jpg"
+  },
+  {
+    "O": "conservative",
+    "L1": "Conservador",
+    "L2": "Konservativ",
+    "Type": "trait",
+    "Pic": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Conservative_logo_2006.svg/1200px-Conservative_logo_2006.svg.png"
+  },
+  {
+    "O": "constructive",
+    "L1": "Constructivo",
+    "L2": "Konstruktiv",
+    "Type": "trait",
+    "Pic": "https://www.sandler.com/sites/default/files/blog/wp-content/uploads/2015/02/Dollarphotoclub_48267466-copy.jpg"
+  },
+  {
+    "O": "creative",
+    "L1": "Creativo",
+    "L2": "Kreativ",
+    "Type": "trait",
+    "Pic": "http://www.morganmclintic.com/wp-content/uploads/2016/03/1000820-creative-1.jpg"
+  },
+  {
+    "O": "precise",
+    "L1": "Preciso",
+    "L2": "Präzise",
+    "Type": "trait",
+    "Pic": "http://www.quickanddirtytips.com/sites/default/files/images/5165/precise_and_accurate.jpg"
+  },
+  {
+    "O": "questioning",
+    "L1": "Interrogatorio",
+    "L2": "Befragung",
+    "Type": "trait",
+    "Pic": "https://classroompromises.files.wordpress.com/2012/02/questioning.gif"
+  },
+  {
+    "O": "philosophical",
+    "L1": "Filosófico",
+    "L2": "Philosophisch",
+    "Type": "trait",
+    "Pic": "http://godhoodism.com/blog/wp-content/uploads/2013/06/Philosophical_Zombies.png"
+  },
+  {
+    "O": "imaginative",
+    "L1": "Imaginativo",
+    "L2": "Einfallsreich",
+    "Type": "trait",
+    "Pic": "http://orig05.deviantart.net/d3e9/f/2011/255/c/b/imaginative_mind_by_keyofdest1ny-d49n1cv.jpg"
+  },
+  {
+    "O": "original",
+    "L1": "Original",
+    "L2": "Original",
+    "Type": "trait",
+    "Pic": "https://thumb7.shutterstock.com/display_pic_with_logo/450076/496821511/stock-vector-original-product-icon-vector-illustration-isolated-on-white-background-original-icon-original-496821511.jpg"
+  },
+  {
+    "O": "skilful",
+    "L1": "Hábil",
+    "L2": "Geschickt",
+    "Type": "trait",
+    "Pic": "http://img.metro.co.uk/i/pix/2010/04/18/article-1271618494914-092F00EE000005DC-599071_636x413.jpg"
+  },
+  {
+    "O": "conscientious",
+    "L1": "Concienzudo",
+    "L2": "Gewissenhaft",
+    "Type": "trait",
+    "Pic": "http://fergusonvalues.com/wp-content/uploads/2012/11/A-conscientious-mason.jpg"
+  },
+  {
+    "O": "optimistic",
+    "L1": "Optimista",
+    "L2": "Optimistisch",
+    "Type": "trait",
+    "Pic": "http://2.bp.blogspot.com/-x7LpIRcHytw/Tarqe4rC4XI/AAAAAAAABFc/2Y8R1Fy2U5g/s1600/OPTIMISTIC.png"
+  },
+  {
+    "O": "indivitualistic",
+    "L1": "Indivitualista",
+    "L2": "Indivitualistisch",
+    "Type": "trait",
+    "Pic": "https://www.tharawat-magazine.com/wp-content/uploads/2015/11/www.tharawat-magazine.com_images_TmagArticleImages_2015_FamilyInstitutions_JaffeGrubman_GettyImages-528840871.jpg"
+  },
+  {
+    "O": "aggressive",
+    "L1": "Agresivo",
+    "L2": "Aggressiv",
+    "Type": "trait",
+    "Pic": "https://ilovemychi.com/wp-content/uploads/2014/01/aggressive-chi-1024x1024.jpg"
+  },
+  {
+    "O": "generous",
+    "L1": "Generoso",
+    "L2": "Großzügig",
+    "Type": "trait",
+    "Pic": "http://bradhoffmann.com/wp-content/uploads/2015/01/generous-building.jpg"
+  },
+  {
+    "O": "patient",
+    "L1": "Paciente",
+    "L2": "Geduldig",
+    "Type": "trait",
+    "Pic": "http://i.huffpost.com/gen/1429682/images/o-PATIENT-HOSPITAL-facebook.jpg"
+  },
+  {
+    "O": "intuitive",
+    "L1": "Intuitivo",
+    "L2": "Intuitiv",
+    "Type": "trait",
+    "Pic": "https://cauldronsandcupcakes.files.wordpress.com/2012/04/intuition.jpg"
+  },
+  {
+    "O": "helpful",
+    "L1": "Servicial",
+    "L2": "Hilfreich",
+    "Type": "trait",
+    "Pic": "https://biochemjm.files.wordpress.com/2013/03/helpful-tips.jpg"
+  },
+  {
+    "O": "devoted",
+    "L1": "Devoto",
+    "L2": "Hingebungsvoll",
+    "Type": "trait",
+    "Pic": "http://press.nationalgeographic.com/files/2013/10/Devoted-cover-image.jpg"
+  },
+  {
+    "O": "hopeful",
+    "L1": "Esperanzado",
+    "L2": "Hoffnungsvoll",
+    "Type": "trait",
+    "Pic": "https://victorypath.files.wordpress.com/2013/11/hopeful-children.jpg"
+  },
+  {
+    "O": "humanitarian",
+    "L1": "Humanitario",
+    "L2": "Humanitär",
+    "Type": "trait",
+    "Pic": "http://thecontentwrangler.com/wp-content/uploads/humanitarian-need.jpg"
+  },
+  {
+    "O": "humorous",
+    "L1": "Humorístico",
+    "L2": "Humorvoll",
+    "Type": "trait",
+    "Pic": "http://3.bp.blogspot.com/-w9wi20KGduw/UfFPxfRvdZI/AAAAAAAAGtw/UR5BhinOZpU/s1600/Funny-Best-Sayings-Life-Humorous-Hilarious-Quotes-226.jpg"
+  },
+  {
+    "O": "self-serving",
+    "L1": "Autoservicio",
+    "L2": "Eigennützig",
+    "Type": "trait",
+    "Pic": "http://1.bp.blogspot.com/-r_-OvkJMsdY/T-G7cgkfWrI/AAAAAAAACnU/uX6YR0-jvXg/s1600/ServingButler.jpg"
+  },
+  {
+    "O": "idealistic",
+    "L1": "Idealista",
+    "L2": "Idealistisch",
+    "Type": "trait",
+    "Pic": "http://fc08.deviantart.net/fs71/i/2011/347/c/e/idealistic_by_auroille-d4j1td2.jpg"
+  },
+  {
+    "O": "exceptional",
+    "L1": "Excepcional",
+    "L2": "Außergewöhnlich",
+    "Type": "trait",
+    "Pic": "http://holynetwork.de/wp-content/uploads/2012/05/Steine-637x320.jpg"
+  },
+  {
+    "O": "passionate",
+    "L1": "Apasionado",
+    "L2": "Leidenschaftlich",
+    "Type": "trait",
+    "Pic": "http://en.dailypakistan.com.pk/wp-content/uploads/2016/06/shutterstock_215020465.jpg"
+  },
+  {
+    "O": "domestic",
+    "L1": "Nacional",
+    "L2": "Inländisch",
+    "Type": "trait",
+    "Pic": "https://brokeassstuart.com/wp-content/pictsnShit/2014/09/domesticg.jpg"
+  },
+  {
+    "O": "thorough",
+    "L1": "Completo",
+    "L2": "Gründlich",
+    "Type": "trait",
+    "Pic": "https://i.ytimg.com/vi/m9oAF6lQD2k/maxresdefault.jpg"
+  },
+  {
+    "O": "imposing",
+    "L1": "Imponente",
+    "L2": "Imposant",
+    "Type": "trait",
+    "Pic": "https://dexterumc.files.wordpress.com/2015/04/imposing_building_by_violetskunk-d3gihga.jpg"
+  },
+  {
+    "O": "liberal",
+    "L1": "Liberal",
+    "L2": "Liberal",
+    "Type": "trait",
+    "Pic": "http://blogs.thenews.com.pk/blogs/wp-content/uploads/2013/04/LIBERAL.jpg"
+  },
+  {
+    "O": "affable",
+    "L1": "Afable",
+    "L2": "Freundlich",
+    "Type": "trait",
+    "Pic": "https://i.ytimg.com/vi/2ZtOT_GYp0Y/maxresdefault.jpg"
+  },
+  {
+    "O": "harmonious",
+    "L1": "Armonioso",
+    "L2": "Harmonisch",
+    "Type": "trait",
+    "Pic": "http://www.dynamicbusiness.com.au/wp-content/uploads/2012/03/team-spirit.jpg"
+  },
+  {
+    "O": "inventive",
+    "L1": "Inventivo",
+    "L2": "Erfinderisch",
+    "Type": "trait",
+    "Pic": "http://2.bp.blogspot.com/-hM9y5d-W07U/UyXHBRgx8DI/AAAAAAAAw2c/oDTIFBbWWsg/s1600/inventive.png"
+  },
+  {
+    "O": "serious",
+    "L1": "Grave",
+    "L2": "Ernst",
+    "Type": "trait",
+    "Pic": "http://reverse-heart-disease.com/wp-content/uploads/2014/08/serious-boss.jpg"
+  },
+  {
+    "O": "flamboyant",
+    "L1": "Extravagante",
+    "L2": "Extravagant",
+    "Type": "trait",
+    "Pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Royal_Poinciana.jpg/1200px-Royal_Poinciana.jpg"
+  },
+  {
+    "O": "extreme",
+    "L1": "Extremo",
+    "L2": "Extrem",
+    "Type": "trait",
+    "Pic": "http://nepascene.com/wp-content/uploads/2015/01/extreme-band.jpg"
+  },
+  {
+    "O": "sensitive",
+    "L1": "Sensible",
+    "L2": "Empfindlich",
+    "Type": "trait",
+    "Pic": "http://space-healthcare.com/wp-content/uploads/2015/01/sensitive-teeth.jpg"
+  },
+  {
+    "O": "diligent",
+    "L1": "Diligente",
+    "L2": "Fleißig",
+    "Type": "trait",
+    "Pic": "http://1.bp.blogspot.com/-WGv-xjGxGSg/Thxm5AmW2nI/AAAAAAAAAPQ/8yugXGh4OHU/s1600/diligent.gif"
+  },
+  {
+    "O": "flexible",
+    "L1": "Flexible",
+    "L2": "Flexibel",
+    "Type": "trait",
+    "Pic": "http://www.careerattraction.com/wp-content/uploads/2013/02/flexible.jpg"
+  },
+  {
+    "O": "exploring",
+    "L1": "Explorador",
+    "L2": "Erforschen",
+    "Type": "trait",
+    "Pic": "http://greenenterprise.ca/GEM/wp-content/uploads/2013/04/photodune-3834653-exploring-l.jpg"
+  },
+  {
+    "O": "progressive",
+    "L1": "Progresivo",
+    "L2": "Progressiv",
+    "Type": "trait",
+    "Pic": "http://www.androidguys.com/wp-content/uploads/2010/04/progressive.jpeg"
+  },
+  {
+    "O": "inspirational",
+    "L1": "Inspirador",
+    "L2": "Inspirierend",
+    "Type": "trait",
+    "Pic": "http://www.abroadstudy.net/wp-content/uploads/Inspirational-And-Motivational-Wallpapers-With-Quotes-For-Computer6.jpg"
+  },
+  {
+    "O": "caring",
+    "L1": "Cuidando",
+    "L2": "Pflege",
+    "Type": "trait",
+    "Pic": "http://1.bp.blogspot.com/-0w9aYLI_zn8/TdFe9wr1NPI/AAAAAAAAAkA/DlzkN_Whph8/s1600/caring.jpg"
+  },
+  {
+    "O": "holistic",
+    "L1": "Holístico",
+    "L2": "Ganzheitlich",
+    "Type": "trait",
+    "Pic": "http://3.bp.blogspot.com/-sfxbZT1ly9o/Uf0JsYyLnkI/AAAAAAAAJl4/xYV8tQ905Uo/s1600/Holistic-Approach.jpg"
+  },
+  {
+    "O": "authoritarian",
+    "L1": "Autoritario",
+    "L2": "Autoritär",
+    "Type": "trait",
+    "Pic": "https://amberbuddy.com.au/blog/wp-content/uploads/2014/09/authoritarian-parenting-style.jpg"
+  },
+  {
+    "O": "elegant",
+    "L1": "Elegante",
+    "L2": "Elegant",
+    "Type": "trait",
+    "Pic": "http://www.cstylejeans.com/wp-content/uploads/2016/03/elegant-evening-dresses-short.jpg"
+  },
+  {
+    "O": "enthusiastic",
+    "L1": "Entusiasta",
+    "L2": "Begeistert",
+    "Type": "trait",
+    "Pic": "https://hiring-assets.careerbuilder.com/media/attachments/careerbuilder-ar_post-301.jpg?1464641945"
+  },
+  {
+    "O": "determined",
+    "L1": "Determinado",
+    "L2": "Entschlossen",
+    "Type": "trait",
+    "Pic": "http://cloud-juice.net/wp-content/uploads/2013/05/determined-baby-767x250.png"
+  },
+  {
+    "O": "powerful",
+    "L1": "Poderoso",
+    "L2": "Mächtig",
+    "Type": "trait",
+    "Pic": "http://speakermagazine.com/wp-content/uploads/2013/09/powerful-platform.jpg"
+  },
+  {
+    "O": "playful",
+    "L1": "Juguetón",
+    "L2": "Spielerisch",
+    "Type": "trait",
+    "Pic": "http://typeinspire.com/wp-content/uploads/playful2.jpg"
+  },
+  {
+    "O": "sensual",
+    "L1": "Sensual",
+    "L2": "Sinnlich",
+    "Type": "trait",
+    "Pic": "http://img14.deviantart.net/062f/i/2014/136/c/9/sensual_by_zieniu_by_zieniu-d7il8e3.jpg"
+  },
+  {
+    "O": "resolving",
+    "L1": "Resolviendo",
+    "L2": "Lösung",
+    "Type": "trait",
+    "Pic": "http://charlesstone.com/wp-content/uploads/2014/06/conflict-stick-man.jpg"
+  },
+  {
+    "O": "compassionate",
+    "L1": "Compasivo",
+    "L2": "Mitfühlend",
+    "Type": "trait",
+    "Pic": "http://www.socialworker.com/downloads/271/download/compassion600.jpg?cb=3d68a3b5b0acccce886346669982fe87"
+  },
+  {
+    "O": "moderate",
+    "L1": "Moderar",
+    "L2": "Mäßig",
+    "Type": "trait",
+    "Pic": "http://static1.squarespace.com/static/52c2df7ae4b0d215dded86fd/536fab69e4b00b0fd2515399/5448fdcbe4b018a3e3bfaa6d/1414081493021/?format=1000w"
+  },
+  {
+    "O": "organized",
+    "L1": "Organizado",
+    "L2": "Organisiert",
+    "Type": "trait",
+    "Pic": "http://learningworksforkids.com/wp-content/uploads/things-organized-neatly-clipboard.jpg"
+  },
+  {
+    "O": "inquisitive",
+    "L1": "Inquisitivo",
+    "L2": "Neugierig",
+    "Type": "trait",
+    "Pic": "http://www.clickinmoms.com/cmprodaily/wp-content/uploads/2015/05/Inquisitive-Mind_Melina.jpg"
+  },
+  {
+    "O": "informed",
+    "L1": "Informado",
+    "L2": "Informiert",
+    "Type": "trait",
+    "Pic": "https://pbs.twimg.com/profile_images/901072622166966272/x1GZeWOO_400x400.jpg"
+  },
+  {
+    "O": "innovative",
+    "L1": "Innovador",
+    "L2": "Innovativ",
+    "Type": "trait",
+    "Pic": "https://prayojana2k13yits.files.wordpress.com/2013/01/innovative-ideas-2.jpg"
+  },
+  {
+    "O": "cooperative",
+    "L1": "Cooperativa",
+    "L2": "Genossenschaft",
+    "Type": "trait",
+    "Pic": "https://visionredefine.files.wordpress.com/2015/08/business-cooperation_0.jpg"
+  },
+  {
+    "O": "mysterious",
+    "L1": "Misterioso",
+    "L2": "Geheimnisvoll",
+    "Type": "trait",
+    "Pic": "http://fc03.deviantart.net/fs70/i/2012/126/0/8/mysterious_text_by_mysterious_master_x-d4yrs4w.jpg"
+  },
+  {
+    "O": "gentle",
+    "L1": "Amable",
+    "L2": "Sanft",
+    "Type": "trait",
+    "Pic": "http://s3.amazonaws.com/tgc-ee2/articles/gentleness.jpg"
+  },
+  {
+    "O": "proud",
+    "L1": "Orgulloso",
+    "L2": "Stolz",
+    "Type": "trait",
+    "Pic": "http://2.bp.blogspot.com/-2GdIXeTJwtU/UyMc7LX5UDI/AAAAAAAAEn0/abaH2kxJ5PI/s1600/PROUD.png"
+  },
+  {
+    "O": "energetic",
+    "L1": "Energético",
+    "L2": "Energisch",
+    "Type": "trait",
+    "Pic": "http://s.isha.ws/blog/wp-content/uploads/2015/09/becoming-truly-energetic-alive.jpg"
+  },
+  {
+    "O": "empathic",
+    "L1": "Empático",
+    "L2": "Empathisch",
+    "Type": "trait",
+    "Pic": "https://reneetarot.files.wordpress.com/2015/03/empathic.jpg"
+  },
+  {
+    "O": "rebellious",
+    "L1": "Rebelde",
+    "L2": "Rebellisch",
+    "Type": "trait",
+    "Pic": "http://www.harvardbusinessmanager.de/images/image-175640-hbm_panoV9article-pjwb-175640.jpg"
+  },
+  {
+    "O": "cunning",
+    "L1": "Astucia",
+    "L2": "Gerissen",
+    "Type": "trait",
+    "Pic": "https://s3.amazonaws.com/media.eremedia.com/uploads/2014/07/15174354/iStock_000001939130Small-700x467.jpg"
+  },
+  {
+    "O": "modest",
+    "L1": "Modesto",
+    "L2": "Bescheiden",
+    "Type": "trait",
+    "Pic": "https://www.soft-skills.com/wp-content/uploads/bescheidenheit-bescheiden-sein-be-humble-117995604-580x387.jpg"
+  },
+  {
+    "O": "efficient",
+    "L1": "Eficiente",
+    "L2": "Effizient",
+    "Type": "trait",
+    "Pic": "http://digneconsult.com/wp-content/uploads/2014/11/efficient-worker.jpg"
+  },
+  {
+    "O": "pioneering",
+    "L1": "Pionero",
+    "L2": "Wegweisend",
+    "Type": "trait",
+    "Pic": "http://upload.wikimedia.org/wikipedia/en/c/cf/Pioneering_decorative_gateway.jpg"
+  },
+  {
+    "O": "direct",
+    "L1": "Directo",
+    "L2": "Direkte",
+    "Type": "trait",
+    "Pic": "https://www.openmarket.com/wp-content/uploads/2016/02/direct-big.jpg"
+  },
+  {
+    "O": "open-minded",
+    "L1": "Mente abierta",
+    "L2": "Offen",
+    "Type": "trait",
+    "Pic": "http://www.ncourtenaychurchofchrist.com/wp-content/uploads/2015/01/open-minded-2.jpg"
+  },
+  {
+    "O": "wise",
+    "L1": "Sabio",
+    "L2": "Weise",
+    "Type": "trait",
+    "Pic": "https://static1.squarespace.com/static/58fbd8bd59cc68d776f7ea01/t/59b6ff856f4ca3743c54dba9/1505165258964/brett-wisdom_pyramid-freebies-full.png?format=1500w"
+  },
+  {
+    "O": "benevolent",
+    "L1": "Benevolente",
+    "L2": "Wohlwollend",
+    "Type": "trait",
+    "Pic": "http://www.freechurchaccounting.com/images/HelpUp.jpg"
+  },
+  {
+    "O": "aspiring",
+    "L1": "Ambicioso",
+    "L2": "Strebend",
+    "Type": "trait",
+    "Pic": "http://sites.psu.edu/explorenewzealand/wp-content/uploads/sites/23334/2015/03/Aspiring-Dart-glacier.jpg"
+  },
+  {
+    "O": "aesthetical",
+    "L1": "Estética",
+    "L2": "ästhetisch",
+    "Type": "trait",
+    "Pic": "http://vignette4.wikia.nocookie.net/roblox/images/6/6e/Prison_life.jpg/revision/latest?cb=20150614020158"
+  },
+  {
+    "O": "courageous",
+    "L1": "Valiente",
+    "L2": "Mutig",
+    "Type": "trait",
+    "Pic": "http://www.dvdactive.com/images/news/screenshot/2011/11/courageousartworkpic1.jpg"
+  },
+  {
+    "O": "systematic",
+    "L1": "Sistemático",
+    "L2": "Systematisch",
+    "Type": "trait",
+    "Pic": "http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-be-systematic.png"
+  },
+  {
+    "O": "adventurous",
+    "L1": "Aventurero",
+    "L2": "Abenteuerlich",
+    "Type": "trait",
+    "Pic": "http://www.goway.com/media/uploads/trip_ideas/active_and_adventurous_1_hero.jpg"
+  },
+  {
+    "O": "solidary",
+    "L1": "Solidario",
+    "L2": "Solidarisch",
+    "Type": "trait",
+    "Pic": "http://www.1888pressrelease.com/product_images/241953/immigration_solidary_paul_chehade_6_.jpg"
+  },
+  {
+    "O": "just",
+    "L1": "Sólo",
+    "L2": "Gerade",
+    "Type": "trait",
+    "Pic": "http://justcreative.com/wp-content/uploads/2012/03/just-launched.gif"
+  },
+  {
+    "O": "relaxt",
+    "L1": "Relaxt",
+    "L2": "Entspannen",
+    "Type": "trait",
+    "Pic": "http://www.artsypam.com/work/camp/full-img/tea/pd_relaxt_mailer.jpg"
+  },
+  {
+    "O": "autonomous",
+    "L1": "Autónomo",
+    "L2": "Autonom",
+    "Type": "trait",
+    "Pic": "http://media2.govtech.com/images/Flickr-Mercedes-F015-self-driving-autonomous.jpg"
+  },
+  {
+    "O": "balanced",
+    "L1": "Equilibrado",
+    "L2": "Ausgewogen",
+    "Type": "trait",
+    "Pic": "https://evmc2.files.wordpress.com/2013/06/balance.jpg"
+  },
+  {
+    "O": "aware",
+    "L1": "Consciente",
+    "L2": "Bewusst",
+    "Type": "trait",
+    "Pic": "https://cancercantsitwithus.files.wordpress.com/2015/10/aware.jpg"
+  },
+  {
+    "O": "communicative",
+    "L1": "Comunicativo",
+    "L2": "Gesprächig",
+    "Type": "trait",
+    "Pic": "https://wlteacher.files.wordpress.com/2012/08/screen-shot-2013-04-15-at-8-14-37-am.png"
+  },
+  {
+    "O": "radical",
+    "L1": "Radical",
+    "L2": "Radikale",
+    "Type": "trait",
+    "Pic": "http://www.photos-public-domain.com/wp-content/uploads/2011/09/radical.jpg"
+  }
+]
